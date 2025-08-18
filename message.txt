@@ -39,3 +39,7 @@ Example: N/A
 Meaning: Obsolete form of kite.
 Example: N/A
 
+[2025-08-18 18:23:17] Word of the Day: armies
+Meaning: A large, highly organized military force, concerned mainly with ground (rather than air or naval) operations.
+Example: The army was sent in to quell the uprising.
+
