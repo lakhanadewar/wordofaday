@@ -23,18 +23,6 @@ jobs:
       - name: Get word and draft message
         run: python word_generator.py
 
-      - name: Send email
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: ${{ secrets.MAIL_SERVER_ADDRESS }}
-          server_port: ${{ secrets.MAIL_SERVER_PORT }}
-          username: ${{ secrets.MAIL_USERNAME }}
-          password: ${{ secrets.MAIL_PASSWORD }}
-          subject: 'Word of the Day'
-          body: file://message.txt
-          to: ${{ secrets.MAIL_RECIPIENT }}
-          from: ${{ secrets.MAIL_SENDER }}
-
       - name: Commit and push changes
         run: |
           git config user.name github-actions[bot]
@@ -42,5 +30,3 @@ jobs:
           git add message.txt
           git commit -m "Daily word and message update"
           git push
-
-
