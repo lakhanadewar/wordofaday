@@ -105,3 +105,7 @@ Example: N/A
 Meaning: To imprison.
 Example: N/A
 
+[2025-08-19 18:53:49] Word of the Day: redux
+Meaning: (of a topic) Redone, restored, brought back, or revisited.
+Example: After an unusually cold August, September felt like summer redux as a heatwave sent temperatures soaring.
+
