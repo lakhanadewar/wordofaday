@@ -81,3 +81,7 @@ Example: N/A
 Meaning: To decay or rot.
 Example: N/A
 
+[2025-08-19 17:39:20] Word of the Day: dorados
+Meaning: Coryphaena hippurus, the mahi-mahi or dolphin, a species of fish with a dorsal fin that runs the length of the body, also known for iridescent coloration.
+Example: N/A
+
