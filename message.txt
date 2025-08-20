@@ -127,3 +127,7 @@ Example: A religious sect.
 Meaning: A cloak.
 Example: N/A
 
+[2025-08-20 09:45:19] Word of the Day: weft
+Meaning: The horizontal threads that are interlaced through the warp in a woven fabric.
+Example: N/A
+
