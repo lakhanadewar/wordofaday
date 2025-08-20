@@ -119,3 +119,7 @@ Example: N/A
 Meaning: A repertoire
 Example: N/A
 
+[2025-08-20 09:00:05] Word of the Day: sects
+Meaning: An offshoot of a larger religion; a group sharing particular (often unorthodox) political and/or religious beliefs.
+Example: A religious sect.
+
