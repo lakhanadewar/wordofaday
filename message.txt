@@ -135,3 +135,7 @@ Example: N/A
 Meaning: A postage stamp that is part of a thematic collection.
 Example: N/A
 
+[2025-08-20 17:07:58] Word of the Day: savored
+Meaning: To possess a particular taste or smell, or a distinctive quality.
+Example: N/A
+
