@@ -155,3 +155,7 @@ Example: N/A
 Meaning: A person who practices homeopathy.
 Example: N/A
 
+[2025-08-20 17:57:13] Word of the Day: admittedly
+Meaning: As is acknowledged to be true; by general admission; confessedly.
+Example: Admittedly, vandalism is a bit of a problem.
+
