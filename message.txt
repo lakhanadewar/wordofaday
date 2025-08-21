@@ -223,3 +223,7 @@ Example: He helped his grandfather cook breakfast.
 Meaning: Someone entrusted with a secret; a confidant.
 Example: N/A
 
+[2025-08-21 18:53:50] Word of the Day: identifiable
+Meaning: Capable of being distinguished and named.
+Example: I don't know where he was from because he had no identifiable accent.
+
