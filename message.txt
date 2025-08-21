@@ -187,3 +187,7 @@ Example: N/A
 Meaning: A young cow or bull.
 Example: N/A
 
+[2025-08-21 09:45:48] Word of the Day: handset
+Meaning: The part of a landline telephone containing both receiver and transmitter (and sometimes dial), held in the hand.
+Example: N/A
+
