@@ -191,3 +191,7 @@ Example: N/A
 Meaning: The part of a landline telephone containing both receiver and transmitter (and sometimes dial), held in the hand.
 Example: N/A
 
+[2025-08-21 09:57:01] Word of the Day: cofferdam
+Meaning: A temporary watertight structure that is pumped dry to enclose an area underwater and allow construction work on a ship, bridge, or rig to be carried out; a caisson.
+Example: N/A
+
