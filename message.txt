@@ -247,3 +247,7 @@ Example: N/A
 Meaning: Located on a continental shelf
 Example: N/A
 
+[2025-08-22 09:44:05] Word of the Day: naughts
+Meaning: Nothingness.
+Example: N/A
+
