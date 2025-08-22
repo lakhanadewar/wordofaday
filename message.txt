@@ -251,3 +251,7 @@ Example: N/A
 Meaning: Nothingness.
 Example: N/A
 
+[2025-08-22 09:55:18] Word of the Day: doppelgangers
+Meaning: A ghostly double of a living person, especially one that haunts such a person.
+Example: N/A
+
