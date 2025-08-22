@@ -263,3 +263,7 @@ Example: N/A
 Meaning: To scrape the zest from a fruit.
 Example: N/A
 
+[2025-08-22 17:38:37] Word of the Day: naphthenes
+Meaning: Any cycloalkane (or alkyl derivative).
+Example: N/A
+
