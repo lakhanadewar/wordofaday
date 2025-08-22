@@ -279,3 +279,7 @@ Example: N/A
 Meaning: The state of being duplex
 Example: N/A
 
+[2025-08-22 18:19:02] Word of the Day: guidon
+Meaning: A small pennant or banner carried by infantry soldiers to direct troop movement.
+Example: N/A
+
