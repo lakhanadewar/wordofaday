@@ -287,3 +287,7 @@ Example: N/A
 Meaning: To leave a tip that is too large.
 Example: N/A
 
+[2025-08-22 18:54:02] Word of the Day: efficacious
+Meaning: Effective; possessing efficacy.
+Example: This medicine is efficacious.
+
