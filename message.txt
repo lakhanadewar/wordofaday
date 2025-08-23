@@ -369,3 +369,7 @@ Example: I need the soonest date you have available.
 Meaning: To hit or strike.
 Example: N/A
 
+[2025-08-23 18:59:04] Word of the Day: woodgrain
+Meaning: The grain of wood.
+Example: N/A
+
