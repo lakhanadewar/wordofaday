@@ -365,3 +365,7 @@ Example: N/A
 Meaning: Short in length of time from the present.
 Example: I need the soonest date you have available.
 
+[2025-08-23 18:53:32] Word of the Day: dinging
+Meaning: To hit or strike.
+Example: N/A
+
