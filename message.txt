@@ -345,3 +345,7 @@ Example: N/A
 Meaning: Not heroic
 Example: N/A
 
+[2025-08-23 17:50:28] Word of the Day: bearberries
+Meaning: Any of three dwarf shrubs of the genus Arctostaphylos, which principally grow in arctic and subarctic regions and bear edible berries.
+Example: N/A
+
