@@ -361,3 +361,7 @@ Example: N/A
 Meaning: Of property, able to pass by descent; inheritable by heirs.
 Example: N/A
 
+[2025-08-23 18:47:42] Word of the Day: sooner
+Meaning: Short in length of time from the present.
+Example: I need the soonest date you have available.
+
