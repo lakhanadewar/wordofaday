@@ -333,3 +333,7 @@ Example: N/A
 Meaning: A stew made from kernels of corn, lima beans, tomatoes and sometimes peppers.
 Example: N/A
 
+[2025-08-23 17:31:18] Word of the Day: generous
+Meaning: Noble in behaviour or actions; principled, not petty; kind, magnanimous.
+Example: Thank you for your generous words.
+
