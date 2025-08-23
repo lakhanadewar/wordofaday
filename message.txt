@@ -313,3 +313,7 @@ Example: N/A
 Meaning: Unable to be matched.
 Example: N/A
 
+[2025-08-23 09:43:25] Word of the Day: crossbow
+Meaning: A mechanised weapon, based on the bow and arrow, that shoots bolts.
+Example: N/A
+
