@@ -421,3 +421,7 @@ Example: N/A
 Meaning: Fool, idiot.
 Example: N/A
 
+[2025-08-24 17:48:10] Word of the Day: almanack
+Meaning: A book or table listing nautical, astronomical, astrological or other events for the year; sometimes, but not essentially, containing historical and statistical information.
+Example: N/A
+
