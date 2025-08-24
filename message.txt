@@ -377,3 +377,7 @@ Example: N/A
 Meaning: The study of baths and bathing, especially therapeutic bathing.
 Example: N/A
 
+[2025-08-24 08:42:47] Word of the Day: broadcasted
+Meaning: To transmit a message or signal through radio waves or electronic means.
+Example: N/A
+
