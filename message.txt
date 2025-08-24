@@ -389,3 +389,7 @@ Example: N/A
 Meaning: To allocate incorrectly or inappropriately.
 Example: N/A
 
+[2025-08-24 09:31:47] Word of the Day: purflings
+Meaning: Two or more very narrow strips of black wood enclosing a lighter-coloured strip of wood set close to the edge of the top and back of a string instrument such as a violin, cello or a guitar, following its outline, or this effect simulated with paint.
+Example: The purfling on this violin is exceptionally beautiful.
+
