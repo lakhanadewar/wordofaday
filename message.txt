@@ -429,3 +429,7 @@ Example: N/A
 Meaning: A demon or monster, thought to plague people while they slept and cause a feeling of suffocation and terror during sleep.
 Example: N/A
 
+[2025-08-24 17:59:44] Word of the Day: woolsheds
+Meaning: A shed where sheep are shorn.
+Example: N/A
+
