@@ -373,3 +373,7 @@ Example: N/A
 Meaning: The grain of wood.
 Example: N/A
 
+[2025-08-24 08:24:21] Word of the Day: balneology
+Meaning: The study of baths and bathing, especially therapeutic bathing.
+Example: N/A
+
