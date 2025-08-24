@@ -433,3 +433,7 @@ Example: N/A
 Meaning: A shed where sheep are shorn.
 Example: N/A
 
+[2025-08-24 18:24:57] Word of the Day: immersed
+Meaning: To put under the surface of a liquid; to dunk.
+Example: Archimedes determined the volume of objects by immersing them in water.
+
