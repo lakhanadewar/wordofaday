@@ -385,3 +385,7 @@ Example: N/A
 Meaning: The symbol "‐", typically used to join two or more words to form a compound term, or to indicate that a word has been split at the end of a line.
 Example: N/A
 
+[2025-08-24 09:15:47] Word of the Day: misallocates
+Meaning: To allocate incorrectly or inappropriately.
+Example: N/A
+
