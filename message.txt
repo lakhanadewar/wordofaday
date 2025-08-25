@@ -465,3 +465,7 @@ Example: N/A
 Meaning: A white blood cell.
 Example: N/A
 
+[2025-08-25 09:50:38] Word of the Day: litterbugs
+Meaning: A person who tends to drop litter and not clean it up.
+Example: N/A
+
