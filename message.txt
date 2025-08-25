@@ -499,3 +499,7 @@ Example: N/A
 Meaning: The performer in music who takes the accompanying part.
 Example: N/A
 
+[2025-08-25 18:42:19] Word of the Day: lianas
+Meaning: A climbing woody vine, usually tropical.
+Example: N/A
+
