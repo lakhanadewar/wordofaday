@@ -487,3 +487,7 @@ Example: N/A
 Meaning: One who attends revels; a partygoer.
 Example: N/A
 
+[2025-08-25 17:48:59] Word of the Day: quadruple
+Meaning: To multiply by four.
+Example: Quadrupling four gives sixteen.
+
