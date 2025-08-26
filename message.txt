@@ -535,3 +535,7 @@ Example: N/A
 Meaning: A daily chronicle; a diary.
 Example: N/A
 
+[2025-08-26 17:38:05] Word of the Day: creaky
+Meaning: Tending to creak
+Example: N/A
+
