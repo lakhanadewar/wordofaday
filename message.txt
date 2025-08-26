@@ -527,3 +527,7 @@ Example: Yesterday our local garage employed a new mechanic.
 Meaning: To mark a drawing or document for correction or modification.
 Example: N/A
 
+[2025-08-26 17:07:49] Word of the Day: documentary
+Meaning: A film, TV program, publication etc. which presents a social, political, scientific or historical subject in a factual or informative manner.
+Example: N/A
+
