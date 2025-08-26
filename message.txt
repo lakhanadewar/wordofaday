@@ -511,3 +511,7 @@ Example: N/A
 Meaning: To convert or adapt to Western culture.
 Example: N/A
 
+[2025-08-26 08:29:22] Word of the Day: employed
+Meaning: To hire (somebody for work or a job).
+Example: Yesterday our local garage employed a new mechanic.
+
