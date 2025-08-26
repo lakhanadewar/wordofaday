@@ -555,3 +555,7 @@ Example: N/A
 Meaning: To play (a chord) as an arpeggio.
 Example: N/A
 
+[2025-08-26 18:42:53] Word of the Day: protons
+Meaning: A positively charged subatomic particle forming part of the nucleus of an atom and determining the atomic number of an element, composed of two up quarks and a down quark.
+Example: N/A
+
