@@ -595,3 +595,7 @@ Example: N/A
 Meaning: An intriguer.
 Example: N/A
 
+[2025-08-27 17:16:30] Word of the Day: weevers
+Meaning: Any of the usually brown fish in family Trachinidae, which catch prey by burying themselves in the sand and snatching them as they go past.
+Example: N/A
+
