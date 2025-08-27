@@ -599,3 +599,7 @@ Example: N/A
 Meaning: Any of the usually brown fish in family Trachinidae, which catch prey by burying themselves in the sand and snatching them as they go past.
 Example: N/A
 
+[2025-08-27 17:26:15] Word of the Day: popping
+Meaning: To make a pop, or sharp, quick sound.
+Example: The muskets popped away on all sides.
+
