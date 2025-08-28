@@ -691,3 +691,7 @@ Example: N/A
 Meaning: One who is profligate, who wastes time or resources extravagantly.
 Example: N/A
 
+[2025-08-28 18:45:23] Word of the Day: ostrich
+Meaning: A large flightless bird (Struthio camelus) native to Africa.
+Example: N/A
+
