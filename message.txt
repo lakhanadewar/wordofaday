@@ -683,3 +683,7 @@ Example: N/A
 Meaning: A conversation or other form of discourse between two or more individuals.
 Example: Bill and Melinda maintained a dialogue via email over the course of their long-distance relationship.
 
+[2025-08-28 17:55:23] Word of the Day: batholith
+Meaning: A large irregular mass of intrusive igneous rock that has melted or forced itself into surrounding strata.
+Example: N/A
+
