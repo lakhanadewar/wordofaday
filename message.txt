@@ -679,3 +679,7 @@ Example: They're organizing a protest against sealing.
 Meaning: Any substance that causes tears, such as tear gas.
 Example: N/A
 
+[2025-08-28 17:49:42] Word of the Day: dialogues
+Meaning: A conversation or other form of discourse between two or more individuals.
+Example: Bill and Melinda maintained a dialogue via email over the course of their long-distance relationship.
+
