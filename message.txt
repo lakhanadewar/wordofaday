@@ -647,3 +647,7 @@ Example: N/A
 Meaning: An option; a decision; an opportunity to choose or select something.
 Example: Do I have a choice of what color to paint it?
 
+[2025-08-28 09:28:02] Word of the Day: pitchforking
+Meaning: To toss or carry with a pitchfork.
+Example: The hay was soon pitchforked onto the wagon.
+
