@@ -675,3 +675,7 @@ Example: a slack rope
 Meaning: To hunt seals.
 Example: They're organizing a protest against sealing.
 
+[2025-08-28 17:43:52] Word of the Day: lacrimators
+Meaning: Any substance that causes tears, such as tear gas.
+Example: N/A
+
