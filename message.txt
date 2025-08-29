@@ -719,3 +719,7 @@ Example: N/A
 Meaning: To adjust (a musical instrument) so that it produces the correct pitches.
 Example: to tune a piano or a violin
 
+[2025-08-29 09:53:25] Word of the Day: reprinted
+Meaning: To print (something) that has been published in print before.
+Example: The novel was printed with an appendix.
+
