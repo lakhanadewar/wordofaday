@@ -727,3 +727,7 @@ Example: The novel was printed with an appendix.
 Meaning: An image produced by a phonocardiograph.
 Example: N/A
 
+[2025-08-29 17:07:24] Word of the Day: epiphyte
+Meaning: A plant that grows on another, using it for physical support but obtaining no nutrients from it and neither causing damage nor offering benefit; an air plant.
+Example: N/A
+
