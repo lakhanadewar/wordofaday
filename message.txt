@@ -723,3 +723,7 @@ Example: to tune a piano or a violin
 Meaning: To print (something) that has been published in print before.
 Example: The novel was printed with an appendix.
 
+[2025-08-29 10:16:56] Word of the Day: phonocardiogram
+Meaning: An image produced by a phonocardiograph.
+Example: N/A
+
