@@ -715,3 +715,7 @@ Example: N/A
 Meaning: To swing or turn, as on a pin or pivot.
 Example: N/A
 
+[2025-08-29 09:42:34] Word of the Day: tuning
+Meaning: To adjust (a musical instrument) so that it produces the correct pitches.
+Example: to tune a piano or a violin
+
