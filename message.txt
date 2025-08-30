@@ -807,3 +807,7 @@ Example: N/A
 Meaning: A band that is worn on the arm that for ornamental or identification purposes.
 Example: N/A
 
+[2025-08-30 17:20:27] Word of the Day: declined
+Meaning: To move downwards, to fall, to drop.
+Example: The dollar has declined rapidly since 2001.
+
