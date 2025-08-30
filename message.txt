@@ -843,3 +843,7 @@ Example: N/A
 Meaning: A tiebreaker, a game or an extension to a game played to resolve a tied score.
 Example: N/A
 
+[2025-08-30 18:49:07] Word of the Day: javelin
+Meaning: A light spear thrown with the hand and used as a weapon.
+Example: N/A
+
