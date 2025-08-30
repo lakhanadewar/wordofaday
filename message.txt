@@ -851,3 +851,7 @@ Example: N/A
 Meaning: To dye with a fast or lasting colour.
 Example: N/A
 
+[2025-08-30 19:01:04] Word of the Day: touchholes
+Meaning: A small hole through which the propellant charge of a cannon or muzzleloading gun is ignited.
+Example: N/A
+
