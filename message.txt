@@ -831,3 +831,7 @@ Example: N/A
 Meaning: To excommunicate; curse.
 Example: N/A
 
+[2025-08-30 18:00:02] Word of the Day: reject
+Meaning: Something that is rejected.
+Example: N/A
+
