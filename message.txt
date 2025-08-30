@@ -839,3 +839,7 @@ Example: N/A
 Meaning: A book in which notes or memoranda are written.
 Example: N/A
 
+[2025-08-30 18:40:37] Word of the Day: tiebreaks
+Meaning: A tiebreaker, a game or an extension to a game played to resolve a tied score.
+Example: N/A
+
