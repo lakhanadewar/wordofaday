@@ -787,3 +787,7 @@ Example: I'll messenger over the signed documents.
 Meaning: To seize, appropriate
 Example: N/A
 
+[2025-08-30 09:29:09] Word of the Day: fibbed
+Meaning: To lie, especially more or less inconsequentially.
+Example: N/A
+
