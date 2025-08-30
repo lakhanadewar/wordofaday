@@ -779,3 +779,7 @@ Example: N/A
 Meaning: To alter so as to make false; to make incorrect.
 Example: to falsify a record or document
 
+[2025-08-30 08:51:51] Word of the Day: messengered
+Meaning: To send something by messenger.
+Example: I'll messenger over the signed documents.
+
