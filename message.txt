@@ -915,3 +915,7 @@ Example: N/A
 Meaning: To devour something greedily, gorge, glut.
 Example: N/A
 
+[2025-08-31 18:14:43] Word of the Day: uncoated
+Meaning: (of the capsid shell) to dissociate from the viral core in the host cell cytoplasm
+Example: It takes only minutes, after entry into a cell, for a virus particle to uncoat.
+
