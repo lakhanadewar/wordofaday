@@ -879,3 +879,7 @@ Example: N/A
 Meaning: To do again.
 Example: N/A
 
+[2025-08-31 09:51:25] Word of the Day: crasis
+Meaning: One's constitution; the balance of humours in a person's body.
+Example: N/A
+
