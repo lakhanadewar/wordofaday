@@ -895,3 +895,7 @@ Example: N/A
 Meaning: To become gray.
 Example: My hair is beginning to gray.
 
+[2025-08-31 17:31:45] Word of the Day: bricking
+Meaning: To build with bricks.
+Example: N/A
+
