@@ -863,3 +863,7 @@ Example: N/A
 Meaning: To apply chalk to anything, such as the tip of a billiard cue.
 Example: N/A
 
+[2025-08-31 08:51:22] Word of the Day: protheses
+Meaning: The prepending of phonemes at the beginning of a word without changing its morphological structure, as in Spanish esfera from Latin sphaera (expected form would be *sfera).
+Example: N/A
+
