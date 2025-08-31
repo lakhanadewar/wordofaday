@@ -919,3 +919,7 @@ Example: N/A
 Meaning: (of the capsid shell) to dissociate from the viral core in the host cell cytoplasm
 Example: It takes only minutes, after entry into a cell, for a virus particle to uncoat.
 
+[2025-08-31 18:36:49] Word of the Day: giggle
+Meaning: A high-pitched, silly laugh.
+Example: N/A
+
