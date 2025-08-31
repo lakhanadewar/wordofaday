@@ -883,3 +883,7 @@ Example: N/A
 Meaning: One's constitution; the balance of humours in a person's body.
 Example: N/A
 
+[2025-08-31 10:11:02] Word of the Day: babysitting
+Meaning: To watch or tend someone else's child for a period of time, often for money.
+Example: My daughter is babysitting for the Morgans at number ten, who are going out on a date night.
+
