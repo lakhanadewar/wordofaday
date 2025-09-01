@@ -999,3 +999,7 @@ Example: I chose a nice ripe apple from the fruit bowl.
 Meaning: Actaea spp. (baneberry).
 Example: N/A
 
+[2025-09-01 18:56:37] Word of the Day: eke
+Meaning: (obsolete except Britain) An addition.
+Example: N/A
+
