@@ -975,3 +975,7 @@ Example: N/A
 Meaning: A two-wheeled carriage pulled along by a person.
 Example: N/A
 
+[2025-09-01 17:45:24] Word of the Day: expectorant
+Meaning: An agent or drug used to cause or induce the expulsion of phlegm from the lungs.
+Example: N/A
+
