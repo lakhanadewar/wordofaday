@@ -987,3 +987,7 @@ Example: N/A
 Meaning: Air-breathing fish, of the class Dipnoi, that have four limblike appendages instead of fins
 Example: N/A
 
+[2025-09-01 18:16:47] Word of the Day: tetrameters
+Meaning: A line in a poem having four metrical feet.
+Example: N/A
+
