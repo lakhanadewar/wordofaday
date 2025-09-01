@@ -935,3 +935,7 @@ Example: N/A
 Meaning: A flow in the opposite direction; or the flow of two fluids in opposite directions
 Example: N/A
 
+[2025-09-01 08:29:43] Word of the Day: interoperable
+Meaning: (of a system or device) Able to communicate, and exchange data with another system or device.
+Example: N/A
+
