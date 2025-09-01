@@ -943,3 +943,7 @@ Example: N/A
 Meaning: The name of the Latin-script letter T.
 Example: N/A
 
+[2025-09-01 09:16:07] Word of the Day: purchases
+Meaning: The acquisition of title to, or property in, anything for a price; buying for money or its equivalent.
+Example: They offer a free hamburger with the purchase of a drink.
+
