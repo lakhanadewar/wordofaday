@@ -1047,3 +1047,7 @@ Example: N/A
 Meaning: A small thrush, Turdus iliacus, native to Eurasia, with a white eye stripe and red under-wing feathers.
 Example: N/A
 
+[2025-09-02 17:53:15] Word of the Day: greensand
+Meaning: A greenish sandstone containing glauconite.
+Example: N/A
+
