@@ -1051,3 +1051,7 @@ Example: N/A
 Meaning: A greenish sandstone containing glauconite.
 Example: N/A
 
+[2025-09-02 17:58:43] Word of the Day: forepeak
+Meaning: The part of the hold of a ship within the angle of the bow
+Example: N/A
+
