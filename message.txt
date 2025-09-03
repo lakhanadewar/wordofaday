@@ -1113,3 +1113,7 @@ Example: You will absolve a subject from his allegiance.
 Meaning: Sarcoidosis.
 Example: N/A
 
+[2025-09-03 17:53:22] Word of the Day: reasserted
+Meaning: Assert again
+Example: N/A
+
