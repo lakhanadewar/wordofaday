@@ -1137,3 +1137,7 @@ Example: N/A
 Meaning: An irregular, jerky or awkward gait.
 Example: She walks with a limp.
 
+[2025-09-03 19:00:58] Word of the Day: gnarls
+Meaning: A knot in wood; a large or hard knot, or a protuberance with twisted grain, on a tree.
+Example: N/A
+
