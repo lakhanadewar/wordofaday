@@ -1077,3 +1077,7 @@ Example: N/A
 
 [2025-09-03 09:02:57] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-09-03 09:26:21] Word of the Day: yobbo
+Meaning: A yob.
+Example: N/A
+
