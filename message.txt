@@ -1105,3 +1105,7 @@ Example: N/A
 Meaning: Enforcing strict conformity through disregard of individual differences or special circumstances.
 Example: N/A
 
+[2025-09-03 17:41:33] Word of the Day: absolving
+Meaning: To set free, release or discharge (from obligations, debts, responsibility etc.).
+Example: You will absolve a subject from his allegiance.
+
