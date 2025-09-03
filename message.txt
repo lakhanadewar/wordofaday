@@ -1081,3 +1081,7 @@ Example: N/A
 Meaning: A yob.
 Example: N/A
 
+[2025-09-03 09:40:45] Word of the Day: circuited
+Meaning: To move in a circle; to go round; to circulate.
+Example: N/A
+
