@@ -1121,3 +1121,7 @@ Example: N/A
 Meaning: Poor quality; substandard workmanship.
 Example: The project was full of fail.
 
+[2025-09-03 18:24:20] Word of the Day: liturgical
+Meaning: Pertaining to liturgy.
+Example: N/A
+
