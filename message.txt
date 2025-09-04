@@ -1185,3 +1185,7 @@ Example: The shortage caused prices to skyrocket.
 Meaning: A type of vehicle designed to move on the ground under its own stored power and intended to carry a driver, a small number of additional passengers, and a very limited amount of other load. A car or motorcar.
 Example: N/A
 
+[2025-09-04 17:47:12] Word of the Day: toponym
+Meaning: A placename.
+Example: N/A
+
