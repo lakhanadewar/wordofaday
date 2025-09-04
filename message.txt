@@ -1169,3 +1169,7 @@ Example: She gave the flowers a quick sniff to check they were real.
 Meaning: In the spelling of Catalan, French, Portuguese and some other languages, a mark (¸) sometimes placed under the letter c to indicate that it is pronounced /s/ rather than /k/, as in Catalan força, French menaçant, and Portuguese almoço, and also used in various other languages to change the sounds of other letters.
 Example: N/A
 
+[2025-09-04 17:07:03] Word of the Day: emanate
+Meaning: To come from a source; issue from.
+Example: Fragrance emanates from flowers.
+
