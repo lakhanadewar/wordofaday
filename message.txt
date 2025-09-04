@@ -1161,3 +1161,7 @@ Example: N/A
 Meaning: To handle again.
 Example: N/A
 
+[2025-09-04 09:51:53] Word of the Day: sniffs
+Meaning: An instance of sniffing.
+Example: She gave the flowers a quick sniff to check they were real.
+
