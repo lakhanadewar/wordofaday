@@ -1145,3 +1145,7 @@ Example: N/A
 Meaning: A sound, or a sound signal
 Example: N/A
 
+[2025-09-04 08:46:44] Word of the Day: eruptions
+Meaning: A violent ejection, such as the spurting out of lava from a volcano.
+Example: N/A
+
