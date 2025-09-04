@@ -1165,3 +1165,7 @@ Example: N/A
 Meaning: An instance of sniffing.
 Example: She gave the flowers a quick sniff to check they were real.
 
+[2025-09-04 10:13:16] Word of the Day: cedilla
+Meaning: In the spelling of Catalan, French, Portuguese and some other languages, a mark (¸) sometimes placed under the letter c to indicate that it is pronounced /s/ rather than /k/, as in Catalan força, French menaçant, and Portuguese almoço, and also used in various other languages to change the sounds of other letters.
+Example: N/A
+
