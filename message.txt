@@ -1197,3 +1197,7 @@ Example: N/A
 Meaning: Not chaste; not continent
 Example: N/A
 
+[2025-09-04 18:21:27] Word of the Day: whilst
+Meaning: (rare or literary in North America) While, at the same time.
+Example: Drivers must switch off engines whilst on stand.
+
