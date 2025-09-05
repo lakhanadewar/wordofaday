@@ -1253,3 +1253,7 @@ Example: N/A
 Meaning: (of the capsid shell) to dissociate from the viral core in the host cell cytoplasm
 Example: It takes only minutes, after entry into a cell, for a virus particle to uncoat.
 
+[2025-09-05 17:41:50] Word of the Day: termini
+Meaning: The end or final point of something.
+Example: N/A
+
