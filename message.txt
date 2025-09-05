@@ -1217,3 +1217,7 @@ Example: N/A
 Meaning: In a way that causes surprise because it is unexpected, or unusual.
 Example: Not surprisingly, the electrician didn't come at the time he had said.
 
+[2025-09-05 08:46:22] Word of the Day: impetuses
+Meaning: Something that impels; a stimulating factor.
+Example: The outbreak of World War II in 1939 gave a new impetus to receiver development.
+
