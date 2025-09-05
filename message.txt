@@ -1265,3 +1265,7 @@ Example: N/A
 Meaning: The state of being bewildered.
 Example: N/A
 
+[2025-09-05 17:59:43] Word of the Day: forgery
+Meaning: The act of forging metal into shape.
+Example: the forgery of horseshoes
+
