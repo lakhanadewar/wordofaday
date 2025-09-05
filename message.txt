@@ -1237,3 +1237,7 @@ Example: N/A
 Meaning: To find or provide the etymology for a word.
 Example: N/A
 
+[2025-09-05 10:13:08] Word of the Day: swap
+Meaning: To exchange or give (something) in an exchange (for something else).
+Example: N/A
+
