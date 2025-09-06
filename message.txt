@@ -1347,3 +1347,7 @@ Example: N/A
 Meaning: To walk on the surface of the Moon.
 Example: N/A
 
+[2025-09-06 18:50:24] Word of the Day: knife
+Meaning: A utensil or a tool designed for cutting, consisting of a flat piece of hard material, usually steel or other metal (the blade), usually sharpened on one edge, attached to a handle. The blade may be pointed for piercing.
+Example: N/A
+
