@@ -1283,3 +1283,7 @@ Example: N/A
 Meaning: An amount of expenses that must be paid out of pocket before an insurer will pay further expenses.
 Example: N/A
 
+[2025-09-06 08:22:23] Word of the Day: dialectology
+Meaning: The study of dialects.
+Example: N/A
+
