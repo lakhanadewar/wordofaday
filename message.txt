@@ -1331,3 +1331,7 @@ Example: N/A
 Meaning: A curl; a lock of hair crisped.
 Example: N/A
 
+[2025-09-06 17:57:01] Word of the Day: condense
+Meaning: To concentrate toward the essence by making more close, compact, or dense, thereby decreasing size or volume.
+Example: An abridged dictionary can be further condensed to pocket size.
+
