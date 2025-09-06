@@ -1319,3 +1319,7 @@ Example: N/A
 Meaning: Endorsement; approval.
 Example: We can start as soon as we get the OK.
 
+[2025-09-06 17:40:01] Word of the Day: expressive
+Meaning: Any word or phrase that expresses (that the speaker, writer, or signer has) a certain attitude toward or information about the referent.
+Example: N/A
+
