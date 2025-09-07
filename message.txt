@@ -1359,3 +1359,7 @@ Example: N/A
 Meaning: To pull or gather up (an item of fabric).
 Example: N/A
 
+[2025-09-07 08:38:15] Word of the Day: anchored
+Meaning: To connect an object, especially a ship or a boat, to a fixed point.
+Example: N/A
+
