@@ -1401,3 +1401,7 @@ Example: to thumb the touch-hole of a cannon
 
 [2025-09-07 17:49:50] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-09-07 17:56:13] Word of the Day: rondeaux
+Meaning: A fixed form of verse based on two rhyme sounds and consisting usually of 13 lines in three stanzas with the opening words of the first line of the first stanza used as an independent refrain after the second and third stanzas.
+Example: N/A
+
