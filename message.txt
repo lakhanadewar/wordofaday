@@ -1367,3 +1367,7 @@ Example: N/A
 Meaning: The act of scudding.
 Example: N/A
 
+[2025-09-07 09:00:25] Word of the Day: hookup
+Meaning: (sometimes attributive) A connection.
+Example: I need to buy some hookup wire.
+
