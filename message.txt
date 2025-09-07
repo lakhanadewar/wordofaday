@@ -1419,3 +1419,7 @@ Example: N/A
 Meaning: A book containing laws and usages, or customs; a custumal.
 Example: N/A
 
+[2025-09-07 18:52:54] Word of the Day: provincialisms
+Meaning: The quality of being provincial; having provincial tastes, mentality, manners.
+Example: The blacksmith's provincialism showed in his speech and manner
+
