@@ -1411,3 +1411,7 @@ Example: N/A
 
 [2025-09-07 18:24:00] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-09-07 18:38:36] Word of the Day: carob
+Meaning: An evergreen shrub or tree, Ceratonia siliqua, native to the Mediterranean region.
+Example: N/A
+
