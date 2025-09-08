@@ -1427,3 +1427,7 @@ Example: The blacksmith's provincialism showed in his speech and manner
 Meaning: To give something its own individuality; to characterize or differentiate.
 Example: N/A
 
+[2025-09-08 08:29:27] Word of the Day: ordinal
+Meaning: An ordinal number such as first, second and third.
+Example: The most common numerals in Latin, as in English, are the "cardinals"...and the "ordinals"... — F. M. Wheelock, Wheelock’s Latin, 6th ed. revised (2005), p97
+
