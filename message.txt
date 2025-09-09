@@ -1503,3 +1503,7 @@ Example: N/A
 
 [2025-09-09 17:47:24] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-09-09 17:53:50] Word of the Day: neutrino
+Meaning: An elementary particle that is classified as a lepton, and has an extremely small but nonzero mass and no electric charge. It interacts with the surroundings only via the weak force or gravitation, making it very difficult to detect.
+Example: N/A
+
