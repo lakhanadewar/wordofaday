@@ -1491,3 +1491,7 @@ Example: N/A
 
 [2025-09-09 10:01:00] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-09-09 17:01:31] Word of the Day: avens
+Meaning: A plant of the genus Geum, especially Geum urbanum, or herb bennet.
+Example: N/A
+
