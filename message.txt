@@ -1553,3 +1553,7 @@ Example: N/A
 Meaning: A girl who delivers newspapers; a female paperboy
 Example: N/A
 
+[2025-09-10 18:52:09] Word of the Day: shigella
+Meaning: A bacterium in the genus Shigella, some kinds of which may cause a form of dysentery called shigellosis.
+Example: N/A
+
