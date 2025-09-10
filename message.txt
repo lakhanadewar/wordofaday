@@ -1557,3 +1557,7 @@ Example: N/A
 Meaning: A bacterium in the genus Shigella, some kinds of which may cause a form of dysentery called shigellosis.
 Example: N/A
 
+[2025-09-10 18:58:23] Word of the Day: rolfing
+Meaning: To apply the Rolfing massage technique to.
+Example: N/A
+
