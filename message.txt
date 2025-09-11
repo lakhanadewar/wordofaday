@@ -1611,3 +1611,7 @@ Example: N/A
 Meaning: A fish-eating bird (Anhinga anhinga) of North America with a thin, pointed bill and a long, thin neck.
 Example: N/A
 
+[2025-09-11 18:57:20] Word of the Day: medium
+Meaning: (plural media or mediums) The chemistry of the surrounding environment, e.g. solid, liquid, gas, vacuum, or a specific substance such as a solvent.
+Example: N/A
+
