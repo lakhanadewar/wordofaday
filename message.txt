@@ -1661,3 +1661,7 @@ Example: N/A
 Meaning: Any enzyme that catalyzes the hydrolysis of a carboxyl group, effectively removing carbon dioxide from a compound.
 Example: N/A
 
+[2025-09-12 18:57:43] Word of the Day: birder
+Meaning: A birdwatcher.
+Example: N/A
+
