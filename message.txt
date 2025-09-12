@@ -1657,3 +1657,7 @@ Example: N/A
 Meaning: Pertaining to, or afflicted with, dropsy.
 Example: N/A
 
+[2025-09-12 18:51:37] Word of the Day: decarboxylase
+Meaning: Any enzyme that catalyzes the hydrolysis of a carboxyl group, effectively removing carbon dioxide from a compound.
+Example: N/A
+
