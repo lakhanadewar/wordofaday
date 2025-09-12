@@ -1653,3 +1653,7 @@ Example: N/A
 Meaning: Having, or employing multiple modes.
 Example: N/A
 
+[2025-09-12 18:45:38] Word of the Day: dropsical
+Meaning: Pertaining to, or afflicted with, dropsy.
+Example: N/A
+
