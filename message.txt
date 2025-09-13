@@ -1703,3 +1703,7 @@ Example: N/A
 Meaning: Pertaining to chiasmus.
 Example: N/A
 
+[2025-09-13 17:45:06] Word of the Day: gelatine
+Meaning: A protein derived through partial hydrolysis of the collagen extracted from animal skin, bones, cartilage, ligaments, etc.
+Example: N/A
+
