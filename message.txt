@@ -1691,3 +1691,7 @@ Example: N/A
 Meaning: A cavalier; a knight.
 Example: N/A
 
+[2025-09-13 17:26:50] Word of the Day: scrawny
+Meaning: Thin, malnourished and weak.
+Example: N/A
+
