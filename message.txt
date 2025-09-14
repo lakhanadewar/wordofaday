@@ -1819,3 +1819,7 @@ Example: N/A
 Meaning: Throughout a city.
 Example: N/A
 
+[2025-09-14 18:55:27] Word of the Day: celluloid
+Meaning: Any of a variety of thermoplastics created from nitrocellulose and camphor, once used as photographic film.
+Example: N/A
+
