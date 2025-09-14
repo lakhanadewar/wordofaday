@@ -1763,3 +1763,7 @@ Example: N/A
 Meaning: Of or providing evidence.
 Example: N/A
 
+[2025-09-14 09:50:57] Word of the Day: hawker
+Meaning: A peddler, huckster, who travels about to sell easily transportable goods.
+Example: N/A
+
