@@ -1739,3 +1739,7 @@ Example: N/A
 Meaning: To shift a transmission into a lower gear.
 Example: N/A
 
+[2025-09-14 08:22:58] Word of the Day: carsick
+Meaning: Dizzy or feeling nauseated due to riding in a vehicle; suffering from motion sickness.
+Example: N/A
+
