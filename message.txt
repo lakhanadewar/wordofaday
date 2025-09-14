@@ -1795,3 +1795,7 @@ Example: N/A
 Meaning: To form into a ridge
 Example: N/A
 
+[2025-09-14 17:51:29] Word of the Day: parathormone
+Meaning: Parathyroid hormone
+Example: N/A
+
