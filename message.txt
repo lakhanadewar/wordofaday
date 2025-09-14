@@ -1747,3 +1747,7 @@ Example: N/A
 Meaning: In a childish manner.
 Example: N/A
 
+[2025-09-14 08:50:58] Word of the Day: plywood
+Meaning: Construction material supplied in sheets, and made of three or more layers of wood veneer glued together, laid up with alternating layers having their grain perpendicular to each other.
+Example: After the hurricane there was a severe regional shortage of plywood, especially exterior plywood.
+
