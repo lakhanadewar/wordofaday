@@ -1901,3 +1901,7 @@ Example: N/A
 Meaning: A type of flat, dry bread or cracker, usually baked of rye flour, popular in the Nordic countries.
 Example: N/A
 
+[2025-09-16 17:42:35] Word of the Day: psalmbook
+Meaning: A book of psalms.
+Example: N/A
+
