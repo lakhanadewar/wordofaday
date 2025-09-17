@@ -1961,3 +1961,7 @@ Example: N/A
 
 [2025-09-17 17:43:54] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-09-17 17:47:32] Word of the Day: scagliola
+Meaning: Plasterwork imitating marble, granite, etc.
+Example: N/A
+
