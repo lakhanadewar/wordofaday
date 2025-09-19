@@ -2061,3 +2061,7 @@ Example: The song was cadential.
 Meaning: The duration of the life of someone or something.
 Example: N/A
 
+[2025-09-19 17:58:25] Word of the Day: propylaeum
+Meaning: A vestibule or entrance, to a temple.
+Example: N/A
+
