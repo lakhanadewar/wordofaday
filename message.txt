@@ -2049,3 +2049,7 @@ Example: N/A
 Meaning: A male duck.
 Example: N/A
 
+[2025-09-19 17:40:49] Word of the Day: impeding
+Meaning: To get in the way of; to hinder.
+Example: N/A
+
