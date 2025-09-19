@@ -2069,3 +2069,7 @@ Example: N/A
 Meaning: To sink out of sight.
 Example: The submarine submerged in the water.
 
+[2025-09-19 18:42:03] Word of the Day: encrusted
+Meaning: To cover with a hard crust.
+Example: a doughnut encrusted with sugar
+
