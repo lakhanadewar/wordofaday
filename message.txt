@@ -2101,3 +2101,7 @@ Example: N/A
 Meaning: A golfer's assistant and adviser.
 Example: N/A
 
+[2025-09-20 09:41:25] Word of the Day: rogues
+Meaning: A scoundrel, rascal or unprincipled, deceitful, and unreliable person.
+Example: N/A
+
