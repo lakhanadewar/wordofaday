@@ -2121,3 +2121,7 @@ Example: a Renaissance fest
 Meaning: A person who or thing that receives or is intended to receive something. More formal, usually referring to one who receives such things as an award or medal.
 Example: N/A
 
+[2025-09-20 17:27:13] Word of the Day: fianchetto
+Meaning: The development of a bishop by moving it one square to a long diagonal; specifically, a set of opening moves where a bishop is developed to the second rank of the adjacent knight file.
+Example: N/A
+
