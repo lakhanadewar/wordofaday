@@ -2133,3 +2133,7 @@ Example: N/A
 Meaning: To cut with a knife.
 Example: N/A
 
+[2025-09-20 17:45:25] Word of the Day: canticle
+Meaning: A chant, hymn or song, especially a nonmetrical one, with words from a biblical text.
+Example: N/A
+
