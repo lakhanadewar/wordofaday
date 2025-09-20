@@ -2145,3 +2145,7 @@ Example: N/A
 Meaning: A sudden strong rise or flow.
 Example: N/A
 
+[2025-09-20 18:14:24] Word of the Day: nerved
+Meaning: To give courage.
+Example: May their example nerve us to face the enemy.
+
