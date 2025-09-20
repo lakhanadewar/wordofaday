@@ -2137,3 +2137,7 @@ Example: N/A
 Meaning: A chant, hymn or song, especially a nonmetrical one, with words from a biblical text.
 Example: N/A
 
+[2025-09-20 17:51:18] Word of the Day: diagrammed
+Meaning: To represent or indicate something using a diagram.
+Example: N/A
+
