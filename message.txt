@@ -2221,3 +2221,7 @@ Example: N/A
 Meaning: To create an imbalance in pressure between one space and another in order to draw matter between the spaces.
 Example: N/A
 
+[2025-09-21 17:55:02] Word of the Day: angulated
+Meaning: To make, or to become, angular.
+Example: N/A
+
