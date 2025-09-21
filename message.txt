@@ -2189,3 +2189,7 @@ Example: N/A
 Meaning: A person eager to learn news and scandal.
 Example: N/A
 
+[2025-09-21 09:49:35] Word of the Day: gelati
+Meaning: Gelato, Italian style ice-cream; a serving of gelato, often in a cone.
+Example: N/A
+
