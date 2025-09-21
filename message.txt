@@ -2177,3 +2177,7 @@ Example: N/A
 Meaning: A room in a business set aside for the display of the company's products.
 Example: N/A
 
+[2025-09-21 09:07:39] Word of the Day: edentate
+Meaning: Any mammal that has few or no teeth, but especially the anteaters, armadillos, and sloths of the former order Edentata.
+Example: N/A
+
