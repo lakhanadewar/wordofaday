@@ -2269,3 +2269,7 @@ Example: N/A
 Meaning: A group of three things.
 Example: N/A
 
+[2025-09-22 17:07:54] Word of the Day: mishearing
+Meaning: To hear wrongly.
+Example: I misheard when she asked for mints, and gave her mince instead.
+
