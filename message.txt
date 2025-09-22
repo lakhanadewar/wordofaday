@@ -2281,3 +2281,7 @@ Example: N/A
 Meaning: To accuse or bring criminal charges against.
 Example: The newspapers incriminated the innocent man unjustly.
 
+[2025-09-22 17:40:58] Word of the Day: the
+Meaning: With a comparative or with more and a verb phrase, establishes a correlation with one or more other such comparatives.
+Example: It looks weaker and weaker, the more I think about it.
+
