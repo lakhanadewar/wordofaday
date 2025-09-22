@@ -2249,3 +2249,7 @@ Example: N/A
 Meaning: The joint made by welding.
 Example: N/A
 
+[2025-09-22 08:49:48] Word of the Day: skivvied
+Meaning: To perform menial work; to do chores, like a servant.
+Example: N/A
+
