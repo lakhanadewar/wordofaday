@@ -2309,3 +2309,7 @@ Example: N/A
 Meaning: A sacristan.
 Example: N/A
 
+[2025-09-22 18:57:20] Word of the Day: sniffling
+Meaning: To make a whimpering or sniffing sound when breathing, because of a runny nose.
+Example: Sonia sniffled a little, and her eyes were puffy and wet.
+
