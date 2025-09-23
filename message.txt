@@ -2363,3 +2363,7 @@ Example: N/A
 Meaning: To raise something up; to rise up; to erect
 Example: N/A
 
+[2025-09-23 17:55:25] Word of the Day: primitives
+Meaning: An original or primary word; a word not derived from another, as opposed to derivative.
+Example: N/A
+
