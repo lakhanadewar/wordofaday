@@ -2329,3 +2329,7 @@ Example: N/A
 Meaning: The act of strangling or the state of being strangled.
 Example: N/A
 
+[2025-09-23 09:43:04] Word of the Day: gunshots
+Meaning: The act of discharging a firearm.
+Example: N/A
+
