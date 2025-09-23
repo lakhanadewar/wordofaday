@@ -2317,3 +2317,7 @@ Example: Sonia sniffled a little, and her eyes were puffy and wet.
 Meaning: The soft underside of an animal's paw.
 Example: N/A
 
+[2025-09-23 08:47:36] Word of the Day: wander
+Meaning: The act or instance of wandering.
+Example: to go for a wander in the park
+
