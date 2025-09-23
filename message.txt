@@ -2321,3 +2321,7 @@ Example: N/A
 Meaning: The act or instance of wandering.
 Example: to go for a wander in the park
 
+[2025-09-23 08:59:04] Word of the Day: patois
+Meaning: A regional dialect of a language (especially French); usually considered substandard.
+Example: N/A
+
