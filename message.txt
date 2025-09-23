@@ -2367,3 +2367,7 @@ Example: N/A
 Meaning: An original or primary word; a word not derived from another, as opposed to derivative.
 Example: N/A
 
+[2025-09-23 18:13:48] Word of the Day: prefacing
+Meaning: To introduce or make a comment before (the main point).
+Example: Let me preface this by saying that I don't know him that well.
+
