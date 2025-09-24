@@ -2395,3 +2395,7 @@ Example: N/A
 Meaning: A place where races are held; a racetrack.
 Example: N/A
 
+[2025-09-24 09:28:35] Word of the Day: tribology
+Meaning: The science and engineering of interacting surfaces in relative motion; the study and application of technology using the principles of friction, lubrication and wear.
+Example: N/A
+
