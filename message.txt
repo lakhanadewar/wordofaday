@@ -2403,3 +2403,7 @@ Example: N/A
 Meaning: A signpost.
 Example: N/A
 
+[2025-09-24 09:55:25] Word of the Day: aneled
+Meaning: To anoint; to give extreme unction with oil.
+Example: N/A
+
