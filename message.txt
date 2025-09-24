@@ -2431,3 +2431,7 @@ Example: N/A
 Meaning: A short haircut in which the hair is brushed straight up then cut flat across the top.
 Example: N/A
 
+[2025-09-24 18:16:20] Word of the Day: candlepower
+Meaning: Unit of luminous intensity of a light source, equal to 0.981 candelas
+Example: N/A
+
