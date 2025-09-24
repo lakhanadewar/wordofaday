@@ -2443,3 +2443,7 @@ Example: N/A
 Meaning: A drug, 1-(diethylthiocarbamoyldisulfanyl)- N,N-diethyl-methanethioamide, used to treat chronic alcoholism
 Example: N/A
 
+[2025-09-24 18:55:24] Word of the Day: scam
+Meaning: A fraudulent deal.
+Example: That marketing scheme looks like a scam to me.
+
