@@ -2439,3 +2439,7 @@ Example: N/A
 Meaning: A turning; a time (chiefly used in phrases signifying that the part is to be repeated).
 Example: N/A
 
+[2025-09-24 18:49:44] Word of the Day: disulfiram
+Meaning: A drug, 1-(diethylthiocarbamoyldisulfanyl)- N,N-diethyl-methanethioamide, used to treat chronic alcoholism
+Example: N/A
+
