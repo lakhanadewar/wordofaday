@@ -2435,3 +2435,7 @@ Example: N/A
 Meaning: Unit of luminous intensity of a light source, equal to 0.981 candelas
 Example: N/A
 
+[2025-09-24 18:38:46] Word of the Day: voltes
+Meaning: A turning; a time (chiefly used in phrases signifying that the part is to be repeated).
+Example: N/A
+
