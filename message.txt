@@ -2487,3 +2487,7 @@ Example: N/A
 Meaning: An animal without vertebrae, i.e. backbone.
 Example: N/A
 
+[2025-09-25 17:42:31] Word of the Day: miskicked
+Meaning: To kick incorrectly or badly.
+Example: Although Petey miskicked the ball, he still managed to score a goal.
+
