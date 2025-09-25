@@ -2503,3 +2503,7 @@ Example: N/A
 Meaning: In an intellectual manner.
 Example: N/A
 
+[2025-09-25 18:27:04] Word of the Day: graticules
+Meaning: A grid of horizontal and vertical lines.
+Example: N/A
+
