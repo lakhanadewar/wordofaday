@@ -2459,3 +2459,7 @@ Example: N/A
 Meaning: To arrange (cargo, goods, etc.) in the hold of a ship; to move or rearrange such goods.
 Example: N/A
 
+[2025-09-25 09:28:14] Word of the Day: formidable
+Meaning: Causing fear, dread, awe, or discouragement as a result of size, strength, or some other impressive feature; commanding respect; causing wonder or astonishment.
+Example: N/A
+
