@@ -2515,3 +2515,7 @@ Example: N/A
 Meaning: The act of edifying, or the state of being edified or improved; a building process, especially morally, emotionally, or spiritually
 Example: N/A
 
+[2025-09-25 19:00:19] Word of the Day: quotation
+Meaning: A fragment of a human expression that is repeated by somebody else. Most often a quotation is taken from literature or speech, but also scenes from a movie, elements of a painting, a passage of music, etc., may be quoted.
+Example: "Where they burn books, they will also burn people" is a famous quotation from Heinrich Heine.
+
