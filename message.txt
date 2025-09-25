@@ -2455,3 +2455,7 @@ Example: N/A
 Meaning: (grammar) An element which forms no part of the original root.
 Example: N/A
 
+[2025-09-25 08:59:05] Word of the Day: rummaged
+Meaning: To arrange (cargo, goods, etc.) in the hold of a ship; to move or rearrange such goods.
+Example: N/A
+
