@@ -2571,3 +2571,7 @@ Example: N/A
 Meaning: Stopping or starting at intervals.
 Example: N/A
 
+[2025-09-26 17:59:18] Word of the Day: aria
+Meaning: A musical piece written typically for a solo voice with orchestral accompaniment in an opera or cantata.
+Example: N/A
+
