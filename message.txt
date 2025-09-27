@@ -2647,3 +2647,7 @@ Example: N/A
 Meaning: To remove the leaf of a door or a window from its supporting hinges.
 Example: N/A
 
+[2025-09-27 17:53:44] Word of the Day: mopery
+Meaning: Violation of an imaginary or trivial law
+Example: N/A
+
