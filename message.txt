@@ -2591,3 +2591,7 @@ Example: N/A
 Meaning: To kindle again.
 Example: N/A
 
+[2025-09-27 08:22:44] Word of the Day: nanometres
+Meaning: An SI subunit of length equal to 10-9 metres. Symbol: nm
+Example: N/A
+
