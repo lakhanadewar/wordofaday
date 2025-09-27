@@ -2615,3 +2615,7 @@ Example: N/A
 Meaning: A sketch or account of anything in words; a portraiture or representation in language; an enumeration of the essential qualities of a thing or species.
 Example: N/A
 
+[2025-09-27 09:50:00] Word of the Day: republication
+Meaning: The act of publishing again.
+Example: His republication of the old story restarted a furor that had quieted with time.
+
