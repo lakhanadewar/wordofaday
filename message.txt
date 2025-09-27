@@ -2595,3 +2595,7 @@ Example: N/A
 Meaning: An SI subunit of length equal to 10-9 metres. Symbol: nm
 Example: N/A
 
+[2025-09-27 08:39:24] Word of the Day: kotos
+Meaning: A Japanese stringed instrument having numerous strings, usually seven or thirteen, that are stretched over a convex wooden sounding board and are plucked with three plectra, worn on the thumb, index finger, and middle finger of one hand.
+Example: N/A
+
