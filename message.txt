@@ -2723,3 +2723,7 @@ Example: N/A
 Meaning: A person of learning, especially one who is versed in literature or science.
 Example: N/A
 
+[2025-09-28 17:41:46] Word of the Day: sunburned
+Meaning: To receive a sunburn.
+Example: N/A
+
