@@ -2743,3 +2743,7 @@ Example: N/A
 Meaning: To break or separate or to break apart, especially with force.
 Example: N/A
 
+[2025-09-28 18:38:17] Word of the Day: fluoresced
+Meaning: To emit electromagnetic radiation, especially visible light, when absorbing radiation of some other wavelength.
+Example: N/A
+
