@@ -2715,3 +2715,7 @@ Example: N/A
 Meaning: A Southeast Asian deer, Cervus unicolor.
 Example: N/A
 
+[2025-09-28 17:29:11] Word of the Day: autoradiograms
+Meaning: A photograph image produced by placing a film in contact with a specimen containing (or treated with) radioactive material; an autoradiogram
+Example: N/A
+
