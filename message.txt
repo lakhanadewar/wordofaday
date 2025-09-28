@@ -2699,3 +2699,7 @@ Example: N/A
 Meaning: Crudely chopped flints, believed to be naturally produced by geological processes such as glaciation.
 Example: N/A
 
+[2025-09-28 09:50:39] Word of the Day: tole
+Meaning: A decorative metalware having a lacquered or enamelled surface that is painted or gilded
+Example: N/A
+
