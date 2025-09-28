@@ -2739,3 +2739,7 @@ Example: N/A
 Meaning: A poisonous alkaloid found in poison hemlock and the yellow pitcher plant; it is a neurotoxin which disrupts the peripheral nervous system.
 Example: N/A
 
+[2025-09-28 18:20:05] Word of the Day: sunders
+Meaning: To break or separate or to break apart, especially with force.
+Example: N/A
+
