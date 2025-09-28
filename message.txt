@@ -2735,3 +2735,7 @@ Example: N/A
 Meaning: The act of snooping
 Example: N/A
 
+[2025-09-28 17:58:38] Word of the Day: coniine
+Meaning: A poisonous alkaloid found in poison hemlock and the yellow pitcher plant; it is a neurotoxin which disrupts the peripheral nervous system.
+Example: N/A
+
