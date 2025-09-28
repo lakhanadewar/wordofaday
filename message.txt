@@ -2719,3 +2719,7 @@ Example: N/A
 Meaning: A photograph image produced by placing a film in contact with a specimen containing (or treated with) radioactive material; an autoradiogram
 Example: N/A
 
+[2025-09-28 17:36:13] Word of the Day: savant
+Meaning: A person of learning, especially one who is versed in literature or science.
+Example: N/A
+
