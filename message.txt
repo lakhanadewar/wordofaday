@@ -2751,3 +2751,7 @@ Example: N/A
 Meaning: A chemical element (symbol V) with atomic number 23; it is a transition metal, used in the production of special steels.
 Example: N/A
 
+[2025-09-28 18:52:30] Word of the Day: geotropism
+Meaning: The movement of a plant in response to gravity (either downwards or upwards).
+Example: N/A
+
