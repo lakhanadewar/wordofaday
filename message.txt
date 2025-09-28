@@ -2711,3 +2711,7 @@ Example: N/A
 Meaning: A foot soldier, especially during World War II.
 Example: N/A
 
+[2025-09-28 17:20:00] Word of the Day: sambar
+Meaning: A Southeast Asian deer, Cervus unicolor.
+Example: N/A
+
