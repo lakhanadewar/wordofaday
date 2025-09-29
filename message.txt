@@ -2795,3 +2795,7 @@ Example: N/A
 Meaning: To draw a line around; to encircle.
 Example: N/A
 
+[2025-09-29 17:40:42] Word of the Day: immobilize
+Meaning: To render motionless; to stop moving or stop from moving.
+Example: It is best to immobilize the injury until a doctor can examine it.
+
