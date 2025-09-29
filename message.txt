@@ -2763,3 +2763,7 @@ Example: N/A
 Meaning: A poisonous mixture of alkaloids (veratridines) obtained from the seeds of the sabadilla plant.
 Example: N/A
 
+[2025-09-29 08:51:57] Word of the Day: resuscitates
+Meaning: To restore consciousness, vigor, or life to.
+Example: to resuscitate a drowned person; to resuscitate withered plants
+
