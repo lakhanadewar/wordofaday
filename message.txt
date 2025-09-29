@@ -2775,3 +2775,7 @@ Example: N/A
 Meaning: Not possibly; in an impossible manner.
 Example: N/A
 
+[2025-09-29 09:48:40] Word of the Day: serialise
+Meaning: To convert an object into a sequence of bytes that can later be converted back into an object with equivalent properties.
+Example: N/A
+
