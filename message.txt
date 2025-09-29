@@ -2759,3 +2759,7 @@ Example: N/A
 Meaning: A distended abdomen as a result of an accumulation of gas.
 Example: N/A
 
+[2025-09-29 08:30:13] Word of the Day: veratrine
+Meaning: A poisonous mixture of alkaloids (veratridines) obtained from the seeds of the sabadilla plant.
+Example: N/A
+
