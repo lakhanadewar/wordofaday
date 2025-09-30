@@ -2853,3 +2853,7 @@ Example: N/A
 Meaning: A tube of mirrors containing loose coloured beads etc. that is rotated to produce a succession of symmetrical designs.
 Example: N/A
 
+[2025-09-30 18:56:09] Word of the Day: unlimbers
+Meaning: To deploy an artillery piece for firing (ie, to detach it from its limber).
+Example: N/A
+
