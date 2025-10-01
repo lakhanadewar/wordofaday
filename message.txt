@@ -2883,3 +2883,7 @@ Example: N/A
 Meaning: To stock with people or inhabitants; to fill as with people; to populate.
 Example: N/A
 
+[2025-10-01 17:49:55] Word of the Day: lobotomy
+Meaning: A surgical operation on the frontal lobe of the brain intent on treating certain mental illnesses.
+Example: N/A
+
