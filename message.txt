@@ -2903,3 +2903,7 @@ Example: N/A
 Meaning: A lay officer of the Church of England who handles the secular affairs of the parish.
 Example: N/A
 
+[2025-10-01 18:57:33] Word of the Day: conoidal
+Meaning: Having the shape of a conoid; having a roughly conical shape.
+Example: N/A
+
