@@ -2925,3 +2925,7 @@ Example: N/A
 Meaning: A foodstuff made by baking dough made from cereals.
 Example: N/A
 
+[2025-10-02 17:01:37] Word of the Day: referendums
+Meaning: A direct popular vote on a proposed law or constitutional amendment. The adposition on is usually used before the related subject of the vote.
+Example: N/A
+
