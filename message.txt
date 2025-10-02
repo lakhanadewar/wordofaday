@@ -2937,3 +2937,7 @@ Example: N/A
 Meaning: To rest in a horizontal position on a surface.
 Example: The book lies on the table;  the snow lies on the roof;  he lies in his coffin
 
+[2025-10-02 17:37:11] Word of the Day: metapsychology
+Meaning: The philosophical study of psychology and of the mind.
+Example: N/A
+
