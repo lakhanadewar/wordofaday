@@ -2933,3 +2933,7 @@ Example: N/A
 Meaning: A practitioner of allopathy
 Example: N/A
 
+[2025-10-02 17:29:42] Word of the Day: lying
+Meaning: To rest in a horizontal position on a surface.
+Example: The book lies on the table;  the snow lies on the roof;  he lies in his coffin
+
