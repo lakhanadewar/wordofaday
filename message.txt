@@ -2945,3 +2945,7 @@ Example: N/A
 Meaning: A unit of weight for precious stones and pearls, equivalent to 200 milligrams.
 Example: N/A
 
+[2025-10-02 17:54:06] Word of the Day: polypodies
+Meaning: Any of many ferns of the genus Polypodium, especially common polypody.
+Example: N/A
+
