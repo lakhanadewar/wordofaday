@@ -2953,3 +2953,7 @@ Example: N/A
 Meaning: Anything which is less than human.
 Example: N/A
 
+[2025-10-02 18:26:39] Word of the Day: hoys
+Meaning: A small coaster vessel, usually sloop-rigged, used in conveying passengers and goods, or as a tender to larger vessels in port.
+Example: N/A
+
