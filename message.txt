@@ -2961,3 +2961,7 @@ Example: N/A
 Meaning: A formal, rhythmic way of walking, used especially by soldiers, bands and in ceremonies.
 Example: N/A
 
+[2025-10-02 18:50:23] Word of the Day: earning
+Meaning: To gain (success, reward, recognition) through applied effort or work.
+Example: You can have the s'mores: you earned them, clearing the walkway of snow so well.
+
