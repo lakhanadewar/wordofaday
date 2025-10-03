@@ -3021,3 +3021,7 @@ Example: N/A
 Meaning: The name of the Latin-script letter S.
 Example: N/A
 
+[2025-10-03 17:58:00] Word of the Day: unremarked
+Meaning: (often with "upon") Not the subject of any remark
+Example: The spread of corruption was unremarked upon.
+
