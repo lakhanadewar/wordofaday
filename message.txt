@@ -3013,3 +3013,7 @@ Example: “Dog” is a hyponym of “animal”.
 Meaning: To report erroneously; to give an incorrect account of.
 Example: N/A
 
+[2025-10-03 17:45:56] Word of the Day: madreporite
+Meaning: A calcareous opening in the body of echinoderms which connects the water vascular system to the environment.
+Example: N/A
+
