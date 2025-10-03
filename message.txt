@@ -2989,3 +2989,7 @@ Example: My coat needs patching.
 Meaning: To show or suggest ahead of time; to represent beforehand (often used in a Biblical context).
 Example: N/A
 
+[2025-10-03 09:48:31] Word of the Day: tout
+Meaning: Someone advertising for customers in an aggressive way.
+Example: Be careful of the ticket touts outside the arena, they are famed for selling counterfeits.
+
