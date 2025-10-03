@@ -2977,3 +2977,7 @@ Example: N/A
 Meaning: A large and violent whirlpool.
 Example: N/A
 
+[2025-10-03 08:56:44] Word of the Day: pooed
+Meaning: To defecate.
+Example: N/A
+
