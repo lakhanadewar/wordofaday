@@ -3001,3 +3001,7 @@ Example: N/A
 Meaning: To spell again.
 Example: N/A
 
+[2025-10-03 17:24:08] Word of the Day: refurnishing
+Meaning: To furnish again; to get new furniture for.
+Example: I'm planning to refurnish my flat.
+
