@@ -3005,3 +3005,7 @@ Example: N/A
 Meaning: To furnish again; to get new furniture for.
 Example: I'm planning to refurnish my flat.
 
+[2025-10-03 17:32:28] Word of the Day: hyponym
+Meaning: A more specific term; a subordinate grouping word or phrase.
+Example: “Dog” is a hyponym of “animal”.
+
