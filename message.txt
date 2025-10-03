@@ -3009,3 +3009,7 @@ Example: I'm planning to refurnish my flat.
 Meaning: A more specific term; a subordinate grouping word or phrase.
 Example: “Dog” is a hyponym of “animal”.
 
+[2025-10-03 17:40:24] Word of the Day: misreport
+Meaning: To report erroneously; to give an incorrect account of.
+Example: N/A
+
