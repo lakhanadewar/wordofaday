@@ -3049,3 +3049,7 @@ Example: N/A
 Meaning: A small brown passerine bird, Alauda arvensis, that sings as it flies high into the air.
 Example: N/A
 
+[2025-10-04 08:50:27] Word of the Day: buteos
+Meaning: Any of the broad-winged soaring raptors of the genus Buteo.
+Example: N/A
+
