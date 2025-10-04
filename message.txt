@@ -3093,3 +3093,7 @@ Example: N/A
 Meaning: A chemical substance derived from a biological source
 Example: N/A
 
+[2025-10-04 17:47:53] Word of the Day: juleps
+Meaning: A refreshing drink flavored with aromatic herbs, especially mint, and sometimes alcohol.
+Example: N/A
+
