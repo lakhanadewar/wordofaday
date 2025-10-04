@@ -3061,3 +3061,7 @@ Example: N/A
 Meaning: A breast
 Example: N/A
 
+[2025-10-04 09:38:45] Word of the Day: earmuffs
+Meaning: Objects designed to cover a person's ears for protection against cold or noise. They consist of a thermoplastic or metal head-band, that fits over the top of the head, and a pad at each end, to cover the external ears.
+Example: N/A
+
