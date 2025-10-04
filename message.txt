@@ -3069,3 +3069,7 @@ Example: N/A
 Meaning: The act of depriving a person of a weapon they carry.
 Example: N/A
 
+[2025-10-04 10:07:52] Word of the Day: educative
+Meaning: Serving to educate; educational.
+Example: N/A
+
