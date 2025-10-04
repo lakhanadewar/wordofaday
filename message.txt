@@ -3065,3 +3065,7 @@ Example: N/A
 Meaning: Objects designed to cover a person's ears for protection against cold or noise. They consist of a thermoplastic or metal head-band, that fits over the top of the head, and a pad at each end, to cover the external ears.
 Example: N/A
 
+[2025-10-04 09:50:04] Word of the Day: disarm
+Meaning: The act of depriving a person of a weapon they carry.
+Example: N/A
+
