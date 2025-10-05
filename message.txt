@@ -3193,3 +3193,7 @@ Example: N/A
 Meaning: A washable, easily removable cloth cover for pillows.
 Example: N/A
 
+[2025-10-05 18:47:53] Word of the Day: sorta
+Meaning: Approximately; in a way; partially; not quite; somewhat.
+Example: It sort of makes sense the way he explains it, but I still don't really understand.
+
