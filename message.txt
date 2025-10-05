@@ -3139,3 +3139,7 @@ Example: N/A
 Meaning: To drag or pull, especially forcibly.
 Example: N/A
 
+[2025-10-05 09:26:15] Word of the Day: iterative
+Meaning: (grammar) A verb showing the iterative aspect.
+Example: N/A
+
