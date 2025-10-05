@@ -3197,3 +3197,7 @@ Example: N/A
 Meaning: Approximately; in a way; partially; not quite; somewhat.
 Example: It sort of makes sense the way he explains it, but I still don't really understand.
 
+[2025-10-05 18:53:31] Word of the Day: mistreatments
+Meaning: Cruel, abusive , bad, unfair, or thoughtless treatment of a person or animal (only rarely of an object or a machine; usually: mishandle).
+Example: There were allegations of mistreatment at the prison.
+
