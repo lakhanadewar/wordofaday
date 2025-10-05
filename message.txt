@@ -3135,3 +3135,7 @@ Example: N/A
 Meaning: The wooden housing for a ship's compass, with its corrector magnets and illuminating arrangements. The log and other equipment for measuring the ship's speed are also stowed there.
 Example: N/A
 
+[2025-10-05 09:08:35] Word of the Day: haling
+Meaning: To drag or pull, especially forcibly.
+Example: N/A
+
