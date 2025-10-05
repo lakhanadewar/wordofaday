@@ -3131,3 +3131,7 @@ Example: N/A
 Meaning: Situated beneath the Moon.
 Example: N/A
 
+[2025-10-05 08:50:24] Word of the Day: binnacles
+Meaning: The wooden housing for a ship's compass, with its corrector magnets and illuminating arrangements. The log and other equipment for measuring the ship's speed are also stowed there.
+Example: N/A
+
