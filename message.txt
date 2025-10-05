@@ -3155,3 +3155,7 @@ Example: N/A
 Meaning: Difficult if not impossible to resolve; irresolvable
 Example: N/A
 
+[2025-10-05 17:03:49] Word of the Day: chassis
+Meaning: A base frame, or movable railway, along which the carriage of a mounted gun moves backward and forward.
+Example: N/A
+
