@@ -3233,3 +3233,7 @@ Example: N/A
 Meaning: A flake, fragment, or shiver.
 Example: N/A
 
+[2025-10-06 17:26:35] Word of the Day: connubial
+Meaning: Of or relating to the state of being married.
+Example: N/A
+
