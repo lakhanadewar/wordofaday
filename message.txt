@@ -3265,3 +3265,7 @@ Example: N/A
 Meaning: A receiver of this kind.
 Example: N/A
 
+[2025-10-06 18:55:24] Word of the Day: minor
+Meaning: A person who is below the age of majority, consent, criminal responsibility or other adult responsibilities and accountabilities.
+Example: It is illegal to sell weapons to minors under the age of eighteen.
+
