@@ -3245,3 +3245,7 @@ Example: The factory polluted the river when it cleaned its tanks.
 Meaning: The leader of a work crew.
 Example: N/A
 
+[2025-10-06 17:48:47] Word of the Day: kashrut
+Meaning: The Jewish dietary laws, stating which foods are fit to eat (kosher).
+Example: N/A
+
