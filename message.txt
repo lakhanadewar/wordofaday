@@ -3217,3 +3217,7 @@ Example: N/A
 Meaning: An ignorant person.
 Example: N/A
 
+[2025-10-06 09:30:31] Word of the Day: navigate
+Meaning: To plan, control and record the position and course of a vehicle, ship, aircraft, etc., on a journey; to follow a planned course.
+Example: He navigated the bomber to the Ruhr.
+
