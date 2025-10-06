@@ -3237,3 +3237,7 @@ Example: N/A
 Meaning: Of or relating to the state of being married.
 Example: N/A
 
+[2025-10-06 17:36:33] Word of the Day: polluted
+Meaning: To make something harmful, especially by the addition of some unwanted product.
+Example: The factory polluted the river when it cleaned its tanks.
+
