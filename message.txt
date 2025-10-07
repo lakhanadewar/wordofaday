@@ -3281,3 +3281,7 @@ Example: N/A
 Meaning: The sum of all attributes that are feminine or convey womanhood.
 Example: N/A
 
+[2025-10-07 09:28:03] Word of the Day: bidarka
+Meaning: A kayak constructed by covering a light wooden frame (lashed together with sinew) in sea lion hides.
+Example: N/A
+
