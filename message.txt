@@ -3289,3 +3289,7 @@ Example: N/A
 Meaning: Stupid.
 Example: N/A
 
+[2025-10-07 09:54:52] Word of the Day: archimandrites
+Meaning: The superior of a large monastery, or group of monasteries, in the Orthodox Church.
+Example: N/A
+
