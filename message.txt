@@ -3273,3 +3273,7 @@ Example: It is illegal to sell weapons to minors under the age of eighteen.
 Meaning: A chronic, inflammatory lung disease caused by long-term, heavy exposure to asbestos.
 Example: N/A
 
+[2025-10-07 08:47:58] Word of the Day: macer
+Meaning: A mace bearer; specifically, an officer of a court in Scotland.
+Example: N/A
+
