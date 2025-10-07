@@ -3285,3 +3285,7 @@ Example: N/A
 Meaning: A kayak constructed by covering a light wooden frame (lashed together with sinew) in sea lion hides.
 Example: N/A
 
+[2025-10-07 09:43:47] Word of the Day: simpleminded
+Meaning: Stupid.
+Example: N/A
+
