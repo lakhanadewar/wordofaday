@@ -3385,3 +3385,7 @@ Example: N/A
 Meaning: To open something by ripping/tearing.
 Example: N/A
 
+[2025-10-08 17:56:13] Word of the Day: guanidine
+Meaning: A strong base HN=C(NH2)2 obtained by the oxidation of guanine
+Example: N/A
+
