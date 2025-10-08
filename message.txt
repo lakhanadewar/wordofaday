@@ -3345,3 +3345,7 @@ Example: N/A
 Meaning: Wilderness where human development is prohibited.
 Example: N/A
 
+[2025-10-08 09:00:19] Word of the Day: bunkering
+Meaning: To load a vessel with oil or coal for the engine.
+Example: N/A
+
