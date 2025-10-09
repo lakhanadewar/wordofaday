@@ -3425,3 +3425,7 @@ Example: N/A
 Meaning: A large settlement, bigger than a town; sometimes with a specific legal definition, depending on the place.
 Example: São Paulo is the largest city in South America.
 
+[2025-10-09 09:54:05] Word of the Day: coagulants
+Meaning: A substance that causes coagulation
+Example: N/A
+
