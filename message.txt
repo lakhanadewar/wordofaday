@@ -3413,3 +3413,7 @@ Example: N/A
 Meaning: A perfect and/or early example of a particular style.
 Example: N/A
 
+[2025-10-09 09:00:16] Word of the Day: disrates
+Meaning: To lower a rate or rating
+Example: N/A
+
