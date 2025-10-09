@@ -3429,3 +3429,7 @@ Example: São Paulo is the largest city in South America.
 Meaning: A substance that causes coagulation
 Example: N/A
 
+[2025-10-09 10:19:24] Word of the Day: overprecise
+Meaning: Excessively precise; more accurate than is needed.
+Example: N/A
+
