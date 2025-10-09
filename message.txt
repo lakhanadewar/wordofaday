@@ -3457,3 +3457,7 @@ Example: N/A
 Meaning: An extracellular fluid found in the scala tympani and scala vestibuli of the cochlea.
 Example: N/A
 
+[2025-10-09 18:16:17] Word of the Day: vandalize
+Meaning: To needlessly destroy or deface other people’s property or public property; to commit vandalism.
+Example: N/A
+
