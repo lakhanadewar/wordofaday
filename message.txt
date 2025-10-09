@@ -3405,3 +3405,7 @@ Example: N/A
 Meaning: A type of knot which is useful for shortening a rope or taking up slack without cutting it.
 Example: N/A
 
+[2025-10-09 08:27:39] Word of the Day: oarsman
+Meaning: A man who rows a boat, either alone or with others.
+Example: N/A
+
