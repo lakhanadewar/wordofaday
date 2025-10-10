@@ -3527,3 +3527,7 @@ Example: N/A
 Meaning: Worsted yarn, slackly twisted, used for embroidery.
 Example: N/A
 
+[2025-10-10 18:25:38] Word of the Day: wintry
+Meaning: Suggestive or characteristic of winter; cold, stormy.
+Example: wintry weather
+
