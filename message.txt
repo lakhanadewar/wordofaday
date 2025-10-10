@@ -3503,3 +3503,7 @@ Example: N/A
 Meaning: To seize and detain a person unlawfully; sometimes for ransom.
 Example: N/A
 
+[2025-10-10 17:25:48] Word of the Day: reviewing
+Meaning: To survey; to look broadly over.
+Example: Before I tackle the question directly, I must briefly review historical approaches to the problem.
+
