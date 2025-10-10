@@ -3531,3 +3531,7 @@ Example: N/A
 Meaning: Suggestive or characteristic of winter; cold, stormy.
 Example: wintry weather
 
+[2025-10-10 18:43:53] Word of the Day: tritiated
+Meaning: To modify (a compound) by replacing some of its normal hydrogen (protium) with the heavy isotope tritium
+Example: N/A
+
