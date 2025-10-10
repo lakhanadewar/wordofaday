@@ -3495,3 +3495,7 @@ Example: The nerves can be seen through the skin.
 
 [2025-10-10 09:53:43] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-10-10 10:18:12] Word of the Day: cowfish
+Meaning: Any of genera Acanthostracion and Lactoria, of the boxfish family Ostraciidae.
+Example: N/A
+
