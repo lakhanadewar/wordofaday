@@ -3523,3 +3523,7 @@ Example: N/A
 Meaning: A critical value, factor, etc.
 Example: N/A
 
+[2025-10-10 17:59:29] Word of the Day: crewel
+Meaning: Worsted yarn, slackly twisted, used for embroidery.
+Example: N/A
+
