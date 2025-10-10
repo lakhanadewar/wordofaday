@@ -3515,3 +3515,7 @@ Example: N/A
 Meaning: The science of measuring altitude
 Example: N/A
 
+[2025-10-10 17:47:53] Word of the Day: lapse
+Meaning: A temporary failure; a slip.
+Example: N/A
+
