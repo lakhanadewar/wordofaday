@@ -3473,3 +3473,7 @@ Example: N/A
 Meaning: A miser.
 Example: N/A
 
+[2025-10-10 08:26:59] Word of the Day: swingy
+Meaning: Having a swinging motion.
+Example: N/A
+
