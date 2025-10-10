@@ -3511,3 +3511,7 @@ Example: Before I tackle the question directly, I must briefly review historical
 Meaning: A type of tin-glazed earthenware ceramic.
 Example: N/A
 
+[2025-10-10 17:42:16] Word of the Day: altimetry
+Meaning: The science of measuring altitude
+Example: N/A
+
