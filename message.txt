@@ -3555,3 +3555,7 @@ Example: N/A
 Meaning: The plate used to hold the host during the Eucharist.
 Example: N/A
 
+[2025-10-11 09:11:03] Word of the Day: cornels
+Meaning: Any tree or shrub of the dogwood subgenera, Cornus subg. Arctocrania (syn. Cornus subg. Chamaepericlymenum) or Cornus subg. Cornus, especially Cornus mas, the European cornel.
+Example: N/A
+
