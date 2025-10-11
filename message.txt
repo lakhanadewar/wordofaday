@@ -3575,3 +3575,7 @@ Example: N/A
 Meaning: A unit of measure of the power of a lens or mirror, equal to the reciprocal of its focal length in meters. Myopia is diagnosed and measured in diopters.
 Example: N/A
 
+[2025-10-11 17:03:46] Word of the Day: photographer
+Meaning: One who takes photographs, typically as an occupation.
+Example: N/A
+
