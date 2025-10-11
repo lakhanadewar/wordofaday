@@ -3571,3 +3571,7 @@ Example: N/A
 Meaning: A narcissist.
 Example: N/A
 
+[2025-10-11 10:09:42] Word of the Day: diopters
+Meaning: A unit of measure of the power of a lens or mirror, equal to the reciprocal of its focal length in meters. Myopia is diagnosed and measured in diopters.
+Example: N/A
+
