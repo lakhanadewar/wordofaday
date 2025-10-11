@@ -3605,3 +3605,7 @@ Example: N/A
 Meaning: To enact again.
 Example: N/A
 
+[2025-10-11 18:19:32] Word of the Day: anthologizes
+Meaning: To compile, or include something in, an anthology.
+Example: N/A
+
