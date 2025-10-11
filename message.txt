@@ -3567,3 +3567,7 @@ Example: N/A
 Meaning: To fill beyond capacity or beyond what is appropriate.
 Example: N/A
 
+[2025-10-11 09:50:36] Word of the Day: narcissistic
+Meaning: A narcissist.
+Example: N/A
+
