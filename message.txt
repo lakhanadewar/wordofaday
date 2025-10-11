@@ -3609,3 +3609,7 @@ Example: N/A
 Meaning: To compile, or include something in, an anthology.
 Example: N/A
 
+[2025-10-11 18:36:14] Word of the Day: recuses
+Meaning: To refuse or reject (a judge); to declare that the judge shall not try the case or is disqualified from acting.
+Example: The judge recused herself from that case, citing a possible conflict of interest.
+
