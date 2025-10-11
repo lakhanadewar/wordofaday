@@ -3583,3 +3583,7 @@ Example: N/A
 Meaning: Crude, raw or unprocessed
 Example: N/A
 
+[2025-10-11 17:28:44] Word of the Day: tramroad
+Meaning: A road designed for use by trams or wagons.
+Example: N/A
+
