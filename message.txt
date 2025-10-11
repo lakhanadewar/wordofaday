@@ -3621,3 +3621,7 @@ Example: N/A
 Meaning: Defensive armour for the thighs
 Example: N/A
 
+[2025-10-11 18:56:00] Word of the Day: fathead
+Meaning: An idiot; a fool.
+Example: You fathead! You forgot to put the milk in the fridge and now it's spoiled!
+
