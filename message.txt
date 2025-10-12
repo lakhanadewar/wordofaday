@@ -3703,3 +3703,7 @@ Example: N/A
 Meaning: Caffeine when present in tea.
 Example: N/A
 
+[2025-10-12 18:59:33] Word of the Day: flense
+Meaning: To strip the blubber or skin from, as from a whale, seal, etc.
+Example: N/A
+
