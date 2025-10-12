@@ -3649,3 +3649,7 @@ Example: N/A
 Meaning: To rub and knead (someone's body or a part of a body), to perform a massage on (somebody).
 Example: N/A
 
+[2025-10-12 09:51:31] Word of the Day: anapest
+Meaning: In qualitative metre, a metrical foot consisting of three syllables, two unstressed and one stressed (e.g., the word "interrupt").
+Example: N/A
+
