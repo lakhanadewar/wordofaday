@@ -3663,3 +3663,7 @@ Example: The meeting was suspended for lunch.
 Meaning: To feign illness, injury, or incapacitation in order to avoid work, obligation, or perilous risk.
 Example: It is not uncommon on exam days for several students to malinger rather than prepare themselves.
 
+[2025-10-12 17:29:20] Word of the Day: testing
+Meaning: To challenge.
+Example: Climbing the mountain tested our stamina.
+
