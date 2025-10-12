@@ -3687,3 +3687,7 @@ Example: N/A
 Meaning: To cut into slices.
 Example: Slice the cheese thinly.
 
+[2025-10-12 18:23:54] Word of the Day: aperies
+Meaning: A place where apes are kept.
+Example: N/A
+
