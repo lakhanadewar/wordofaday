@@ -3691,3 +3691,7 @@ Example: Slice the cheese thinly.
 Meaning: A place where apes are kept.
 Example: N/A
 
+[2025-10-12 18:40:12] Word of the Day: speakership
+Meaning: The role or status of speaker.
+Example: N/A
+
