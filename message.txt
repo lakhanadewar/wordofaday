@@ -3683,3 +3683,7 @@ Example: N/A
 Meaning: A person with pronounced muscular development and low body fat.
 Example: N/A
 
+[2025-10-12 17:59:45] Word of the Day: sliced
+Meaning: To cut into slices.
+Example: Slice the cheese thinly.
+
