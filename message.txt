@@ -3659,3 +3659,7 @@ Example: The meeting was suspended for lunch.
 
 [2025-10-12 17:02:43] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-10-12 17:18:57] Word of the Day: malingers
+Meaning: To feign illness, injury, or incapacitation in order to avoid work, obligation, or perilous risk.
+Example: It is not uncommon on exam days for several students to malinger rather than prepare themselves.
+
