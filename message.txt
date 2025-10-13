@@ -3711,3 +3711,7 @@ Example: N/A
 Meaning: The foundation; the basic or fundamental parts that support or allow for the rest.
 Example: The discovery of the laws of electricity laid the groundwork for a century of innovation.
 
+[2025-10-13 08:52:12] Word of the Day: yuga
+Meaning: In Hindu theology, an epoch or era within a cycle of four ages: the Satya Yuga (or Krita Yuga), the Dvapara Yuga, the Treta Yuga and finally the Kali Yuga, with lengths ranging from 432,000 to 1,728,000 years.
+Example: N/A
+
