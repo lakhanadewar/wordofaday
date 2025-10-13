@@ -3723,3 +3723,7 @@ Example: N/A
 Meaning: Damned by God.
 Example: N/A
 
+[2025-10-13 09:50:28] Word of the Day: bettors
+Meaning: A person who makes a bet, such as a wager on the outcome of a game of chance or a sporting event.
+Example: N/A
+
