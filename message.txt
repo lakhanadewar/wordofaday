@@ -3767,3 +3767,7 @@ Example: N/A
 Meaning: Nonsensical talk or thinking.
 Example: N/A
 
+[2025-10-13 18:53:23] Word of the Day: nitrocellulose
+Meaning: A cotton-like material, made from cellulose by the action of nitric and sulphuric acids, used in the manufacture of explosives, collodion etc.
+Example: N/A
+
