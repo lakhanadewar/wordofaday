@@ -3809,3 +3809,7 @@ Example: N/A
 Meaning: In an exciting manner
 Example: N/A
 
+[2025-10-14 17:32:52] Word of the Day: decontrolling
+Meaning: To remove controls.
+Example: N/A
+
