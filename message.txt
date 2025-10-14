@@ -3779,3 +3779,7 @@ Example: N/A
 Meaning: In a comical manner
 Example: N/A
 
+[2025-10-14 08:47:02] Word of the Day: zeolites
+Meaning: Any of several minerals, aluminosilicates of sodium, potassium, calcium or magnesium, that have a porous structure; they are used in water softeners and in ion exchange chromatography.
+Example: N/A
+
