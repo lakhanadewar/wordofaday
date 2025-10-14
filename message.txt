@@ -3841,3 +3841,7 @@ Example: Tail that car!
 Meaning: A statement or claim of questionable accuracy, from no known reliable source, usually spread by word of mouth.
 Example: There's a rumor going round that he's going to get married.
 
+[2025-10-14 18:57:09] Word of the Day: stillroom
+Meaning: A room containing a still (for distillation).
+Example: N/A
+
