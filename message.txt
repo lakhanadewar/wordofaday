@@ -3849,3 +3849,7 @@ Example: N/A
 Meaning: Food fit for human consumption.
 Example: N/A
 
+[2025-10-15 08:52:03] Word of the Day: sphagnum
+Meaning: Any of various widely distributed mosses, of genus Sphagnum, which slowly decompose to form peat.
+Example: N/A
+
