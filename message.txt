@@ -3861,3 +3861,7 @@ Example: N/A
 Meaning: Removal or partial removal of the stomach
 Example: N/A
 
+[2025-10-15 09:48:36] Word of the Day: maladaptive
+Meaning: (chiefly of behaviour) Showing inadequate or faulty adaptation to a new situation.
+Example: N/A
+
