@@ -3887,3 +3887,7 @@ Example: N/A
 
 [2025-10-15 18:16:46] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-10-15 18:44:06] Word of the Day: strait
+Meaning: A narrow channel of water connecting two larger bodies of water.
+Example: The Strait of Gibraltar
+
