@@ -3873,3 +3873,7 @@ Example: N/A
 
 [2025-10-15 17:28:55] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-10-15 17:37:37] Word of the Day: crystallize
+Meaning: To make something form into crystals
+Example: I crystallized the copper sulphate by slowly cooling a saturated solution.
+
