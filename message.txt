@@ -4071,3 +4071,7 @@ Example: N/A
 Meaning: To draw or paint; to delineate.
 Example: N/A
 
+[2025-10-19 18:59:21] Word of the Day: audible
+Meaning: The act of or an instance of changing the play at the line of scrimmage by yelling out a new one.
+Example: The audible changed the play to a run.
+
