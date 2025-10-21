@@ -4147,3 +4147,7 @@ Example: N/A
 Meaning: A female flight attendant (a member of the crew of an airplane who is responsible for the comfort and safety of its passengers).
 Example: N/A
 
+[2025-10-21 17:51:00] Word of the Day: carriageway
+Meaning: The part of a road that carries traffic.
+Example: N/A
+
