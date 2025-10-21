@@ -4155,3 +4155,7 @@ Example: N/A
 Meaning: Any salt of vanadic acid
 Example: N/A
 
+[2025-10-21 18:17:45] Word of the Day: caricatured
+Meaning: To represent someone in an exaggerated or distorted manner.
+Example: N/A
+
