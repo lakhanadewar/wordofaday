@@ -4135,3 +4135,7 @@ Example: N/A
 Meaning: A quick rinse given to objects before they are washed properly.
 Example: N/A
 
+[2025-10-21 17:27:09] Word of the Day: tocsin
+Meaning: An alarm or other signal sounded by a bell or bells, originally especially with reference to France.
+Example: N/A
+
