@@ -4167,3 +4167,7 @@ Example: N/A
 Meaning: A cage for keeping rabbits, guinea pigs, etc.
 Example: N/A
 
+[2025-10-21 19:01:22] Word of the Day: eigenvector
+Meaning: Given a linear transformation T, a vector x such that Ax=\lambda x for some scalar \lambda
+Example: N/A
+
