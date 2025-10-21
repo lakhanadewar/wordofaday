@@ -4111,3 +4111,7 @@ Example: N/A
 Meaning: To make broad or broader.
 Example: Travel broadens the mind.
 
+[2025-10-21 08:52:07] Word of the Day: threaded
+Meaning: To put thread through.
+Example: thread a needle
+
