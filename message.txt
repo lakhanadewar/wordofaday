@@ -4171,3 +4171,7 @@ Example: N/A
 Meaning: Given a linear transformation T, a vector x such that Ax=\lambda x for some scalar \lambda
 Example: N/A
 
+[2025-10-22 08:30:06] Word of the Day: basmati
+Meaning: A variety of long-grain rice, notable for its fragrance.
+Example: N/A
+
