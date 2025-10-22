@@ -4207,3 +4207,7 @@ Example: N/A
 Meaning: The expense of a business not directly assigned to goods or services provided.
 Example: N/A
 
+[2025-10-22 17:43:47] Word of the Day: coquetted
+Meaning: To act as a flirt or coquet.
+Example: N/A
+
