@@ -4223,3 +4223,7 @@ Example: N/A
 Meaning: A strong will, determination.
 Example: N/A
 
+[2025-10-22 18:44:43] Word of the Day: percept
+Meaning: Something perceived; the object of perception.
+Example: N/A
+
