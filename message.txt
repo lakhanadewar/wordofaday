@@ -4215,3 +4215,7 @@ Example: N/A
 Meaning: To act as coxswain for.
 Example: I coxed the lightweight 4+ yesterday.
 
+[2025-10-22 17:55:33] Word of the Day: epidiascope
+Meaning: A machine that projects images onto a screen.
+Example: N/A
+
