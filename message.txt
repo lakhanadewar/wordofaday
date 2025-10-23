@@ -4255,3 +4255,7 @@ Example: N/A
 Meaning: A point source from which radiation is emitted.
 Example: N/A
 
+[2025-10-23 17:08:08] Word of the Day: bibliographical
+Meaning: Bibliographic
+Example: N/A
+
