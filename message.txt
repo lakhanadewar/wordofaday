@@ -4231,3 +4231,7 @@ Example: N/A
 Meaning: To remove a blockage from.
 Example: N/A
 
+[2025-10-23 08:29:09] Word of the Day: overissuing
+Meaning: To issue shares or banknotes to an extent beyond the ability to pay, or in excess of authorization
+Example: N/A
+
