@@ -4259,3 +4259,7 @@ Example: N/A
 Meaning: Bibliographic
 Example: N/A
 
+[2025-10-23 17:27:11] Word of the Day: pomaded
+Meaning: To anoint with pomade; to use pomade to style (hair).
+Example: He pomaded his hair until it looked like a piece of shiny plastic.
+
