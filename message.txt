@@ -4287,3 +4287,7 @@ Example: N/A
 Meaning: An integrating device used to measure the area of an irregular figure via tracing its outline.
 Example: N/A
 
+[2025-10-23 18:54:17] Word of the Day: eyeshade
+Meaning: A type of headgear for shielding the eyes from glaring light, usually consisting of a visor and a headband, more popular among indoor workers in the late-nineteenth and early-twentieth centuries than today.
+Example: N/A
+
