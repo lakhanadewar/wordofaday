@@ -4331,3 +4331,7 @@ Example: N/A
 Meaning: To split, forming fissures.
 Example: N/A
 
+[2025-10-24 17:37:34] Word of the Day: carton
+Meaning: An inexpensive, disposable box-like container fashioned from either paper, paper with wax-covering (wax paper), or other lightweight material.
+Example: a carton of milk
+
