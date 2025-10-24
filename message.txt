@@ -4299,3 +4299,7 @@ Example: N/A
 Meaning: A mythological creature with the front head and forelimbs of a horse and the rear of a dolphin.
 Example: N/A
 
+[2025-10-24 08:49:30] Word of the Day: deeper
+Meaning: (of a physical distance) Extending far away from a point of reference, especially downwards.
+Example: N/A
+
