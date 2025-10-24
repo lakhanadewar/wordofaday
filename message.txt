@@ -4295,3 +4295,7 @@ Example: N/A
 Meaning: A horse with a golden-colored coat and a white or cream-colored mane and tail.
 Example: N/A
 
+[2025-10-24 08:28:07] Word of the Day: hippocampus
+Meaning: A mythological creature with the front head and forelimbs of a horse and the rear of a dolphin.
+Example: N/A
+
