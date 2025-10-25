@@ -4371,3 +4371,7 @@ Example: N/A
 Meaning: A frame on which laundry is hung to dry.
 Example: N/A
 
+[2025-10-25 08:52:40] Word of the Day: importune
+Meaning: To bother, trouble, irritate.
+Example: N/A
+
