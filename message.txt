@@ -4363,3 +4363,7 @@ Example: N/A
 Meaning: Amnion
 Example: N/A
 
+[2025-10-25 08:23:48] Word of the Day: smoldering
+Meaning: To burn with no flame and little smoke.
+Example: N/A
+
