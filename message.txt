@@ -4431,3 +4431,7 @@ Example: N/A
 Meaning: To place (objects) into a line (usually used with "up"); to form into a line; to align.
 Example: to line troops
 
+[2025-10-25 18:47:35] Word of the Day: farrowed
+Meaning: To give birth to a (litter of piglets).
+Example: N/A
+
