@@ -4439,3 +4439,7 @@ Example: N/A
 Meaning: To equip again; to provide with new equipment
 Example: N/A
 
+[2025-10-25 18:59:15] Word of the Day: to
+Meaning: Toward a closed, touching or engaging position.
+Example: Please push the door to.
+
