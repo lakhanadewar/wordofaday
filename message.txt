@@ -4423,3 +4423,7 @@ Example: N/A
 Meaning: To prod with a goad.
 Example: N/A
 
+[2025-10-25 18:11:27] Word of the Day: pistoles
+Meaning: A Spanish gold double-escudo coin of the mid-sixteenth century, or any of various gold coins derived from or based on this.
+Example: N/A
+
