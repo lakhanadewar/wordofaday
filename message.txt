@@ -4419,3 +4419,7 @@ Example: N/A
 Meaning: A device used to plant seeds; a seed drill
 Example: N/A
 
+[2025-10-25 17:55:24] Word of the Day: goaded
+Meaning: To prod with a goad.
+Example: N/A
+
