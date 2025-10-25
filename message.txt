@@ -4391,3 +4391,7 @@ Example: N/A
 Meaning: A bone of a herring
 Example: N/A
 
+[2025-10-25 10:12:21] Word of the Day: halitosis
+Meaning: The condition of having stale or foul-smelling breath.
+Example: N/A
+
