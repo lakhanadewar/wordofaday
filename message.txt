@@ -4435,3 +4435,7 @@ Example: to line troops
 Meaning: To give birth to a (litter of piglets).
 Example: N/A
 
+[2025-10-25 18:53:36] Word of the Day: reequipping
+Meaning: To equip again; to provide with new equipment
+Example: N/A
+
