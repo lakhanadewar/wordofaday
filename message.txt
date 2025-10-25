@@ -4427,3 +4427,7 @@ Example: N/A
 Meaning: A Spanish gold double-escudo coin of the mid-sixteenth century, or any of various gold coins derived from or based on this.
 Example: N/A
 
+[2025-10-25 18:35:57] Word of the Day: lining
+Meaning: To place (objects) into a line (usually used with "up"); to form into a line; to align.
+Example: to line troops
+
