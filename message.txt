@@ -4399,3 +4399,7 @@ Example: N/A
 Meaning: "Hello!" or an equivalent greeting.
 Example: N/A
 
+[2025-10-25 17:23:15] Word of the Day: outnumbered
+Meaning: (stative) to be more in number than somebody or something.
+Example: Women outnumbered men by two to one.
+
