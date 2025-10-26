@@ -4465,3 +4465,7 @@ Example: N/A
 Meaning: (followed by with) To spray with (a specified liquid).
 Example: N/A
 
+[2025-10-26 09:52:51] Word of the Day: ravelling
+Meaning: To tangle; entangle; entwine confusedly, become snarled; thus to involve; perplex; confuse.
+Example: N/A
+
