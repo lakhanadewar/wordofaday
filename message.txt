@@ -4513,3 +4513,7 @@ Example: The baker scored the cake so that the servers would know where to slice
 Meaning: To convert liquid into a fine spray of aerosols, by using a nebulizer; to atomize
 Example: N/A
 
+[2025-10-26 18:56:45] Word of the Day: prangs
+Meaning: An aeroplane crash.
+Example: N/A
+
