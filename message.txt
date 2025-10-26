@@ -4505,3 +4505,7 @@ Example: N/A
 Meaning: An elevated enclosed passage providing access fore and aft from the bridge of a merchant vessel.
 Example: N/A
 
+[2025-10-26 18:41:50] Word of the Day: scored
+Meaning: To cut a notch or a groove in a surface.
+Example: The baker scored the cake so that the servers would know where to slice it.
+
