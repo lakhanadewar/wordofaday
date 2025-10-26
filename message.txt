@@ -4457,3 +4457,7 @@ Example: N/A
 Meaning: Somebody with whom one works.
 Example: He heard from a coworker that the company planned to merge those departments.
 
+[2025-10-26 09:30:06] Word of the Day: aftermarket
+Meaning: The market for further goods and services, such as replacement parts and accessories, subsequent to the sale of a product such as an automobile or computer.
+Example: N/A
+
