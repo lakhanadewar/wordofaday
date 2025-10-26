@@ -4489,3 +4489,7 @@ Example: N/A
 Meaning: A deciduous tree with distinctive deeply lobed leaves, acorns, and notably strong wood, typically of England and northeastern North America, included in genus Quercus.
 Example: N/A
 
+[2025-10-26 17:46:45] Word of the Day: fanjet
+Meaning: A turbofan engine.
+Example: N/A
+
