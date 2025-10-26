@@ -4509,3 +4509,7 @@ Example: N/A
 Meaning: To cut a notch or a groove in a surface.
 Example: The baker scored the cake so that the servers would know where to slice it.
 
+[2025-10-26 18:51:06] Word of the Day: nebulizes
+Meaning: To convert liquid into a fine spray of aerosols, by using a nebulizer; to atomize
+Example: N/A
+
