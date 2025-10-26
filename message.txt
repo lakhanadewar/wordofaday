@@ -4453,3 +4453,7 @@ Example: N/A
 Meaning: To wander or travel freely and with no specific destination.
 Example: N/A
 
+[2025-10-26 09:13:30] Word of the Day: coworkers
+Meaning: Somebody with whom one works.
+Example: He heard from a coworker that the company planned to merge those departments.
+
