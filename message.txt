@@ -4521,3 +4521,7 @@ Example: N/A
 Meaning: Anything that is hollow and cylindrical in shape.
 Example: N/A
 
+[2025-10-27 08:51:20] Word of the Day: hijacker
+Meaning: Someone who hijacks.
+Example: the hijacker of an aeroplane
+
