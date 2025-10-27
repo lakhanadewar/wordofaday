@@ -4545,3 +4545,7 @@ Example: I have to vacate my house by midday, as the new owner is moving in.
 Meaning: To deceive, cheat, lie.
 Example: N/A
 
+[2025-10-27 17:27:38] Word of the Day: ortho
+Meaning: An isomer of a benzene derivative having two substituents adjacent on the ring.
+Example: N/A
+
