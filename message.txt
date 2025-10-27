@@ -4541,3 +4541,7 @@ Example: N/A
 Meaning: To move out of a dwelling, either by choice or by eviction.
 Example: I have to vacate my house by midday, as the new owner is moving in.
 
+[2025-10-27 17:08:03] Word of the Day: shammed
+Meaning: To deceive, cheat, lie.
+Example: N/A
+
