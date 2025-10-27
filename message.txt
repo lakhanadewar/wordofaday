@@ -4549,3 +4549,7 @@ Example: N/A
 Meaning: An isomer of a benzene derivative having two substituents adjacent on the ring.
 Example: N/A
 
+[2025-10-27 17:38:17] Word of the Day: yottabytes
+Meaning: One septillion (1024) bytes. SI symbol: YB.
+Example: N/A
+
