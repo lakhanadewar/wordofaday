@@ -4553,3 +4553,7 @@ Example: N/A
 Meaning: One septillion (1024) bytes. SI symbol: YB.
 Example: N/A
 
+[2025-10-27 17:44:39] Word of the Day: sedilia
+Meaning: A series of seats, often recessed into the wall, on the south side of the chancel or choir for the use of officiating clergy.
+Example: N/A
+
