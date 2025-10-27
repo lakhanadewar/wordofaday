@@ -4537,3 +4537,7 @@ Example: N/A
 Meaning: A piece of cloth used for washing dishes.
 Example: N/A
 
+[2025-10-27 10:14:17] Word of the Day: vacates
+Meaning: To move out of a dwelling, either by choice or by eviction.
+Example: I have to vacate my house by midday, as the new owner is moving in.
+
