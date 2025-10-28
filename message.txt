@@ -4621,3 +4621,7 @@ Example: N/A
 Meaning: To attend an event as a spectator; to observe.
 Example: N/A
 
+[2025-10-28 18:44:46] Word of the Day: solvated
+Meaning: To form such a complex upon solution
+Example: N/A
+
