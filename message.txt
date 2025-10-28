@@ -4597,3 +4597,7 @@ Example: N/A
 Meaning: A second or subsequent admission
 Example: N/A
 
+[2025-10-28 09:47:43] Word of the Day: civilisation
+Meaning: An organized culture encompassing many communities, often on the scale of a nation or a people; a stage or system of social, political or technical development.
+Example: Modern civilization is a product of industrialization and globalization.
+
