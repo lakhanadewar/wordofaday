@@ -4641,3 +4641,7 @@ Example: N/A
 Meaning: (of metal) Not alloyed; not in mixture with other metals; pure.
 Example: N/A
 
+[2025-10-29 09:34:40] Word of the Day: hemichordate
+Meaning: Any of many marine worms, of the phylum Hemichordata, that have a primitive notochord
+Example: N/A
+
