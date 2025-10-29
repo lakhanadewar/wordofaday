@@ -4637,3 +4637,7 @@ Example: N/A
 Meaning: The vocabulary of a language.
 Example: N/A
 
+[2025-10-29 09:14:20] Word of the Day: unalloyed
+Meaning: (of metal) Not alloyed; not in mixture with other metals; pure.
+Example: N/A
+
