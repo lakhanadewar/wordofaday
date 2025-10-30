@@ -4731,3 +4731,7 @@ Example: N/A
 Meaning: To make English, as to customs, culture, pronunciation, spelling, or style.
 Example: N/A
 
+[2025-10-30 17:58:37] Word of the Day: casebooks
+Meaning: A collection of stories or accounts that can individually be described as cases.
+Example: N/A
+
