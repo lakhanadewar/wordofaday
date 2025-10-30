@@ -4743,3 +4743,7 @@ Example: N/A
 Meaning: Any of various species of large, long-necked waterfowl, of genus Cygnus (bird family: Anatidae), most of which have white plumage.
 Example: N/A
 
+[2025-10-30 18:56:24] Word of the Day: demodulating
+Meaning: To reverse modulate, undo the effects of modulation.
+Example: In a radio transmitter you modulate the carrier wave; in the receiver you demodulate it.
+
