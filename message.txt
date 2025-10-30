@@ -4719,3 +4719,7 @@ Example: N/A
 Meaning: Arranged in two rows on each side of an axis.
 Example: N/A
 
+[2025-10-30 17:41:31] Word of the Day: disemboguing
+Meaning: To come out into the open sea from a river etc.
+Example: The ships disembogued from the harbour.
+
