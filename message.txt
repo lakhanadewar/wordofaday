@@ -4727,3 +4727,7 @@ Example: The ships disembogued from the harbour.
 Meaning: To close or lock as if with a latch.
 Example: N/A
 
+[2025-10-30 17:53:02] Word of the Day: anglicises
+Meaning: To make English, as to customs, culture, pronunciation, spelling, or style.
+Example: N/A
+
