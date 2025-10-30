@@ -4739,3 +4739,7 @@ Example: N/A
 Meaning: A bowl-shaped geographical feature formed by glaciation.
 Example: N/A
 
+[2025-10-30 18:46:17] Word of the Day: swan
+Meaning: Any of various species of large, long-necked waterfowl, of genus Cygnus (bird family: Anatidae), most of which have white plumage.
+Example: N/A
+
