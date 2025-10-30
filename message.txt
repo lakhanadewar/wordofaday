@@ -4735,3 +4735,7 @@ Example: N/A
 Meaning: A collection of stories or accounts that can individually be described as cases.
 Example: N/A
 
+[2025-10-30 18:23:44] Word of the Day: corrie
+Meaning: A bowl-shaped geographical feature formed by glaciation.
+Example: N/A
+
