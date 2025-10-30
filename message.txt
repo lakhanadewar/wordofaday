@@ -4691,3 +4691,7 @@ Example: N/A
 Meaning: To apply the Rolfing massage technique to.
 Example: N/A
 
+[2025-10-30 08:49:51] Word of the Day: unstops
+Meaning: To remove a stoppage; to clear a blockage.
+Example: I was able to unstop the clogged toilet by using a plunger.
+
