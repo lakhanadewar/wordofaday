@@ -4791,3 +4791,7 @@ Example: N/A
 Meaning: A time period of indeterminate length, generally more than one year.
 Example: N/A
 
+[2025-10-31 17:56:27] Word of the Day: coacervate
+Meaning: The microsphere droplet that results from coacervation.
+Example: N/A
+
