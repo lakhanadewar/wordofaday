@@ -4775,3 +4775,7 @@ Example: N/A
 Meaning: (of light) To change direction as a result of entering a different medium
 Example: N/A
 
+[2025-10-31 17:29:00] Word of the Day: bakeshops
+Meaning: A shop where baked goods are made and sold.
+Example: N/A
+
