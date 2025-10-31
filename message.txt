@@ -4771,3 +4771,7 @@ Example: N/A
 Meaning: Staphylococcus bacteria and the infection it causes.
 Example: N/A
 
+[2025-10-31 17:09:11] Word of the Day: refracting
+Meaning: (of light) To change direction as a result of entering a different medium
+Example: N/A
+
