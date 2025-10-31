@@ -4779,3 +4779,7 @@ Example: N/A
 Meaning: A shop where baked goods are made and sold.
 Example: N/A
 
+[2025-10-31 17:39:23] Word of the Day: arrayed
+Meaning: To clothe and ornament; to adorn or attire.
+Example: He was arrayed in his finest robes and jewels.
+
