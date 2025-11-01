@@ -4863,3 +4863,7 @@ Example: N/A
 Meaning: A person or party that is consulted
 Example: N/A
 
+[2025-11-01 17:47:54] Word of the Day: consecrates
+Meaning: To declare something holy, or make it holy by some procedure.
+Example: N/A
+
