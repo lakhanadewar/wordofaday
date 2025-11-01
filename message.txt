@@ -4831,3 +4831,7 @@ Example: N/A
 Meaning: A short section of RNA but without the protein coat typical of viruses, that are plant pathogens
 Example: N/A
 
+[2025-11-01 09:42:21] Word of the Day: salal
+Meaning: A leathery-leaved North American shrub, Gaultheria shallon, with edible sepals and leaves.
+Example: N/A
+
