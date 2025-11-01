@@ -4851,3 +4851,7 @@ Example: Political dissent was brutally suppressed.
 Meaning: To make distinct or separate, particularly:
 Example: N/A
 
+[2025-11-01 17:29:53] Word of the Day: mask
+Meaning: A cover, or partial cover, for the face, used for disguise or protection.
+Example: a dancer's mask; a fencer's mask; a ball player's mask
+
