@@ -4891,3 +4891,7 @@ Example: N/A
 Meaning: Of an organism in which both copies of a given gene have the same allele
 Example: N/A
 
+[2025-11-01 18:58:54] Word of the Day: rivets
+Meaning: A cylindrical mechanical fastener that attaches multiple parts together by fitting through a hole and deforming the head(s) at either end.
+Example: N/A
+
