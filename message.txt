@@ -4935,3 +4935,7 @@ Example: N/A
 Meaning: A haystack.
 Example: N/A
 
+[2025-11-02 17:32:34] Word of the Day: belched
+Meaning: To expel (gas) loudly from the stomach through the mouth.
+Example: My father used to belch after having a fine meal.
+
