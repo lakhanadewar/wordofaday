@@ -4967,3 +4967,7 @@ Example: N/A
 Meaning: A solid or hollow sphere, or roughly spherical mass.
 Example: a ball of spittle; a fecal ball
 
+[2025-11-02 18:52:24] Word of the Day: trapezoids
+Meaning: A (convex) quadrilateral with two (non-adjacent) parallel sides.
+Example: N/A
+
