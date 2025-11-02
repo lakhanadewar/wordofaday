@@ -4959,3 +4959,7 @@ Example: The incus is one of the three auditory ossicles.
 Meaning: A transsexual person.
 Example: N/A
 
+[2025-11-02 18:37:18] Word of the Day: pieta
+Meaning: A sculpture or painting of the Virgin Mary holding and mourning the dead body of Jesus.
+Example: N/A
+
