@@ -4947,3 +4947,7 @@ Example: N/A
 Meaning: An automobile body with seats and permanent top like a coupe, and with the top projecting over the driver and a projecting front.
 Example: N/A
 
+[2025-11-02 17:51:51] Word of the Day: nether
+Meaning: Lower; under.
+Example: The disappointed child’s nether lip quivered.
+
