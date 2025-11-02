@@ -4951,3 +4951,7 @@ Example: N/A
 Meaning: Lower; under.
 Example: The disappointed child’s nether lip quivered.
 
+[2025-11-02 17:57:21] Word of the Day: ossicle
+Meaning: A small bone (or bony structure), especially one of the three of the middle ear.
+Example: The incus is one of the three auditory ossicles.
+
