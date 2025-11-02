@@ -4923,3 +4923,7 @@ Example: Wagner's “Der Ring des Nibelungen” (1853) famously features valkyri
 Meaning: Freight carried by a ship, aircraft, or motor vehicle.
 Example: N/A
 
+[2025-11-02 10:12:00] Word of the Day: spondee
+Meaning: A word or metrical foot of two syllables, either both long or both stressed.
+Example: N/A
+
