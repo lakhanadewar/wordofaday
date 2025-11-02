@@ -4927,3 +4927,7 @@ Example: N/A
 Meaning: A word or metrical foot of two syllables, either both long or both stressed.
 Example: N/A
 
+[2025-11-02 17:06:49] Word of the Day: aspersion
+Meaning: An attack on somebody's reputation or good name, often in the phrase to cast aspersions upon….
+Example: N/A
+
