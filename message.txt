@@ -5029,3 +5029,7 @@ Example: N/A
 Meaning: To physically capture, to catch in a trap or traps, or something like a trap.
 Example: to trap foxes
 
+[2025-11-03 18:52:37] Word of the Day: phonies
+Meaning: A person who assumes an identity or quality other than their own.
+Example: He claims to be a doctor, but he's nothing but a fast-talking phony.
+
