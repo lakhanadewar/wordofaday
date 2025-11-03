@@ -4991,3 +4991,7 @@ Example: N/A
 Meaning: Highly fertile; able to produce offspring.
 Example: N/A
 
+[2025-11-03 09:52:46] Word of the Day: allemandes
+Meaning: A popular instrumental dance form in Baroque music, and a standard element of a suite, generally the first or second movement.
+Example: N/A
+
