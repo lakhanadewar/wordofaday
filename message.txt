@@ -4975,3 +4975,7 @@ Example: N/A
 Meaning: The quality of being exclusive.
 Example: N/A
 
+[2025-11-03 08:30:06] Word of the Day: notchback
+Meaning: A motor car whose rear window makes an angle with its back segment
+Example: N/A
+
