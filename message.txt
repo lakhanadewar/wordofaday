@@ -5007,3 +5007,7 @@ Example: N/A
 Meaning: To remove the rigging from (a vessel, etc.).
 Example: N/A
 
+[2025-11-03 17:39:58] Word of the Day: arched
+Meaning: To form into an arch shape
+Example: The cat arched its back
+
