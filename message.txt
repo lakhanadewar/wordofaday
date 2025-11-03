@@ -4979,3 +4979,7 @@ Example: N/A
 Meaning: A motor car whose rear window makes an angle with its back segment
 Example: N/A
 
+[2025-11-03 08:52:52] Word of the Day: disturbs
+Meaning: To confuse a quiet, constant state or a calm, continuous flow, in particular: thoughts, actions or liquids.
+Example: A school of fish disturbed the water.
+
