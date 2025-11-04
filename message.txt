@@ -5075,3 +5075,7 @@ Example: Do you mind if I smoke?
 Meaning: (especially in plural) pyjamas or a similar covering that covers the feet
 Example: N/A
 
+[2025-11-04 17:51:25] Word of the Day: syntagmata
+Meaning: A constituent segment within a text, such as a word or a phrase that forms a syntactic unit.
+Example: The syntagma “the God of peace” (in Greek ὁ Θεὸς τῆς εἰρήνης) occurs in all undisputed Pauline letters.
+
