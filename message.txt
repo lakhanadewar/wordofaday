@@ -5047,3 +5047,7 @@ Example: The archeologist exhumed artifacts from the ground with a shovel.
 Meaning: The total amount of something; quantity.
 Example: N/A
 
+[2025-11-04 09:40:01] Word of the Day: bursars
+Meaning: The treasurer of a university, college or school.
+Example: N/A
+
