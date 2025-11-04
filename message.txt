@@ -5067,3 +5067,7 @@ Example: Jiggle the handle and see if the water stops.
 Meaning: A brief religious service.
 Example: To prepare for leading a devotional, select a theme appropriate to the occasion.
 
+[2025-11-04 17:37:53] Word of the Day: minded
+Meaning: (originally and chiefly in negative or interrogative constructions) To dislike, to object to; to be bothered by.
+Example: Do you mind if I smoke?
+
