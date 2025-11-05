@@ -5107,3 +5107,7 @@ Example: N/A
 Meaning: A reference book, published annually.
 Example: N/A
 
+[2025-11-05 09:18:14] Word of the Day: wahines
+Meaning: A Polynesian or Maori woman.
+Example: N/A
+
