@@ -5183,3 +5183,7 @@ Example: N/A
 
 [2025-11-06 18:59:17] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-11-07 08:28:43] Word of the Day: mammograms
+Meaning: An X-ray picture of the breasts (mammaries), used to screen for breast cancer.
+Example: N/A
+
