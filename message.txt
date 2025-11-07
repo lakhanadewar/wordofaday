@@ -5191,3 +5191,7 @@ Example: N/A
 Meaning: A substance that, in solution or when molten, ionizes and conducts electricity.
 Example: N/A
 
+[2025-11-07 09:11:54] Word of the Day: came
+Meaning: Used to indicate that the following event, period, or change in state occurred in the past, after a time of waiting, enduring, or anticipation
+Example: N/A
+
