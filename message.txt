@@ -5223,3 +5223,7 @@ Example: N/A
 Meaning: One to whom a thing is assigned
 Example: N/A
 
+[2025-11-07 17:51:00] Word of the Day: sphenoids
+Meaning: The sphenoid bone.
+Example: N/A
+
