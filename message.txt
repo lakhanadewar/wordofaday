@@ -5271,3 +5271,7 @@ Example: N/A
 
 [2025-11-08 17:05:02] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-11-08 17:22:28] Word of the Day: meritocrats
+Meaning: An advocate of meritocracy.
+Example: N/A
+
