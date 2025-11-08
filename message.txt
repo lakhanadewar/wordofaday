@@ -5303,3 +5303,7 @@ Example: N/A
 Meaning: The position of the planets and stars at the moment of someone's birth; a diagram of such positions.
 Example: N/A
 
+[2025-11-08 18:48:41] Word of the Day: deranges
+Meaning: (chiefly passive) To cause (someone) to go insane or become deranged.
+Example: N/A
+
