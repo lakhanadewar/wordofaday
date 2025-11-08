@@ -5311,3 +5311,7 @@ Example: N/A
 Meaning: Twilight.
 Example: N/A
 
+[2025-11-08 19:00:10] Word of the Day: overcasting
+Meaning: To overthrow.
+Example: N/A
+
