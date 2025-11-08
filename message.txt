@@ -5291,3 +5291,7 @@ Example: N/A
 Meaning: A status resulting from a batter swinging and missing a pitch, or not swinging at a pitch when the ball goes in the strike zone, or hitting a foul ball that is not caught.
 Example: N/A
 
+[2025-11-08 17:56:02] Word of the Day: palings
+Meaning: A pointed stick used to make a fence.
+Example: N/A
+
