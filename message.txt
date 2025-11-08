@@ -5299,3 +5299,7 @@ Example: N/A
 Meaning: A metal counter used in card games.
 Example: N/A
 
+[2025-11-08 18:37:38] Word of the Day: horoscope
+Meaning: The position of the planets and stars at the moment of someone's birth; a diagram of such positions.
+Example: N/A
+
