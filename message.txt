@@ -5279,3 +5279,7 @@ Example: N/A
 Meaning: To roll; revolve
 Example: N/A
 
+[2025-11-08 17:38:51] Word of the Day: mileposts
+Meaning: A post on a highway, often with one or more fingerposts, showing the distance in miles to nearby places
+Example: N/A
+
