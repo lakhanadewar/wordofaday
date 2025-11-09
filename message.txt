@@ -5319,3 +5319,7 @@ Example: N/A
 Meaning: An assessment, such as an annual personnel performance review used as the basis for a salary increase or bonus, or a summary of a particular situation.
 Example: N/A
 
+[2025-11-09 08:41:39] Word of the Day: furfurals
+Meaning: A heterocyclic aldehyde derivative of furan; it is obtained commercially from bran, and has several industrial uses.
+Example: N/A
+
