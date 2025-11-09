@@ -5327,3 +5327,7 @@ Example: N/A
 Meaning: One who operates.
 Example: N/A
 
+[2025-11-09 09:13:20] Word of the Day: calquing
+Meaning: To adopt (a word or phrase) from one language to another by semantic translation of its parts.
+Example: N/A
+
