@@ -5397,3 +5397,7 @@ Example: N/A
 Meaning: Any of a family of mycotoxins, produced by molds of the Aspergillus genus, that can be toxic, carcinogenic, mutagenic or teratogenic; typically found as contaminants of animal food or peanuts.
 Example: N/A
 
+[2025-11-10 09:52:23] Word of the Day: amphoteric
+Meaning: Having the characteristics of both an acid and a base, and capable of reacting as either; amphiprotic.
+Example: N/A
+
