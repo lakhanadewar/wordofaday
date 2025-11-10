@@ -5417,3 +5417,7 @@ Example: N/A
 Meaning: A type of concert hammered dulcimer used primarily in the music of Eastern Europe.
 Example: N/A
 
+[2025-11-10 17:44:30] Word of the Day: prefatory
+Meaning: Introductory, preliminary, serving as a prelude or preface.
+Example: N/A
+
