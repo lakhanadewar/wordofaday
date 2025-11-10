@@ -5425,3 +5425,7 @@ Example: N/A
 Meaning: Any chemical agent that causes sneezing.
 Example: N/A
 
+[2025-11-10 17:56:05] Word of the Day: mushing
+Meaning: To squish so as to break into smaller pieces or to combine with something else.
+Example: He mushed the ingredients together.
+
