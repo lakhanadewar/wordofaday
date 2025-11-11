@@ -5453,3 +5453,7 @@ Example: N/A
 Meaning: Dark, damp and humid.
 Example: The dank cave was chilly and spooky.
 
+[2025-11-11 09:14:56] Word of the Day: consanguine
+Meaning: A person related to another by birth.
+Example: N/A
+
