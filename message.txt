@@ -5457,3 +5457,7 @@ Example: The dank cave was chilly and spooky.
 Meaning: A person related to another by birth.
 Example: N/A
 
+[2025-11-11 09:36:42] Word of the Day: birthrights
+Meaning: Something owed since birth, due to inheritance.
+Example: N/A
+
