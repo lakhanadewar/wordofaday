@@ -5473,3 +5473,7 @@ Example: N/A
 Meaning: A small breed of dog developed in Belgium, sometimes used as a watchdog on boats.
 Example: N/A
 
+[2025-11-11 17:29:07] Word of the Day: meowing
+Meaning: Of a cat, to make its cry.
+Example: N/A
+
