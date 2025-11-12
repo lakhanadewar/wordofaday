@@ -5545,3 +5545,7 @@ Example: N/A
 Meaning: To descend like an avalanche.
 Example: N/A
 
+[2025-11-12 17:54:34] Word of the Day: assassinations
+Meaning: The murder of a person, especially for political reasons or for personal gain.
+Example: The assassination of the king occurred at night.
+
