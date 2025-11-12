@@ -5517,3 +5517,7 @@ Example: N/A
 Meaning: A unit of electrical power, in an AC circuit, equal to the power dissipated when 1 volt produces a current of 1 ampere.
 Example: N/A
 
+[2025-11-12 09:39:03] Word of the Day: realising
+Meaning: To make real; to convert from the imaginary or fictitious into reality; to bring into real existence
+Example: The objectives of the project were never fully realized.
+
