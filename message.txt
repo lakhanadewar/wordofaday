@@ -5513,3 +5513,7 @@ Example: N/A
 Meaning: Someone who defends people or property
 Example: N/A
 
+[2025-11-12 09:18:52] Word of the Day: vars
+Meaning: A unit of electrical power, in an AC circuit, equal to the power dissipated when 1 volt produces a current of 1 ampere.
+Example: N/A
+
