@@ -5525,3 +5525,7 @@ Example: The objectives of the project were never fully realized.
 Meaning: To fight or battle better than.
 Example: N/A
 
+[2025-11-12 10:12:54] Word of the Day: harbors
+Meaning: To provide a harbor or safe place for.
+Example: The docks, which once harbored tall ships, now harbor only petty thieves.
+
