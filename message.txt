@@ -5553,3 +5553,7 @@ Example: The assassination of the king occurred at night.
 Meaning: One who audits bookkeeping accounts.
 Example: N/A
 
+[2025-11-12 18:28:53] Word of the Day: otherwise
+Meaning: Other than supposed; different.
+Example: He said he didn’t do it, but the evidence was otherwise.
+
