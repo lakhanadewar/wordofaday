@@ -5575,3 +5575,7 @@ Example: The satisfactory results of the survey led to his promotion.
 Meaning: To remove a character behind a cursor.
 Example: N/A
 
+[2025-11-13 09:38:30] Word of the Day: reconnoiters
+Meaning: An act or instance of reconnoitering.
+Example: The pilot reported the findings of his reconnoiter.
+
