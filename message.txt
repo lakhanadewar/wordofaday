@@ -5583,3 +5583,7 @@ Example: The pilot reported the findings of his reconnoiter.
 Meaning: A structure which guides waves, such as electromagnetic waves, light, or sound waves.
 Example: N/A
 
+[2025-11-13 10:12:32] Word of the Day: invariants
+Meaning: An invariant quantity, function etc.
+Example: N/A
+
