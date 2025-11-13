@@ -5571,3 +5571,7 @@ Example: N/A
 Meaning: Done to satisfaction; adequate or sufficient.
 Example: The satisfactory results of the survey led to his promotion.
 
+[2025-11-13 09:16:36] Word of the Day: backspacing
+Meaning: To remove a character behind a cursor.
+Example: N/A
+
