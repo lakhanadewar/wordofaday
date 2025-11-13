@@ -5607,3 +5607,7 @@ Example: N/A
 Meaning: Mespilus germanica, common medlar (now often Crataegus germanica)
 Example: N/A
 
+[2025-11-13 18:18:40] Word of the Day: ferity
+Meaning: The quality or fact of being wild or in a wild state; wildness, brutishness.
+Example: N/A
+
