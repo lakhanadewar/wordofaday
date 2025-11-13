@@ -5579,3 +5579,7 @@ Example: N/A
 Meaning: An act or instance of reconnoitering.
 Example: The pilot reported the findings of his reconnoiter.
 
+[2025-11-13 09:50:30] Word of the Day: waveguide
+Meaning: A structure which guides waves, such as electromagnetic waves, light, or sound waves.
+Example: N/A
+
