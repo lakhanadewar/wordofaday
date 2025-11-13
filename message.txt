@@ -5603,3 +5603,7 @@ Example: N/A
 Meaning: A spotlight or lamp mounted on a car.
 Example: N/A
 
+[2025-11-13 17:56:58] Word of the Day: medlars
+Meaning: Mespilus germanica, common medlar (now often Crataegus germanica)
+Example: N/A
+
