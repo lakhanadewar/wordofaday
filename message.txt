@@ -5705,3 +5705,7 @@ Example: N/A
 Meaning: An endowment for the maintenance of a priest to sing a daily mass for the souls of specified people
 Example: N/A
 
+[2025-11-16 08:45:43] Word of the Day: photogenic
+Meaning: Generated or caused by light.
+Example: The sunbather developed a photogenic melanoma on her back.
+
