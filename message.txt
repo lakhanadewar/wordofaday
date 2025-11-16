@@ -5759,3 +5759,7 @@ Example: N/A
 Meaning: To turn sediment into solid rock
 Example: N/A
 
+[2025-11-16 18:42:13] Word of the Day: report
+Meaning: A piece of information describing, or an account of certain events given or presented to someone, with the most common adpositions being by (referring to creator of the report) and on (referring to the subject).
+Example: A report by the telecommunications ministry on the phone network revealed a severe capacity problem.
+
