@@ -5755,3 +5755,7 @@ Example: N/A
 Meaning: A person or animal's natural height when standing upright.
 Example: N/A
 
+[2025-11-16 18:21:34] Word of the Day: lithifies
+Meaning: To turn sediment into solid rock
+Example: N/A
+
