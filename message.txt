@@ -5701,3 +5701,7 @@ Example: N/A
 
 [2025-11-15 19:09:26] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-11-16 08:26:03] Word of the Day: chantry
+Meaning: An endowment for the maintenance of a priest to sing a daily mass for the souls of specified people
+Example: N/A
+
