@@ -5737,3 +5737,7 @@ Example: N/A
 Meaning: A small suppurating inflamed spot on the gum.
 Example: N/A
 
+[2025-11-16 17:34:27] Word of the Day: haggle
+Meaning: To argue for a better deal, especially over prices with a seller.
+Example: I haggled for a better price because the original price was too high.
+
