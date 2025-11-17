@@ -5811,3 +5811,7 @@ Example: N/A
 Meaning: A substantial mistake, usually causing problems for more people than just the person or group who made it.
 Example: N/A
 
+[2025-11-17 18:53:34] Word of the Day: crashworthy
+Meaning: (of a vehicle) Capable of withstanding a crash.
+Example: N/A
+
