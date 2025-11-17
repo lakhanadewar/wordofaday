@@ -5779,3 +5779,7 @@ Example: N/A
 
 [2025-11-17 09:48:43] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-11-17 09:59:22] Word of the Day: swop
+Meaning: To exchange or give (something) in an exchange (for something else).
+Example: N/A
+
