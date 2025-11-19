@@ -5861,3 +5861,7 @@ Example: N/A
 Meaning: A herd of horses from which the horses to be used for a particular purpose are selected.
 Example: N/A
 
+[2025-11-19 10:12:28] Word of the Day: pleiotropy
+Meaning: The influence of a single gene on multiple phenotypic traits; pleiotropism.
+Example: N/A
+
