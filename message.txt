@@ -5971,3 +5971,7 @@ Example: N/A
 Meaning: Any wares made out of metal, such as pots and pans.
 Example: N/A
 
+[2025-11-22 10:01:10] Word of the Day: militarily
+Meaning: In a military or martial manner; not peaceably.
+Example: N/A
+
