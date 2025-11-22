@@ -6003,3 +6003,7 @@ Example: N/A
 Meaning: A person who counts or tabulates things.
 Example: N/A
 
+[2025-11-22 18:20:43] Word of the Day: intentions
+Meaning: The goal or purpose behind a specific action or set of actions.
+Example: It’s easy to promise anything when you have no intention of fulfilling any of it.
+
