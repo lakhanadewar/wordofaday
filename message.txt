@@ -5967,3 +5967,7 @@ Example: N/A
 Meaning: An official in charge of payments to employees, troops, etc.
 Example: N/A
 
+[2025-11-22 09:49:34] Word of the Day: metalware
+Meaning: Any wares made out of metal, such as pots and pans.
+Example: N/A
+
