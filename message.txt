@@ -5983,3 +5983,7 @@ Example: N/A
 Meaning: Person who regularly frequents movie theaters.
 Example: N/A
 
+[2025-11-22 17:33:34] Word of the Day: balletic
+Meaning: Pertaining to or suitable for ballet.
+Example: N/A
+
