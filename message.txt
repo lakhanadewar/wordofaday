@@ -6043,3 +6043,7 @@ Example: N/A
 Meaning: Pale, sickly-looking.
 Example: N/A
 
+[2025-11-23 10:09:57] Word of the Day: horseshoes
+Meaning: The U-shaped metallic shoe of a horse.
+Example: N/A
+
