@@ -6055,3 +6055,7 @@ Example: N/A
 Meaning: A trusted person, especially a prisoner who has been granted special privileges.
 Example: N/A
 
+[2025-11-23 17:35:06] Word of the Day: alienees
+Meaning: The person to whom a property is alienated.
+Example: N/A
+
