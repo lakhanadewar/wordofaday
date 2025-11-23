@@ -6087,3 +6087,7 @@ Example: The papers weren't official until the seal had been embossed on them.
 Meaning: One thousand million (109) watts, abbreviated as GW.
 Example: N/A
 
+[2025-11-23 18:59:22] Word of the Day: acylated
+Meaning: To add one or more acyl groups to a compound.
+Example: N/A
+
