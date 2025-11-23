@@ -6079,3 +6079,7 @@ Example: N/A
 Meaning: Having both sides convex.
 Example: N/A
 
+[2025-11-23 18:46:08] Word of the Day: emboss
+Meaning: To mark or decorate with a raised design or symbol.
+Example: The papers weren't official until the seal had been embossed on them.
+
