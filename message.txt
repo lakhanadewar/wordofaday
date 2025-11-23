@@ -6051,3 +6051,7 @@ Example: N/A
 Meaning: An outer garment covering the upper torso and arms.Wp
 Example: N/A
 
+[2025-11-23 17:25:37] Word of the Day: trusty
+Meaning: A trusted person, especially a prisoner who has been granted special privileges.
+Example: N/A
+
