@@ -6083,3 +6083,7 @@ Example: N/A
 Meaning: To mark or decorate with a raised design or symbol.
 Example: The papers weren't official until the seal had been embossed on them.
 
+[2025-11-23 18:53:55] Word of the Day: gigawatt
+Meaning: One thousand million (109) watts, abbreviated as GW.
+Example: N/A
+
