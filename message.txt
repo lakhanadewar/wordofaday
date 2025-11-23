@@ -6039,3 +6039,7 @@ Example: N/A
 Meaning: (physical) An area; somewhere within an area.
 Example: N/A
 
+[2025-11-23 09:50:23] Word of the Day: wanner
+Meaning: Pale, sickly-looking.
+Example: N/A
+
