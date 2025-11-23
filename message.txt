@@ -6059,3 +6059,7 @@ Example: N/A
 Meaning: The person to whom a property is alienated.
 Example: N/A
 
+[2025-11-23 17:42:23] Word of the Day: underfeed
+Meaning: To feed inadequately or insufficiently
+Example: N/A
+
