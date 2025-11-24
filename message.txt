@@ -6099,3 +6099,7 @@ Example: N/A
 Meaning: Patrilocal.
 Example: N/A
 
+[2025-11-24 09:25:14] Word of the Day: reassigns
+Meaning: To assign again or anew.
+Example: The offending employees were reassigned after the incident.
+
