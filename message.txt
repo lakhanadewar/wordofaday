@@ -6115,3 +6115,7 @@ Example: N/A
 Meaning: To drink together.
 Example: N/A
 
+[2025-11-24 17:31:02] Word of the Day: gambusia
+Meaning: Any of several live-bearing freshwater fish, of the genus Gambusia, that feed on the larva of mosquitos and are used to control them.
+Example: N/A
+
