@@ -6127,3 +6127,7 @@ Example: N/A
 Meaning: Leniency
 Example: N/A
 
+[2025-11-24 17:56:27] Word of the Day: endpapers
+Meaning: Either of two folded sheets of paper used to connect the front and back covers of a book to the first and last pages
+Example: N/A
+
