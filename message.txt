@@ -6139,3 +6139,7 @@ Example: N/A
 Meaning: A vehicle that applies grit to icy roads to improve traction
 Example: N/A
 
+[2025-11-24 18:58:12] Word of the Day: pacifist
+Meaning: One who loves, supports, or favours peace.
+Example: Mahatma Gandhi was one of the world's most famous pacifists.
+
