@@ -6107,3 +6107,7 @@ Example: The offending employees were reassigned after the incident.
 Meaning: To open something by ripping/tearing.
 Example: N/A
 
+[2025-11-24 09:57:06] Word of the Day: deranging
+Meaning: (chiefly passive) To cause (someone) to go insane or become deranged.
+Example: N/A
+
