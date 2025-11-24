@@ -6131,3 +6131,7 @@ Example: N/A
 Meaning: Either of two folded sheets of paper used to connect the front and back covers of a book to the first and last pages
 Example: N/A
 
+[2025-11-24 18:19:03] Word of the Day: southern
+Meaning: Someone from one of the states which seceded in 1861 and briefly formed the Confederate States of America, or, more broadly, from some neighboring states as well (but excluding geographically-southerly states like Arizona); compare the South.
+Example: N/A
+
