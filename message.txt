@@ -6091,3 +6091,7 @@ Example: N/A
 Meaning: To add one or more acyl groups to a compound.
 Example: N/A
 
+[2025-11-24 08:31:26] Word of the Day: alginates
+Meaning: Any salt or ester of alginic acid.
+Example: N/A
+
