@@ -6147,3 +6147,7 @@ Example: Mahatma Gandhi was one of the world's most famous pacifists.
 Meaning: The sister or sister-in-law of one’s parent.
 Example: N/A
 
+[2025-11-25 08:54:18] Word of the Day: polymerising
+Meaning: To convert a monomer to a polymer by polymerization.
+Example: N/A
+
