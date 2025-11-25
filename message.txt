@@ -6163,3 +6163,7 @@ Example: N/A
 Meaning: A greenish yellow colour.
 Example: N/A
 
+[2025-11-25 17:11:00] Word of the Day: censer
+Meaning: An ornamental container for burning incense, especially during religious ceremonies.
+Example: N/A
+
