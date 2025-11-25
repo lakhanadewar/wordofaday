@@ -6187,3 +6187,7 @@ Example: N/A
 Meaning: The currency of Mozambique, divided into 100 centavos
 Example: N/A
 
+[2025-11-25 18:45:54] Word of the Day: boasting
+Meaning: To brag; to talk loudly in praise of oneself.
+Example: N/A
+
