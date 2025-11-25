@@ -6175,3 +6175,7 @@ Example: N/A
 Meaning: A stupid person.
 Example: N/A
 
+[2025-11-25 17:51:00] Word of the Day: folds
+Meaning: An act of folding.
+Example: After two reraises in quick succession, John realised his best option was probably a fold.
+
