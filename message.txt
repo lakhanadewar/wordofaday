@@ -6179,3 +6179,7 @@ Example: N/A
 Meaning: An act of folding.
 Example: After two reraises in quick succession, John realised his best option was probably a fold.
 
+[2025-11-25 17:56:35] Word of the Day: paraffins
+Meaning: A petroleum-based thin and colorless fuel oil
+Example: N/A
+
