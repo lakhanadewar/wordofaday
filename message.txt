@@ -6199,3 +6199,7 @@ Example: N/A
 Meaning: Any unit of cultural information, such as a practice or idea, that is transmitted verbally or by repeated action from one mind to another in a comparable way to the transmission of genes.
 Example: N/A
 
+[2025-11-26 08:53:13] Word of the Day: fumigants
+Meaning: Any substance used, in the gaseous state, to fumigate or disinfect.
+Example: N/A
+
