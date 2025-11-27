@@ -6257,3 +6257,7 @@ Example: N/A
 Meaning: A geographic area owned or controlled by a single person or organization.
 Example: The king ruled his domain harshly.
 
+[2025-11-27 09:51:31] Word of the Day: bushwhacked
+Meaning: To travel through thick wooded country, cutting away scrub to make progress
+Example: N/A
+
