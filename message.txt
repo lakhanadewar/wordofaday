@@ -6253,3 +6253,7 @@ Example: a sprig of laurel or of parsley
 Meaning: An undergraduate college academic program, typically in biochemistry or related sciences, that prepares a student to pursue graduate or post-graduate studies in medicine.
 Example: N/A
 
+[2025-11-27 09:39:33] Word of the Day: domain
+Meaning: A geographic area owned or controlled by a single person or organization.
+Example: The king ruled his domain harshly.
+
