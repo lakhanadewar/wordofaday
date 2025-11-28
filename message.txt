@@ -6293,3 +6293,7 @@ Example: N/A
 
 [2025-11-28 09:40:17] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-11-28 09:49:53] Word of the Day: gnarls
+Meaning: A knot in wood; a large or hard knot, or a protuberance with twisted grain, on a tree.
+Example: N/A
+
