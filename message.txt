@@ -6349,3 +6349,7 @@ Example: N/A
 
 [2025-11-29 18:44:46] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-11-29 18:54:49] Word of the Day: camped
+Meaning: To live in a tent or similar temporary accommodation.
+Example: We're planning to camp in the field until Sunday.
+
