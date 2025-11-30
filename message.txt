@@ -6369,3 +6369,7 @@ Example: We're planning to camp in the field until Sunday.
 
 [2025-11-30 10:00:55] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-11-30 17:07:45] Word of the Day: totalitarians
+Meaning: An advocate of totalitarianism.
+Example: N/A
+
