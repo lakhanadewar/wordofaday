@@ -6385,3 +6385,7 @@ Example: N/A
 Meaning: A supplier of victuals or supplies to an army.
 Example: N/A
 
+[2025-11-30 17:49:42] Word of the Day: abuses
+Meaning: Improper treatment or usage; application to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.
+Example: All abuse, whether physical, verbal, psychological or sexual, is bad.
+
