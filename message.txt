@@ -6377,3 +6377,7 @@ Example: N/A
 Meaning: To remove the bones from.
 Example: I am deboning a fish.
 
+[2025-11-30 17:37:14] Word of the Day: jetways
+Meaning: An elevated corridor connecting an airport to a plane, usually enclosed and used for disembarking and embarking passengers and crew.
+Example: N/A
+
