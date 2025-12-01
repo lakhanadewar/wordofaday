@@ -6441,3 +6441,7 @@ Example: N/A
 Meaning: Relating or pertaining to the libido.
 Example: N/A
 
+[2025-12-01 17:58:29] Word of the Day: sentient
+Meaning: Lifeform with the capability to feel sensation, such as pain.
+Example: N/A
+
