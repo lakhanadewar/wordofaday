@@ -6449,3 +6449,7 @@ Example: N/A
 Meaning: Not poisonous.
 Example: N/A
 
+[2025-12-01 18:55:31] Word of the Day: palatalizing
+Meaning: To pronounce a sound with the tongue against the palate of the mouth when that sound normally would not be so pronounced.
+Example: Most English speakers palatalize the letter t in the word "nature".
+
