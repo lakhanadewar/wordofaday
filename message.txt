@@ -6457,3 +6457,7 @@ Example: Most English speakers palatalize the letter t in the word "nature".
 Meaning: A Tibetan stupa.
 Example: N/A
 
+[2025-12-02 08:57:00] Word of the Day: transude
+Meaning: To pass through a pore, membrane or interstice.
+Example: N/A
+
