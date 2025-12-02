@@ -6493,3 +6493,7 @@ Example: N/A
 Meaning: To apply again.
 Example: N/A
 
+[2025-12-02 18:50:38] Word of the Day: deforesting
+Meaning: To clear (an area) of forest.
+Example: N/A
+
