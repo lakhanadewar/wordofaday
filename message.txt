@@ -6497,3 +6497,7 @@ Example: N/A
 Meaning: To clear (an area) of forest.
 Example: N/A
 
+[2025-12-02 19:01:58] Word of the Day: dreary
+Meaning: Drab; dark, colorless, or cheerless.
+Example: It had rained for three days straight, and the dreary weather dragged the townspeople's spirits down.
+
