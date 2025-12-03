@@ -6537,3 +6537,7 @@ Example: N/A
 Meaning: Borage (Borago officinalis), an annual herb, and its product, starflower oil (family Boraginaceae).
 Example: N/A
 
+[2025-12-03 18:16:14] Word of the Day: extricating
+Meaning: To free, disengage, loosen, or untangle.
+Example: I finally managed to extricate myself from the tight jacket.
+
