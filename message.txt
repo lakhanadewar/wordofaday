@@ -6525,3 +6525,7 @@ Example: N/A
 Meaning: One who believes in predestination.
 Example: N/A
 
+[2025-12-03 17:36:16] Word of the Day: zidovudine
+Meaning: A nucleoside analog reverse transcriptase inhibitor, a type of antiretroviral drug, the first approved treatment for HIV.
+Example: N/A
+
