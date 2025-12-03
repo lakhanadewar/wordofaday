@@ -6529,3 +6529,7 @@ Example: N/A
 Meaning: A nucleoside analog reverse transcriptase inhibitor, a type of antiretroviral drug, the first approved treatment for HIV.
 Example: N/A
 
+[2025-12-03 17:49:03] Word of the Day: trocars
+Meaning: A pointed hollow cylindrical device used to make small incisions and surgically insert cannulas, etc., into body cavities, or to aspirate fluids.
+Example: N/A
+
