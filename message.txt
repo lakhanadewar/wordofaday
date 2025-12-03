@@ -6501,3 +6501,7 @@ Example: N/A
 Meaning: Drab; dark, colorless, or cheerless.
 Example: It had rained for three days straight, and the dreary weather dragged the townspeople's spirits down.
 
+[2025-12-03 08:31:34] Word of the Day: defanging
+Meaning: To remove the fangs from (something).
+Example: The snake was defanged.
+
