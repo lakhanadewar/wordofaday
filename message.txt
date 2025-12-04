@@ -6585,3 +6585,7 @@ Example: N/A
 Meaning: Any of various small finches in the genus Serinus, with largely yellow plumage.
 Example: N/A
 
+[2025-12-04 18:17:31] Word of the Day: gley
+Meaning: A type of hydric soil, sticky, greenish-blue-grey in colour and low in oxygen.
+Example: N/A
+
