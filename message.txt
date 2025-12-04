@@ -6569,3 +6569,7 @@ Example: N/A
 Meaning: One of the bones, usually bearing teeth, which form the framework of the mouth.
 Example: N/A
 
+[2025-12-04 17:13:23] Word of the Day: disarticulates
+Meaning: To disjoint.
+Example: N/A
+
