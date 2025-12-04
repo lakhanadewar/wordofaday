@@ -6589,3 +6589,7 @@ Example: N/A
 Meaning: A type of hydric soil, sticky, greenish-blue-grey in colour and low in oxygen.
 Example: N/A
 
+[2025-12-04 18:49:15] Word of the Day: tillers
+Meaning: A person who tills; a farmer.
+Example: N/A
+
