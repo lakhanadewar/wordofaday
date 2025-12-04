@@ -6573,3 +6573,7 @@ Example: N/A
 Meaning: To disjoint.
 Example: N/A
 
+[2025-12-04 17:36:11] Word of the Day: dengue
+Meaning: An acute febrile disease of the (sub)tropics caused by the Dengue virus, a flavivirus, transmitted by Aedes mosquitoes, and characterized by high fever, rash, headache, and severe muscle and joint pain.
+Example: N/A
+
