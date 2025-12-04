@@ -6553,3 +6553,7 @@ Example: N/A
 Meaning: An honorary canon of a cathedral or collegiate church.
 Example: N/A
 
+[2025-12-04 08:55:31] Word of the Day: helicopter
+Meaning: An aircraft that is borne along by one or more sets of long rotating blades which allow it to hover, move in any direction including reverse, or land; and typically having a smaller set of blades on its tail that stabilize the aircraft.
+Example: We flew over the city in a helicopter.
+
