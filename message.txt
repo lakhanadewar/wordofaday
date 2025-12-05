@@ -6617,3 +6617,7 @@ Example: N/A
 Meaning: An alveolar consonant
 Example: N/A
 
+[2025-12-05 10:14:25] Word of the Day: bioscience
+Meaning: Any of several sciences that deal with living organisms
+Example: N/A
+
