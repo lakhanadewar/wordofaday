@@ -6597,3 +6597,7 @@ Example: N/A
 Meaning: A small primate, Perodicticus potto, native to the tropical rainforests of Africa.
 Example: N/A
 
+[2025-12-05 08:30:33] Word of the Day: frontage
+Meaning: The front part of a property or building that faces the street.
+Example: N/A
+
