@@ -6633,3 +6633,7 @@ Example: N/A
 Meaning: To provide with fuel.
 Example: N/A
 
+[2025-12-05 17:49:50] Word of the Day: wheedled
+Meaning: To cajole or attempt to persuade by flattery.
+Example: I'd like one of those, too, if you can wheedle him into telling you where he got it.
+
