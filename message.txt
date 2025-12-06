@@ -6673,3 +6673,7 @@ Example: N/A
 Meaning: A pediment.
 Example: N/A
 
+[2025-12-06 09:41:23] Word of the Day: outgeneral
+Meaning: To outdo or surpass (someone) in military skill or leadership.
+Example: N/A
+
