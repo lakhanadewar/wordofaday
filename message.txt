@@ -6715,3 +6715,7 @@ Example: to rip a garment; to rip up a floor
 
 [2025-12-06 18:27:31] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-12-06 18:45:19] Word of the Day: specs
+Meaning: Two similar or identical things taken together; often followed by of.
+Example: I couldn't decide which of the pair of designer shirts I preferred, so I bought the pair.
+
