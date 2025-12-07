@@ -6747,3 +6747,7 @@ Example: N/A
 Meaning: A metallic chemical element (symbol Yb) with an atomic number of 70.
 Example: N/A
 
+[2025-12-07 10:11:59] Word of the Day: youngest
+Meaning: In the early part of growth or life; born not long ago.
+Example: a lamb is a young sheep;  these picture books are for young readers
+
