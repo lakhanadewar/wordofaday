@@ -6759,3 +6759,7 @@ Example: N/A
 Meaning: The act of judging.
 Example: N/A
 
+[2025-12-07 17:34:29] Word of the Day: iceboat
+Meaning: An ice yacht.
+Example: N/A
+
