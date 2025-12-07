@@ -6763,3 +6763,7 @@ Example: N/A
 Meaning: An ice yacht.
 Example: N/A
 
+[2025-12-07 17:42:14] Word of the Day: screwworms
+Meaning: The larva of the fly Cochliomyia hominivorax (New World screwworm) or Chrysomya bezziana (Old World screwworm). The larvae are parasitic in humans and animals and are distinctive in eating living flesh of mammals, unlike most maggots, which eat only dead flesh.
+Example: N/A
+
