@@ -6797,3 +6797,7 @@ Example: N/A
 Meaning: Any of three isomeric aromatic heterocycles containing three carbon atoms, three nitrogen atoms and three double bonds
 Example: N/A
 
+[2025-12-08 08:57:33] Word of the Day: orthopter
+Meaning: An aircraft that generates lift through the flapping of its wings.
+Example: N/A
+
