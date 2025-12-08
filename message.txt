@@ -6825,3 +6825,7 @@ Example: N/A
 Meaning: A banned or unlawful item.
 Example: N/A
 
+[2025-12-08 17:51:55] Word of the Day: idiographic
+Meaning: Of or pertaining to individuals
+Example: N/A
+
