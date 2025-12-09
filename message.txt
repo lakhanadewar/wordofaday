@@ -6885,3 +6885,7 @@ Example: N/A
 Meaning: The operation of a printing press.
 Example: N/A
 
+[2025-12-09 18:24:06] Word of the Day: aspirates
+Meaning: The puff of air accompanying the release of a plosive consonant.
+Example: N/A
+
