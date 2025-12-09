@@ -6857,3 +6857,7 @@ Example: N/A
 Meaning: An external animal parasite.
 Example: N/A
 
+[2025-12-09 09:47:20] Word of the Day: weaponized
+Meaning: To make into a weapon.
+Example: Anything can be weaponized. A big enough rock, dropped from a sufficient height, is a very good weapon.
+
