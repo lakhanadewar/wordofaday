@@ -6861,3 +6861,7 @@ Example: N/A
 Meaning: To make into a weapon.
 Example: Anything can be weaponized. A big enough rock, dropped from a sufficient height, is a very good weapon.
 
+[2025-12-09 09:57:59] Word of the Day: orthogenesis
+Meaning: The hypothesis that evolution tends toward a certain goal, at least at some scales.
+Example: N/A
+
