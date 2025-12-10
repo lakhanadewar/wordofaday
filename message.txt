@@ -6933,3 +6933,7 @@ Example: The player with the highest score is the winner.
 Meaning: (sometimes vulgar) An annoying person or someone who is difficult to get along with.
 Example: N/A
 
+[2025-12-10 18:20:25] Word of the Day: twitching
+Meaning: The motion of something that twitches.
+Example: N/A
+
