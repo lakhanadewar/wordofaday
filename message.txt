@@ -6913,3 +6913,7 @@ Example: He enrolled in an introductory wine-making course.
 Meaning: A variety of long-grain rice, notable for its fragrance.
 Example: N/A
 
+[2025-12-10 09:59:46] Word of the Day: passion
+Meaning: Any great, strong, powerful emotion, especially romantic love or extreme hate.
+Example: We share a passion for books.
+
