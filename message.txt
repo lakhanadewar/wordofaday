@@ -6897,3 +6897,7 @@ Example: We relisted our house after it failed to sell.
 Meaning: To remove controls.
 Example: N/A
 
+[2025-12-10 08:31:46] Word of the Day: reassurances
+Meaning: The feeling of being reassured, of having confidence restored, of having apprehensions dispelled.
+Example: N/A
+
