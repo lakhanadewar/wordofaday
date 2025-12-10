@@ -6905,3 +6905,7 @@ Example: N/A
 Meaning: A usually small indoor receptacle for items that are to be discarded; a rubbish bin.
 Example: N/A
 
+[2025-12-10 09:27:51] Word of the Day: introductory
+Meaning: Introducing; giving a preview or idea of.
+Example: He enrolled in an introductory wine-making course.
+
