@@ -6929,3 +6929,7 @@ Example: N/A
 Meaning: The total number of goals, points, runs, etc. earned by a participant in a game.
 Example: The player with the highest score is the winner.
 
+[2025-12-10 17:56:38] Word of the Day: buttheads
+Meaning: (sometimes vulgar) An annoying person or someone who is difficult to get along with.
+Example: N/A
+
