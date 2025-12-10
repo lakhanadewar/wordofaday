@@ -6925,3 +6925,7 @@ Example: N/A
 Meaning: Someone who rules by virtue of his or her wealth.
 Example: N/A
 
+[2025-12-10 17:50:17] Word of the Day: score
+Meaning: The total number of goals, points, runs, etc. earned by a participant in a game.
+Example: The player with the highest score is the winner.
+
