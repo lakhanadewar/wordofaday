@@ -6945,3 +6945,7 @@ Example: N/A
 Meaning: Of or pertaining to fibrils.
 Example: N/A
 
+[2025-12-11 08:32:21] Word of the Day: enthalpy
+Meaning: In thermodynamics, a measure of the heat content of a chemical or physical system.
+Example: N/A
+
