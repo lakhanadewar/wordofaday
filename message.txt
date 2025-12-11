@@ -6957,3 +6957,7 @@ Example: N/A
 Meaning: A short cape worn by some Catholic clergy.
 Example: N/A
 
+[2025-12-11 09:50:12] Word of the Day: anoles
+Meaning: Any of the Anolis genus of arboreal American lizards (such as the American chameleon) from the iguana family which feature a brightly colored dewlap and color-changing ability.
+Example: N/A
+
