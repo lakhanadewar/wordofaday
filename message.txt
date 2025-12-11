@@ -6953,3 +6953,7 @@ Example: N/A
 Meaning: Marked with smudges.
 Example: N/A
 
+[2025-12-11 09:30:28] Word of the Day: mozetta
+Meaning: A short cape worn by some Catholic clergy.
+Example: N/A
+
