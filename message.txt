@@ -7005,3 +7005,7 @@ Example: N/A
 Meaning: Any solid with conventional crystalline properties but exhibiting a point group symmetry inconsistent with translational periodicity
 Example: N/A
 
+[2025-12-12 10:11:02] Word of the Day: unburdening
+Meaning: To free from burden, or relieve from trouble.
+Example: N/A
+
