@@ -7001,3 +7001,7 @@ Example: N/A
 Meaning: A form of pottery that has a stoneware body which is either white or colored, which is noted for its matte finish. It is a popular blue-and-white ware, but it comes in many other colors.
 Example: N/A
 
+[2025-12-12 09:49:59] Word of the Day: quasicrystals
+Meaning: Any solid with conventional crystalline properties but exhibiting a point group symmetry inconsistent with translational periodicity
+Example: N/A
+
