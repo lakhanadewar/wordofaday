@@ -7033,3 +7033,7 @@ Example: N/A
 Meaning: The role or position of a chaplain.
 Example: N/A
 
+[2025-12-12 18:49:15] Word of the Day: yobbo
+Meaning: A yob.
+Example: N/A
+
