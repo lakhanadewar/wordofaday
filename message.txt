@@ -7057,3 +7057,7 @@ Example: I think the golden rule is a great ethic.
 Meaning: Lacking strength; weak.
 Example: N/A
 
+[2025-12-13 09:42:29] Word of the Day: indicating
+Meaning: To point out; to discover; to direct to a knowledge of; to show; to make known.
+Example: The guard blew his whistle to indicate imminent departure.
+
