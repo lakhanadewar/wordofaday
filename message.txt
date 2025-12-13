@@ -7109,3 +7109,7 @@ Example: N/A
 Meaning: An individual; usually a human being.
 Example: Each person is unique, both mentally and physically.
 
+[2025-12-13 19:00:02] Word of the Day: wassailed
+Meaning: To toast, to drink to the health of another.
+Example: The next morning he much regretted the gusto with which he had wassailed the night before.
+
