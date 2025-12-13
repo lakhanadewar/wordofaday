@@ -7049,3 +7049,7 @@ Example: N/A
 Meaning: The integument of the undersurface of the bell, or disk-shaped body, of a jellyfish.
 Example: N/A
 
+[2025-12-13 08:59:22] Word of the Day: ethic
+Meaning: A set of principles of right and wrong behaviour guiding, or representative of, a specific culture, society, group, or individual.
+Example: I think the golden rule is a great ethic.
+
