@@ -7065,3 +7065,7 @@ Example: The guard blew his whistle to indicate imminent departure.
 Meaning: The set of precision kettledrums in an orchestra.
 Example: N/A
 
+[2025-12-13 10:18:13] Word of the Day: collateralized
+Meaning: To secure a loan or other contract by using collateral.
+Example: N/A
+
