@@ -7081,3 +7081,7 @@ Example: N/A
 Meaning: A prom (dance).
 Example: N/A
 
+[2025-12-13 17:43:25] Word of the Day: radiologists
+Meaning: A person who is skilled in or practices radiology.
+Example: N/A
+
