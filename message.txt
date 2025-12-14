@@ -7153,3 +7153,7 @@ Example: N/A
 Meaning: The body.
 Example: Fred likes to keep his bod in shape.
 
+[2025-12-14 17:44:53] Word of the Day: disastrously
+Meaning: In a disastrous way. (Of the nature of a disaster; calamitously.)
+Example: N/A
+
