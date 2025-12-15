@@ -7211,3 +7211,7 @@ Example: We went out for a picnic in the forest.
 Meaning: Of or pertaining to a vector.
 Example: N/A
 
+[2025-12-15 19:10:28] Word of the Day: creaked
+Meaning: To make a prolonged sharp grating or squeaking sound, as by the friction of hard substances.
+Example: N/A
+
