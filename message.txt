@@ -7189,3 +7189,7 @@ Example: N/A
 
 [2025-12-15 10:01:18] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2025-12-15 17:15:30] Word of the Day: compurgators
+Meaning: Someone who vouches for another person's innocence, trustworthiness etc.
+Example: N/A
+
