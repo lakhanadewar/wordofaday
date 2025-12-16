@@ -7227,3 +7227,7 @@ Example: Using the same logon for different systems can be a security risk.
 Meaning: To take upon oneself; to start, to embark on (a specific task etc.).
 Example: N/A
 
+[2025-12-16 09:52:32] Word of the Day: reckonings
+Meaning: The action of calculating or estimating something.
+Example: By that reckoning, it would take six weeks to go five miles.
+
