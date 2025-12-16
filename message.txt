@@ -7223,3 +7223,7 @@ Example: N/A
 Meaning: A combination of a user's identification and password used to enter a computer.
 Example: Using the same logon for different systems can be a security risk.
 
+[2025-12-16 09:34:10] Word of the Day: undertake
+Meaning: To take upon oneself; to start, to embark on (a specific task etc.).
+Example: N/A
+
