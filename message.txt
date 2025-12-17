@@ -7283,3 +7283,7 @@ Example: N/A
 Meaning: Not atoned for.
 Example: an unatoned sin
 
+[2025-12-17 17:14:23] Word of the Day: railbus
+Meaning: A lightweight passenger rail vehicle, similar in appearance to a bus
+Example: N/A
+
