@@ -7263,3 +7263,7 @@ Example: N/A
 Meaning: Hemoglobin with iron in ferric state.
 Example: N/A
 
+[2025-12-17 08:33:06] Word of the Day: pec
+Meaning: (usually in the plural) The pectoralis major muscle.
+Example: He's flexing his pecs at anyone who'll look.
+
