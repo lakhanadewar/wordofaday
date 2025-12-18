@@ -7323,3 +7323,7 @@ Example: N/A
 Meaning: A narrow strip of land, bordered on both sides by water, and connecting two larger landmasses.
 Example: N/A
 
+[2025-12-18 09:53:05] Word of the Day: detonations
+Meaning: An explosion or sudden report made by the near-instantaneous decomposition or combustion of unstable substances. Specifically, combustion that spreads supersonically via shock compression.
+Example: the detonation of gun cotton
+
