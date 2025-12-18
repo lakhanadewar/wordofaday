@@ -7311,3 +7311,7 @@ Example: Your failure to object to the request resulted in you tacitly approving
 Meaning: A lady, especially a noblewoman; the title given to a lady in Italy.
 Example: N/A
 
+[2025-12-18 08:32:18] Word of the Day: babe
+Meaning: A baby or infant; a very young human or animal.
+Example: These events came to pass when he was but a babe.
+
