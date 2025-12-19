@@ -7375,3 +7375,7 @@ Example: N/A
 Meaning: Someone who is traveling downhill
 Example: N/A
 
+[2025-12-19 18:17:34] Word of the Day: contraceptive
+Meaning: A mechanism or means by which conception as a result of sexual intercourse can be prevented or made less likely.
+Example: Putting a pig's bladder over one's penis during intercourse is not a good contraceptive.
+
