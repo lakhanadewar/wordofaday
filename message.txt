@@ -7415,3 +7415,7 @@ Example: N/A
 Meaning: A mediaeval double-reed wind instrument with a conical wooden body.
 Example: N/A
 
+[2025-12-20 17:07:26] Word of the Day: quadplexes
+Meaning: A building divided into four separate residences or commercial premises
+Example: N/A
+
