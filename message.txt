@@ -7447,3 +7447,7 @@ Example: N/A
 Meaning: A bullfight
 Example: N/A
 
+[2025-12-20 18:45:28] Word of the Day: lard
+Meaning: Fat from the abdomen of a pig, especially as prepared for use in cooking or pharmacy.
+Example: N/A
+
