@@ -7439,3 +7439,7 @@ Example: N/A
 Meaning: Poplar
 Example: N/A
 
+[2025-12-20 18:00:18] Word of the Day: sainfoin
+Meaning: A perennial herb of the genus Onobrychis with pale pink flowers, especially Onobrychis viciifolia (syn. Onobrychis sativa).
+Example: N/A
+
