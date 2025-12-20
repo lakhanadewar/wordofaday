@@ -7427,3 +7427,7 @@ Example: N/A
 Meaning: That which indicates or points out.
 Example: an indicant of the remedy for a disease
 
+[2025-12-20 17:42:55] Word of the Day: authorize
+Meaning: To grant (someone) the permission or power necessary to do (something).
+Example: The General Assembly authorized the Council to take up the matter.
+
