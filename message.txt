@@ -7487,3 +7487,7 @@ Example: N/A
 Meaning: A variety of melon.
 Example: N/A
 
+[2025-12-21 17:27:07] Word of the Day: enables
+Meaning: To make somebody able (to do, or to be, something); to give sufficient ability or power to do or to be; to give strength or ability to.
+Example: N/A
+
