@@ -7467,3 +7467,7 @@ Example: N/A
 Meaning: Any salt or ester of tartaric acid
 Example: N/A
 
+[2025-12-21 09:01:06] Word of the Day: agates
+Meaning: A semi-pellucid, uncrystallized variety of quartz, presenting various tints in the same specimen, with colors delicately arranged in stripes or bands, or blended in clouds.
+Example: N/A
+
