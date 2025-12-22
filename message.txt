@@ -7555,3 +7555,7 @@ Example: N/A
 Meaning: The upward force on a body immersed or partly immersed in a fluid.
 Example: N/A
 
+[2025-12-22 17:50:40] Word of the Day: covenanting
+Meaning: To enter into, or promise something by, a covenant.
+Example: N/A
+
