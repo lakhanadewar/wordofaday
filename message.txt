@@ -7599,3 +7599,7 @@ Example: He yawned, then raised a tardy hand over his mouth.
 Meaning: A vehicle that has two wheels, one behind the other, a steering handle, and a saddle seat or seats and is usually propelled by the action of a rider’s feet upon pedals.
 Example: N/A
 
+[2025-12-23 17:33:58] Word of the Day: stripping
+Meaning: To remove or take away, often in strips or stripes.
+Example: Norm will strip the old varnish before painting the chair.
+
