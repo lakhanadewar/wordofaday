@@ -7603,3 +7603,7 @@ Example: N/A
 Meaning: To remove or take away, often in strips or stripes.
 Example: Norm will strip the old varnish before painting the chair.
 
+[2025-12-23 17:46:25] Word of the Day: freckle
+Meaning: A small brownish or reddish pigmentation spot on the surface of the skin.
+Example: Steve has brown hair, blue eyes, and freckles on his cheeks and nose.
+
