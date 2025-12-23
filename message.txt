@@ -7623,3 +7623,7 @@ Example: N/A
 Meaning: Something that is not negotiable.
 Example: N/A
 
+[2025-12-23 19:01:49] Word of the Day: indenting
+Meaning: To notch; to jag; to cut into points like a row of teeth
+Example: to indent the edge of paper
+
