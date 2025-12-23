@@ -7591,3 +7591,7 @@ Example: N/A
 Meaning: The coming together of things; union.
 Example: N/A
 
+[2025-12-23 10:11:16] Word of the Day: tardiest
+Meaning: Late; overdue or delayed.
+Example: He yawned, then raised a tardy hand over his mouth.
+
