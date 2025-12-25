@@ -7707,3 +7707,7 @@ Example: to untie a knot
 Meaning: To subject (something or someone) to dialysis.
 Example: N/A
 
+[2025-12-25 17:09:07] Word of the Day: violating
+Meaning: To break or disregard (a rule or convention).
+Example: Accessing unauthorized files violates security protocol.
+
