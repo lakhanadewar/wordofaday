@@ -7695,3 +7695,7 @@ Example: N/A
 Meaning: A person who makes or sells bows (for use with arrows).
 Example: N/A
 
+[2025-12-25 09:41:44] Word of the Day: frypan
+Meaning: A frying pan.
+Example: N/A
+
