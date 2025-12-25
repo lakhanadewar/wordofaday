@@ -7683,3 +7683,7 @@ Example: N/A
 Meaning: A skirt worn visibly, especially over another layer, such as a petticoat.
 Example: N/A
 
+[2025-12-25 08:30:47] Word of the Day: planarians
+Meaning: Any of various flatworms of the order Tricladida living in marine, freshwater, or terrestrial environments.
+Example: N/A
+
