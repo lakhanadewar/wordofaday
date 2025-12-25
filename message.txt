@@ -7731,3 +7731,7 @@ Example: N/A
 Meaning: Having crags
 Example: N/A
 
+[2025-12-25 18:29:12] Word of the Day: caricaturing
+Meaning: To represent someone in an exaggerated or distorted manner.
+Example: N/A
+
