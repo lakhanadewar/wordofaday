@@ -7793,3 +7793,7 @@ Example: N/A
 Meaning: Someone who plays the clarinet.
 Example: N/A
 
+[2025-12-26 18:47:15] Word of the Day: rushing
+Meaning: To hurry; to perform a task with great haste.
+Example: rush one's dinner;   rush off an email response
+
