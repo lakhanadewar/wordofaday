@@ -7847,3 +7847,7 @@ Example: N/A
 Meaning: Walking on four feet.
 Example: N/A
 
+[2025-12-27 18:18:21] Word of the Day: seedy
+Meaning: Full of seeds.
+Example: Pomegranates are as seedy as any fruit you are likely to see.
+
