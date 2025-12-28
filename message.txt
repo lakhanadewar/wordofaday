@@ -7891,3 +7891,7 @@ Example: N/A
 Meaning: In contact sports, an athlete whose size, strength, and/or aggressiveness make it likely that he will cause athletes on the opposing team to suffer physical punishment.
 Example: N/A
 
+[2025-12-28 17:40:39] Word of the Day: lost
+Meaning: To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.
+Example: He lost his hearing in the explosion.
+
