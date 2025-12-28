@@ -7883,3 +7883,7 @@ Example: N/A
 Meaning: A mythical beast resembling a horse or deer with a single, straight, spiraled horn projecting from its forehead.
 Example: N/A
 
+[2025-12-28 17:08:07] Word of the Day: mycorrhiza
+Meaning: A symbiosis between the mycelium of a fungus and the roots of a plant.
+Example: N/A
+
