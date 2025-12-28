@@ -7915,3 +7915,7 @@ Example: N/A
 Meaning: A person who broods
 Example: N/A
 
+[2025-12-28 18:58:19] Word of the Day: treat
+Meaning: An entertainment, outing, food, drink, or other indulgence provided by someone for the enjoyment of others.
+Example: Here are some healthy Halloween treats for ghouls and witches of all ages.
+
