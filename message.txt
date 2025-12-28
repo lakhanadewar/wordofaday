@@ -7895,3 +7895,7 @@ Example: N/A
 Meaning: To cause (something) to cease to be in one's possession or capability due to unfortunate or unknown circumstances, events or reasons.
 Example: He lost his hearing in the explosion.
 
+[2025-12-28 17:47:18] Word of the Day: delouses
+Meaning: To remove lice from.
+Example: A veterinarian could delouse your dog.
+
