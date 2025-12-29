@@ -7919,3 +7919,7 @@ Example: N/A
 Meaning: An entertainment, outing, food, drink, or other indulgence provided by someone for the enjoyment of others.
 Example: Here are some healthy Halloween treats for ghouls and witches of all ages.
 
+[2025-12-29 08:34:31] Word of the Day: bottling
+Meaning: To seal (a liquid) into a bottle for later consumption. Also fig.
+Example: This plant bottles vast quantities of spring water every day.
+
