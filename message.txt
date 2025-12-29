@@ -7959,3 +7959,7 @@ Example: N/A
 Meaning: A scientist whose speciality is agronomy.
 Example: N/A
 
+[2025-12-29 18:47:14] Word of the Day: babbling
+Meaning: To utter words indistinctly or unintelligibly; to utter inarticulate sounds
+Example: The men were babbling, so we couldn't make sense of anything.
+
