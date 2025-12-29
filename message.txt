@@ -7951,3 +7951,7 @@ Example: N/A
 Meaning: Until, till
 Example: N/A
 
+[2025-12-29 17:56:12] Word of the Day: hypocoristic
+Meaning: A nickname, especially one indicating intimacy and formed through a shortening of the original name.
+Example: N/A
+
