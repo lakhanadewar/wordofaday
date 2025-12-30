@@ -7991,3 +7991,7 @@ Example: a claim of ownership
 Meaning: A parish constable, a uniformed minor (lay) official, who ushers and keeps order
 Example: N/A
 
+[2025-12-30 17:34:24] Word of the Day: malaria
+Meaning: A disease spread by mosquito, in which a protozoan, Plasmodium, multiplies in blood every few days.
+Example: N/A
+
