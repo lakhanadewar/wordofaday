@@ -7975,3 +7975,7 @@ Example: N/A
 Meaning: The condition in which the rear wheels of a car don't follow the desired curve while cornering, the rear wheels losing a degree of traction and so skidding off the required line into a spin.
 Example: N/A
 
+[2025-12-30 09:30:11] Word of the Day: breechblocks
+Meaning: The metal block that closes the breech of a breech-loading gun after insertion of the cartridge.
+Example: N/A
+
