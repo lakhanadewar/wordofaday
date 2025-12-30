@@ -7971,3 +7971,7 @@ Example: N/A
 Meaning: Either of two isomeric heterocyclic compounds having a five-membered ring with three nitrogen atoms and two double bonds in the ring; any organic derivative of these compounds
 Example: N/A
 
+[2025-12-30 08:56:14] Word of the Day: oversteer
+Meaning: The condition in which the rear wheels of a car don't follow the desired curve while cornering, the rear wheels losing a degree of traction and so skidding off the required line into a spin.
+Example: N/A
+
