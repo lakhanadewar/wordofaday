@@ -8047,3 +8047,7 @@ Example: N/A
 Meaning: Something difficult or impossible to pronounce.
 Example: N/A
 
+[2025-12-31 17:41:33] Word of the Day: vandalising
+Meaning: To needlessly destroy or deface other people’s property or public property; to commit vandalism.
+Example: N/A
+
