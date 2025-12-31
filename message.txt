@@ -8023,3 +8023,7 @@ Example: N/A
 Meaning: A synthetic progestagen intended to mimic the effects of progesterone, often for contraceptive purposes.
 Example: N/A
 
+[2025-12-31 08:56:12] Word of the Day: literate
+Meaning: A person who is able to read and write.
+Example: N/A
+
