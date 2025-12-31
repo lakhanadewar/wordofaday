@@ -8019,3 +8019,7 @@ Example: N/A
 Meaning: A seller of junk.
 Example: N/A
 
+[2025-12-31 08:32:16] Word of the Day: progestin
+Meaning: A synthetic progestagen intended to mimic the effects of progesterone, often for contraceptive purposes.
+Example: N/A
+
