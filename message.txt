@@ -8083,3 +8083,7 @@ Example: N/A
 Meaning: A bipolar cell.
 Example: N/A
 
+[2026-01-01 09:29:05] Word of the Day: hyperextensions
+Meaning: The extension of a joint beyond its normal range; the condition of being hyperextended.
+Example: N/A
+
