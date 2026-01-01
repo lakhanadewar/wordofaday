@@ -8079,3 +8079,7 @@ Example: N/A
 Meaning: A perennial herb, the wormwood species Artemisia dracunculus, from Europe and parts of Asia.
 Example: N/A
 
+[2026-01-01 08:55:45] Word of the Day: bipolar
+Meaning: A bipolar cell.
+Example: N/A
+
