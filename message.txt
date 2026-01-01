@@ -8107,3 +8107,7 @@ Example: N/A
 Meaning: (of birds or bats) To settle on a perch in order to sleep or rest
 Example: N/A
 
+[2026-01-01 17:51:11] Word of the Day: glacier
+Meaning: A large body of ice which flows under its own mass, usually downhill.
+Example: They warned that the effects of glacier melting on water resources are becoming “increasingly serious” for China.
+
