@@ -8099,3 +8099,7 @@ Example: N/A
 Meaning: Collected together in a loose aggregation like flocks (tufts) of wool, or coagulated in this way.
 Example: N/A
 
+[2026-01-01 17:31:44] Word of the Day: farmyard
+Meaning: The area around a farm, excluding the fields.
+Example: N/A
+
