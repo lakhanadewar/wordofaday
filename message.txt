@@ -8075,3 +8075,7 @@ Example: N/A
 Meaning: Of, or relating to that part of a stage not visible to the audience.
 Example: N/A
 
+[2026-01-01 08:31:53] Word of the Day: tarragon
+Meaning: A perennial herb, the wormwood species Artemisia dracunculus, from Europe and parts of Asia.
+Example: N/A
+
