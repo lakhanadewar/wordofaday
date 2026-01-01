@@ -8087,3 +8087,7 @@ Example: N/A
 Meaning: The extension of a joint beyond its normal range; the condition of being hyperextended.
 Example: N/A
 
+[2026-01-01 09:47:55] Word of the Day: minimising
+Meaning: To make (something) as small or as insignificant as possible.
+Example: N/A
+
