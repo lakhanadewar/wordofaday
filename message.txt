@@ -8091,3 +8091,7 @@ Example: N/A
 Meaning: To make (something) as small or as insignificant as possible.
 Example: N/A
 
+[2026-01-01 09:59:02] Word of the Day: nomograms
+Meaning: A diagram in which the relationship between three variables is represented by a straight line or curve for each variable; the value of the third variable corresponding to particular values of the first two is obtained by drawing a straight line through the points on the first two curves that represent particular values of the first two variables and noting the point at which the line intersects the third line or curve.
+Example: N/A
+
