@@ -8123,3 +8123,7 @@ Example: N/A
 Meaning: A person born hearing to deaf parents.
 Example: N/A
 
+[2026-01-01 18:59:03] Word of the Day: simulcasts
+Meaning: A program or event that is broadcast across more than one medium or service at the same time.
+Example: N/A
+
