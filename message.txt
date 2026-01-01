@@ -8103,3 +8103,7 @@ Example: N/A
 Meaning: The area around a farm, excluding the fields.
 Example: N/A
 
+[2026-01-01 17:43:56] Word of the Day: roosting
+Meaning: (of birds or bats) To settle on a perch in order to sleep or rest
+Example: N/A
+
