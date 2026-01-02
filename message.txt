@@ -8143,3 +8143,7 @@ Example: N/A
 Meaning: One who bathes or swims.
 Example: N/A
 
+[2026-01-02 09:58:50] Word of the Day: instinctively
+Meaning: Innately; by instinct; without being taught.
+Example: Fish instinctively know how to swim; most humans don't.
+
