@@ -8135,3 +8135,7 @@ Example: N/A
 Meaning: A paved outside area, adjoining a house, used for dining or recreation.
 Example: N/A
 
+[2026-01-02 09:28:56] Word of the Day: testifying
+Meaning: To make a declaration, or give evidence, under oath.
+Example: N/A
+
