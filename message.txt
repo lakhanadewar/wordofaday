@@ -8151,3 +8151,7 @@ Example: Fish instinctively know how to swim; most humans don't.
 Meaning: (massage) A person (especially male) who performs massage.
 Example: N/A
 
+[2026-01-02 17:30:05] Word of the Day: myxovirus
+Meaning: Any of a group of RNA viruses of the Orthomyxoviridae and Paramyxoviridae families.
+Example: N/A
+
