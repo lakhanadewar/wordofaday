@@ -8175,3 +8175,7 @@ Example: N/A
 Meaning: Something that deters.
 Example: N/A
 
+[2026-01-02 18:57:30] Word of the Day: overpack
+Meaning: A container intended to hold smaller containers.
+Example: N/A
+
