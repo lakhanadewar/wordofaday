@@ -8167,3 +8167,7 @@ Example: N/A
 Meaning: An unsteady movement or gait.
 Example: N/A
 
+[2026-01-02 18:13:43] Word of the Day: crepon
+Meaning: A thin fabric made from silk or fine wool
+Example: N/A
+
