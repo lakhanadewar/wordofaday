@@ -8131,3 +8131,7 @@ Example: N/A
 Meaning: An exploration of the Moon's surface on foot (by an astronaut).
 Example: N/A
 
+[2026-01-02 08:55:55] Word of the Day: patios
+Meaning: A paved outside area, adjoining a house, used for dining or recreation.
+Example: N/A
+
