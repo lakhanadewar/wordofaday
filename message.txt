@@ -8207,3 +8207,7 @@ Example: N/A
 Meaning: A little drum; a tabret.
 Example: N/A
 
+[2026-01-03 17:28:14] Word of the Day: storied
+Meaning: Much talked or written about
+Example: N/A
+
