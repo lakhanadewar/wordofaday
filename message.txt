@@ -8179,3 +8179,7 @@ Example: N/A
 Meaning: A container intended to hold smaller containers.
 Example: N/A
 
+[2026-01-03 08:29:13] Word of the Day: mottle
+Meaning: A distinguishing blotch of color.
+Example: N/A
+
