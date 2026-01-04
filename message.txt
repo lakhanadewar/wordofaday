@@ -8267,3 +8267,7 @@ Example: N/A
 Meaning: A scroll termination, as of a step, etc.
 Example: N/A
 
+[2026-01-04 17:40:17] Word of the Day: lunations
+Meaning: A month of an average of approximately 29.53 days, measured from a lunar phase until the return of that same phase.
+Example: N/A
+
