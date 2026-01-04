@@ -8239,3 +8239,7 @@ Example: The woman confected a home remedy for the traveler's illness.
 Meaning: That can be discriminated or distinguished from others
 Example: N/A
 
+[2026-01-04 08:52:00] Word of the Day: archbishop
+Meaning: A senior bishop who is in charge of an archdiocese, and presides over a group of dioceses called a province (in Catholicism, Eastern Orthodoxy, Anglicanism, etc.)
+Example: N/A
+
