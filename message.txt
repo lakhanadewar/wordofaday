@@ -8263,3 +8263,7 @@ Example: N/A
 Meaning: The act of annunciating.
 Example: N/A
 
+[2026-01-04 17:28:16] Word of the Day: curtail
+Meaning: A scroll termination, as of a step, etc.
+Example: N/A
+
