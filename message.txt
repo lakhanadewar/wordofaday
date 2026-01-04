@@ -8247,3 +8247,7 @@ Example: N/A
 Meaning: Hydroelectric power
 Example: N/A
 
+[2026-01-04 09:33:23] Word of the Day: interoceptors
+Meaning: A sensory receptor that detects stimulus within the body.
+Example: N/A
+
