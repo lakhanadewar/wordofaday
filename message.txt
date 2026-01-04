@@ -8275,3 +8275,7 @@ Example: N/A
 Meaning: A small shield
 Example: N/A
 
+[2026-01-04 17:53:04] Word of the Day: zucchetto
+Meaning: A small skullcap worn by Roman Catholic clergy (the Pope's is white, a cardinal's red, a bishop's purple, and a priest's black), Anglican clergy, and Syriac or Malankara Orthodox clergy
+Example: N/A
+
