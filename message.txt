@@ -8251,3 +8251,7 @@ Example: N/A
 Meaning: A sensory receptor that detects stimulus within the body.
 Example: N/A
 
+[2026-01-04 09:46:08] Word of the Day: trachoma
+Meaning: An infectious disease of the eyelid caused by the bacterium Chlamydia trachomatis.
+Example: N/A
+
