@@ -8287,3 +8287,7 @@ Example: N/A
 Meaning: A form of epidiascope that projects images of opaque objects
 Example: N/A
 
+[2026-01-04 18:47:12] Word of the Day: pocketknives
+Meaning: A knife with blades or tools that the user can fold or retract into its handle, and of a size small enough for carrying safely and handily in a pocket. Since the late 19th century the term "penknife" has not been distinct from "pocketknife", but the latter tends to refer to larger and more robust versions, sometimes with more attached tools, suited to heavier duty for casual or ad hoc applications outdoors or in workshops.
+Example: N/A
+
