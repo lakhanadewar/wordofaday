@@ -8255,3 +8255,7 @@ Example: N/A
 Meaning: An infectious disease of the eyelid caused by the bacterium Chlamydia trachomatis.
 Example: N/A
 
+[2026-01-04 09:57:00] Word of the Day: tracker
+Meaning: Agent noun of track; one who, or that which, tracks or pursues, as a man or dog that follows game.
+Example: N/A
+
