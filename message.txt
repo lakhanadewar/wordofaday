@@ -8283,3 +8283,7 @@ Example: N/A
 Meaning: Resembling a disc or some aspect of one.
 Example: N/A
 
+[2026-01-04 18:24:52] Word of the Day: episcopes
+Meaning: A form of epidiascope that projects images of opaque objects
+Example: N/A
+
