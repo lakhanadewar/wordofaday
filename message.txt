@@ -8319,3 +8319,7 @@ Example: N/A
 Meaning: A short jump.
 Example: The frog crossed the brook in three or four hops.
 
+[2026-01-05 17:50:28] Word of the Day: detail
+Meaning: Something small enough to escape casual notice.
+Example: Note this fine detail in the lower left corner.
+
