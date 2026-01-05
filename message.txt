@@ -8323,3 +8323,7 @@ Example: The frog crossed the brook in three or four hops.
 Meaning: Something small enough to escape casual notice.
 Example: Note this fine detail in the lower left corner.
 
+[2026-01-05 17:57:25] Word of the Day: counterblasts
+Meaning: A work that strongly refutes or criticises another.
+Example: N/A
+
