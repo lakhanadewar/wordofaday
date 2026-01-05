@@ -8295,3 +8295,7 @@ Example: N/A
 Meaning: A short piece of music, often having improvisation, played on a solo instrument.
 Example: N/A
 
+[2026-01-05 08:36:26] Word of the Day: tuberculous
+Meaning: Tubercular; having or relating to tuberculosis.
+Example: N/A
+
