@@ -8335,3 +8335,7 @@ Example: N/A
 Meaning: An enormous mythical bird in Eastern legend.
 Example: N/A
 
+[2026-01-05 19:10:40] Word of the Day: unclenched
+Meaning: To open (something that was clenched).
+Example: The baby stopped crying and unclenched her fists.
+
