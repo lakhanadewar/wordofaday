@@ -8311,3 +8311,7 @@ Example: N/A
 Meaning: A thumbtack.
 Example: N/A
 
+[2026-01-05 17:13:43] Word of the Day: nagana
+Meaning: A disease of vertebrates in southern Africa, characterised by swelling and lethargy and caused by trypanosomes transmitted by tsetse flies.
+Example: N/A
+
