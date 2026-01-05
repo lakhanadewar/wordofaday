@@ -8315,3 +8315,7 @@ Example: N/A
 Meaning: A disease of vertebrates in southern Africa, characterised by swelling and lethargy and caused by trypanosomes transmitted by tsetse flies.
 Example: N/A
 
+[2026-01-05 17:37:06] Word of the Day: hop
+Meaning: A short jump.
+Example: The frog crossed the brook in three or four hops.
+
