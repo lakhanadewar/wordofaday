@@ -8299,3 +8299,7 @@ Example: N/A
 Meaning: Tubercular; having or relating to tuberculosis.
 Example: N/A
 
+[2026-01-05 09:01:00] Word of the Day: jicama
+Meaning: The edible root of the yam bean, Pachyrhizus erosus, used in salads in Central America.
+Example: N/A
+
