@@ -8331,3 +8331,7 @@ Example: N/A
 Meaning: A rose of the Grandiflora class of roses created in the middle of the 20th century as backcrosses of hybrid teas and floribundas that fit neither category.
 Example: N/A
 
+[2026-01-05 18:52:06] Word of the Day: roc
+Meaning: An enormous mythical bird in Eastern legend.
+Example: N/A
+
