@@ -8351,3 +8351,7 @@ Example: N/A
 Meaning: The act of deflecting or something deflected.
 Example: N/A
 
+[2026-01-06 09:53:16] Word of the Day: unlucky
+Meaning: Unfortunate, marked by misfortune.
+Example: N/A
+
