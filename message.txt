@@ -8383,3 +8383,7 @@ Example: N/A
 Meaning: The act of banishing.
 Example: The judge pronounced banishment upon the war criminal.
 
+[2026-01-06 18:59:41] Word of the Day: tumult
+Meaning: Confused, agitated noise as made by a crowd.
+Example: N/A
+
