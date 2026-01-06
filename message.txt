@@ -8371,3 +8371,7 @@ Example: N/A
 Meaning: (history) The title designating a Roman administrative official whose role changed over time:
 Example: N/A
 
+[2026-01-06 17:58:24] Word of the Day: mud
+Meaning: A mixture of water and soil or fine grained sediment.
+Example: N/A
+
