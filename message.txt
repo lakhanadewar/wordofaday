@@ -8355,3 +8355,7 @@ Example: N/A
 Meaning: Unfortunate, marked by misfortune.
 Example: N/A
 
+[2026-01-06 10:20:00] Word of the Day: heaps
+Meaning: A crowd; a throng; a multitude or great number of people.
+Example: N/A
+
