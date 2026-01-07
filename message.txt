@@ -8387,3 +8387,7 @@ Example: The judge pronounced banishment upon the war criminal.
 Meaning: Confused, agitated noise as made by a crowd.
 Example: N/A
 
+[2026-01-07 08:34:02] Word of the Day: poshest
+Meaning: Associated with the upper classes.
+Example: She talks with a posh accent.
+
