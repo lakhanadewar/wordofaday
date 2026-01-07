@@ -8395,3 +8395,7 @@ Example: She talks with a posh accent.
 Meaning: To seize for military use.
 Example: N/A
 
+[2026-01-07 09:36:58] Word of the Day: piggybacking
+Meaning: To attach or append something to another (usually larger) object or event.
+Example: The popular host can’t claim credit for the trade, though. The idea wasn’t his. He piggybacked off another successful investor who had a history of picking winners.
+
