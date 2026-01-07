@@ -8411,3 +8411,7 @@ Example: N/A
 Meaning: (US, Australia, New Zealand) A flattened portion of ground meat or a vegetarian equivalent, usually round but sometimes square in shape.
 Example: N/A
 
+[2026-01-07 17:42:54] Word of the Day: notice
+Meaning: The act of observing; perception.
+Example: He took no notice of the changes, and went on as though nothing had happened.
+
