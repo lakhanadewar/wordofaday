@@ -8439,3 +8439,7 @@ Example: N/A
 Meaning: Having only one color, represented by differing hues and tints. For example shades in a black and white television.
 Example: N/A
 
+[2026-01-08 09:36:58] Word of the Day: promisee
+Meaning: A person who receives a promise.
+Example: N/A
+
