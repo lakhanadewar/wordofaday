@@ -8471,3 +8471,7 @@ Example: N/A
 Meaning: The onset of menstruation; a girl's first period.
 Example: N/A
 
+[2026-01-09 17:37:14] Word of the Day: arbitrate
+Meaning: To make a judgment (on a dispute) as an arbitrator or arbiter
+Example: to arbitrate a disputed case
+
