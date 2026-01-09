@@ -8487,3 +8487,7 @@ Example: N/A
 
 [2026-01-09 18:51:35] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-01-09 19:03:17] Word of the Day: gourami
+Meaning: An edible freshwater fish of the family Osphronemidae.
+Example: N/A
+
