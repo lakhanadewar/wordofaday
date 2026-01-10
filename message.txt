@@ -8495,3 +8495,7 @@ Example: N/A
 Meaning: A subdivision of currency, equal to 0.01 Macedonian denar.
 Example: N/A
 
+[2026-01-10 08:51:28] Word of the Day: grillage
+Meaning: A foundation of crisscrossing timber or steel beams, usually for spreading heavy loads over large areas.
+Example: N/A
+
