@@ -8511,3 +8511,7 @@ Example: Due to an undersized inventory at the Boston outlet, customers had to t
 Meaning: Of, pertaining to, or characteristic of fish; ichthyic.
 Example: N/A
 
+[2026-01-10 09:57:56] Word of the Day: gabfest
+Meaning: An occasion (such as a meeting) where people talk at length.
+Example: N/A
+
