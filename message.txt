@@ -8507,3 +8507,7 @@ Example: N/A
 Meaning: (operations) The stock of an item on hand at a particular location or business.
 Example: Due to an undersized inventory at the Boston outlet, customers had to travel to Providence to find the item.
 
+[2026-01-10 09:46:47] Word of the Day: piscine
+Meaning: Of, pertaining to, or characteristic of fish; ichthyic.
+Example: N/A
+
