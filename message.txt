@@ -8535,3 +8535,7 @@ Example: N/A
 Meaning: To add pepper to.
 Example: N/A
 
+[2026-01-10 17:57:47] Word of the Day: panache
+Meaning: An ornamental plume on a helmet.
+Example: N/A
+
