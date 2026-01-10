@@ -8531,3 +8531,7 @@ Example: N/A
 Meaning: To subject to solarization.
 Example: N/A
 
+[2026-01-10 17:52:18] Word of the Day: peppering
+Meaning: To add pepper to.
+Example: N/A
+
