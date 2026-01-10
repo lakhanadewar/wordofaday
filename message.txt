@@ -8515,3 +8515,7 @@ Example: N/A
 Meaning: An occasion (such as a meeting) where people talk at length.
 Example: N/A
 
+[2026-01-10 17:07:59] Word of the Day: colligated
+Meaning: To tie or bind together.
+Example: N/A
+
