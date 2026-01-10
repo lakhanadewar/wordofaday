@@ -8503,3 +8503,7 @@ Example: N/A
 Meaning: Able to be absorbed by a living organism.
 Example: N/A
 
+[2026-01-10 09:34:12] Word of the Day: inventories
+Meaning: (operations) The stock of an item on hand at a particular location or business.
+Example: Due to an undersized inventory at the Boston outlet, customers had to travel to Providence to find the item.
+
