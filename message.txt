@@ -8591,3 +8591,7 @@ Example: N/A
 Meaning: Friendly; on, or trying to be on, intimate terms.
 Example: N/A
 
+[2026-01-11 17:53:16] Word of the Day: squashy
+Meaning: Easily squashed when pressed.
+Example: a squashy tomato
+
