@@ -8603,3 +8603,7 @@ Example: N/A
 Meaning: To worship.
 Example: N/A
 
+[2026-01-11 18:47:59] Word of the Day: protagonist
+Meaning: (authorship) The main character, or one of the main characters, in any story, such as a literary work or drama.
+Example: N/A
+
