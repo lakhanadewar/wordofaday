@@ -8595,3 +8595,7 @@ Example: N/A
 Meaning: Easily squashed when pressed.
 Example: a squashy tomato
 
+[2026-01-11 17:58:49] Word of the Day: humanize
+Meaning: To make human; to give or cause to have the fundamental properties of a human.
+Example: N/A
+
