@@ -8607,3 +8607,7 @@ Example: N/A
 Meaning: (authorship) The main character, or one of the main characters, in any story, such as a literary work or drama.
 Example: N/A
 
+[2026-01-11 18:58:15] Word of the Day: apatosauruses
+Meaning: A large sauropod dinosaur of the genus Apatosaurus of the late Jurassic Period. Apatosaurs had a long neck and tail and a relatively small head.
+Example: N/A
+
