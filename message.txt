@@ -8563,3 +8563,7 @@ Example: N/A
 Meaning: A man or boy with brown or black hair.
 Example: N/A
 
+[2026-01-11 09:36:07] Word of the Day: coparent
+Meaning: Someone who shares in the parenting of a child or children, such as:
+Example: a parent in a same-sex couple
+
