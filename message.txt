@@ -8647,3 +8647,7 @@ Example: The faucet has been leaking since last month.
 Meaning: A jerk; a mean or rude person.
 Example: N/A
 
+[2026-01-12 18:36:46] Word of the Day: ionising
+Meaning: To dissociate atoms or molecules into electrically charged species; to be thus dissociated.
+Example: N/A
+
