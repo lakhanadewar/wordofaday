@@ -8627,3 +8627,7 @@ Example: N/A
 Meaning: A type of musical ornament, falling on the beat, which often creates a suspension and subtracts for itself half the time value of the principal note which follows.
 Example: N/A
 
+[2026-01-12 17:14:08] Word of the Day: casitas
+Meaning: A small, attached but self-contained house or apartment
+Example: N/A
+
