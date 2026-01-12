@@ -8631,3 +8631,7 @@ Example: N/A
 Meaning: A small, attached but self-contained house or apartment
 Example: N/A
 
+[2026-01-12 17:37:32] Word of the Day: specificities
+Meaning: The state of being specific rather than general.
+Example: N/A
+
