@@ -8611,3 +8611,7 @@ Example: N/A
 Meaning: A large sauropod dinosaur of the genus Apatosaurus of the late Jurassic Period. Apatosaurs had a long neck and tail and a relatively small head.
 Example: N/A
 
+[2026-01-12 08:35:26] Word of the Day: undercrofts
+Meaning: A cellar or vaulted storage room.
+Example: N/A
+
