@@ -8623,3 +8623,7 @@ Example: N/A
 Meaning: A male homosexual, especially one who is effeminate.
 Example: N/A
 
+[2026-01-12 10:00:33] Word of the Day: appoggiatura
+Meaning: A type of musical ornament, falling on the beat, which often creates a suspension and subtracts for itself half the time value of the principal note which follows.
+Example: N/A
+
