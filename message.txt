@@ -8643,3 +8643,7 @@ Example: N/A
 Meaning: To allow fluid or gas to pass through an opening that should be sealed.
 Example: The faucet has been leaking since last month.
 
+[2026-01-12 18:00:44] Word of the Day: dickheads
+Meaning: A jerk; a mean or rude person.
+Example: N/A
+
