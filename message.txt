@@ -8635,3 +8635,7 @@ Example: N/A
 Meaning: The state of being specific rather than general.
 Example: N/A
 
+[2026-01-12 17:48:42] Word of the Day: kolinsky
+Meaning: The Siberian weasel, Mustela sibirica
+Example: N/A
+
