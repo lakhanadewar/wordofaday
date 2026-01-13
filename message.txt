@@ -8691,3 +8691,7 @@ Example: N/A
 Meaning: Various former units of length notionally based on the distance from a grown man's elbow to his fingertips, standardized in different places and times at values between 35 and 60 cm.
 Example: N/A
 
+[2026-01-13 18:51:06] Word of the Day: drudgery
+Meaning: Tedious, menial, and exhausting work.
+Example: N/A
+
