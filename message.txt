@@ -8667,3 +8667,7 @@ Example: N/A
 Meaning: An act of announcing, or giving notice.
 Example: He raised his hand to make his announcement and said "Excuse me everyone, I have an announcement to make.
 
+[2026-01-13 09:55:03] Word of the Day: makeups
+Meaning: An item's composition.
+Example: To understand how a nuclear reactor works, we must first look at its makeup.
+
