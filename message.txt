@@ -8655,3 +8655,7 @@ Example: N/A
 Meaning: Slide (used with a projector for projecting images)
 Example: N/A
 
+[2026-01-13 08:33:57] Word of the Day: tarsus
+Meaning: The part of the foot between the tibia and fibula and the metatarsus.
+Example: N/A
+
