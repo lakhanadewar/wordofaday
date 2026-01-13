@@ -8679,3 +8679,7 @@ Example: N/A
 Meaning: An officer with political influence; a head or chief in government, such as a sheriff, particularly where that person is Hispanic or of Mexican descent.
 Example: N/A
 
+[2026-01-13 17:44:52] Word of the Day: bureaucratic
+Meaning: Of or pertaining to bureaucracy or the actions of bureaucrats.
+Example: the European Union is legalistic, bureaucratic and runs by precedent.
+
