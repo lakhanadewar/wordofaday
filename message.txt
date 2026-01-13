@@ -8671,3 +8671,7 @@ Example: He raised his hand to make his announcement and said "Excuse me everyon
 Meaning: An item's composition.
 Example: To understand how a nuclear reactor works, we must first look at its makeup.
 
+[2026-01-13 10:26:36] Word of the Day: uplinking
+Meaning: To transmit a signal by means of an uplink.
+Example: N/A
+
