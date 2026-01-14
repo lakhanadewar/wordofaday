@@ -8727,3 +8727,7 @@ Example: N/A
 Meaning: Agent noun of evaluate; one who evaluates.
 Example: They were asked to program an expression evaluator that could determine the value of a numeric expression.
 
+[2026-01-14 18:20:04] Word of the Day: finked
+Meaning: To betray a trust; to inform on.
+Example: N/A
+
