@@ -8743,3 +8743,7 @@ Example: N/A
 Meaning: Any of several large food and game yellowtail fishes of the genus Seriola, found in warm waters of all oceans.
 Example: N/A
 
+[2026-01-15 08:58:35] Word of the Day: toques
+Meaning: A type of hat with no brim.
+Example: N/A
+
