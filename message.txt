@@ -8775,3 +8775,7 @@ Example: He voiced the sentiments of the nation.
 Meaning: Debris floating in a river or sea, in particular fragments from a shipwreck.
 Example: N/A
 
+[2026-01-16 08:32:59] Word of the Day: scrabble
+Meaning: A scramble.
+Example: a scrabble for dear life
+
