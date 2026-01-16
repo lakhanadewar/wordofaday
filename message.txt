@@ -8799,3 +8799,7 @@ Example: Saute the onions in a shallow pan.
 Meaning: An artificial intelligence program intended to simulate interactive conversation with another person
 Example: N/A
 
+[2026-01-16 17:39:16] Word of the Day: undernutrition
+Meaning: Inadequate nutrition, either due to a lack of food, or to the inability of the body to absorb its nutrients
+Example: N/A
+
