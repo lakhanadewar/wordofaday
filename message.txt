@@ -8791,3 +8791,7 @@ Example: N/A
 Meaning: An intersex person.
 Example: N/A
 
+[2026-01-16 10:19:00] Word of the Day: shallower
+Meaning: Having little depth; significantly less deep than wide.
+Example: Saute the onions in a shallow pan.
+
