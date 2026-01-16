@@ -8795,3 +8795,7 @@ Example: N/A
 Meaning: Having little depth; significantly less deep than wide.
 Example: Saute the onions in a shallow pan.
 
+[2026-01-16 17:14:40] Word of the Day: chatterboxes
+Meaning: An artificial intelligence program intended to simulate interactive conversation with another person
+Example: N/A
+
