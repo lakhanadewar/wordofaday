@@ -8811,3 +8811,7 @@ Example: The proximity of the heat source allowed it to be detected by the senso
 Meaning: To throw or hit a ball into the air in a high arch.
 Example: The guard lobbed a pass just over the defender.
 
+[2026-01-16 18:26:31] Word of the Day: loosen
+Meaning: To make loose.
+Example: After the Thanksgiving meal, Bill loosened his belt.
+
