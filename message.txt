@@ -8807,3 +8807,7 @@ Example: N/A
 Meaning: Closeness; the state of being near as in space, time, or relationship.
 Example: The proximity of the heat source allowed it to be detected by the sensor.
 
+[2026-01-16 17:58:05] Word of the Day: lobbed
+Meaning: To throw or hit a ball into the air in a high arch.
+Example: The guard lobbed a pass just over the defender.
+
