@@ -8851,3 +8851,7 @@ Example: N/A
 Meaning: A ceremonial headdress, decorated with a trailing extension of eagle feathers, worn by some American Indians.
 Example: N/A
 
+[2026-01-17 17:27:27] Word of the Day: alcalde
+Meaning: In Spain or Latin America, a municipal magistrate who has both judicial and administrative functions.
+Example: N/A
+
