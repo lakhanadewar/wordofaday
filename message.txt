@@ -8843,3 +8843,7 @@ Example: N/A
 Meaning: The fused head and thorax of spiders and crustaceans
 Example: N/A
 
+[2026-01-17 09:57:47] Word of the Day: curricle
+Meaning: A light two wheeled carriage large enough for the driver and a passenger and drawn by a carefully-matched pair.
+Example: N/A
+
