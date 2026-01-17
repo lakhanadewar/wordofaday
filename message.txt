@@ -8875,3 +8875,7 @@ Example: N/A
 Meaning: The bone at the front of the skull, behind the forehead.
 Example: N/A
 
+[2026-01-17 18:45:16] Word of the Day: whippet
+Meaning: A dog of a certain breed, similar to a small greyhound, originating in Britain and bred for racing.
+Example: N/A
+
