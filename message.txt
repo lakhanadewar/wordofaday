@@ -8863,3 +8863,7 @@ Example: N/A
 Meaning: Any of various herbs of the family Gentianaceae found in temperate and mountainous regions with violet or blue flowers.
 Example: N/A
 
+[2026-01-17 17:51:17] Word of the Day: mountains
+Meaning: An elevation of land of considerable dimensions rising more or less abruptly, forming a conspicuous figure in the landscape, usually having a small extent of surface at its summit.
+Example: We spent the weekend hiking in the mountains.
+
