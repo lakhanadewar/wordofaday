@@ -8855,3 +8855,7 @@ Example: N/A
 Meaning: In Spain or Latin America, a municipal magistrate who has both judicial and administrative functions.
 Example: N/A
 
+[2026-01-17 17:38:22] Word of the Day: deselecting
+Meaning: To not select; to rule out of selection.
+Example: N/A
+
