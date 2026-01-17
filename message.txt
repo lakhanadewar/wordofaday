@@ -8879,3 +8879,7 @@ Example: N/A
 Meaning: A dog of a certain breed, similar to a small greyhound, originating in Britain and bred for racing.
 Example: N/A
 
+[2026-01-17 18:55:53] Word of the Day: passersby
+Meaning: A person who is passing by (that is, walking past).
+Example: When he tripped and fell in the street, several kind passers-by helped him up.
+
