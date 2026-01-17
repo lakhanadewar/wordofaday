@@ -8859,3 +8859,7 @@ Example: N/A
 Meaning: To not select; to rule out of selection.
 Example: N/A
 
+[2026-01-17 17:45:39] Word of the Day: gentian
+Meaning: Any of various herbs of the family Gentianaceae found in temperate and mountainous regions with violet or blue flowers.
+Example: N/A
+
