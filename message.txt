@@ -8895,3 +8895,7 @@ Example: N/A
 Meaning: A substance that causes sepsis or putrefaction.
 Example: N/A
 
+[2026-01-18 09:35:02] Word of the Day: reduces
+Meaning: To bring down the size, quantity, quality, value or intensity of something; to diminish, to lower.
+Example: to reduce weight, speed, heat, expenses, price, personnel etc.
+
