@@ -8919,3 +8919,7 @@ Example: N/A
 Meaning: A high-pitched strident or piercing sound, such as that between a moving object and any surface.
 Example: N/A
 
+[2026-01-18 17:47:57] Word of the Day: blusters
+Meaning: Pompous, officious talk.
+Example: N/A
+
