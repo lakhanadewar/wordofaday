@@ -8923,3 +8923,7 @@ Example: N/A
 Meaning: Pompous, officious talk.
 Example: N/A
 
+[2026-01-18 17:53:41] Word of the Day: chatterer
+Meaning: A person who chatters; a chatterbox.
+Example: N/A
+
