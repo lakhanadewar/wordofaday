@@ -8891,3 +8891,7 @@ Example: N/A
 Meaning: A written attack or other work ridiculing a person, group, or institution.
 Example: N/A
 
+[2026-01-18 09:13:45] Word of the Day: septic
+Meaning: A substance that causes sepsis or putrefaction.
+Example: N/A
+
