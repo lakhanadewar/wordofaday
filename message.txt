@@ -8939,3 +8939,7 @@ Example: N/A
 Meaning: The main part of the (human) body that extends from the neck to the groin, excluding the head and limbs.
 Example: N/A
 
+[2026-01-18 18:57:11] Word of the Day: diffusivity
+Meaning: A tendency to diffuse
+Example: N/A
+
