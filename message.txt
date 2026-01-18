@@ -8931,3 +8931,7 @@ Example: N/A
 Meaning: A person or other entity that lives or owns property along the shore of a river.
 Example: N/A
 
+[2026-01-18 18:26:52] Word of the Day: maquiladora
+Meaning: An assembly plant in Mexico owned by a company from the United States or another foreign country, using cheap local labour and imported components, and which then exports its products to the company's country of origin; also (by extension) similar factories in other countries.
+Example: N/A
+
