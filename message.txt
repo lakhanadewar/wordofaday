@@ -8883,3 +8883,7 @@ Example: N/A
 Meaning: A person who is passing by (that is, walking past).
 Example: When he tripped and fell in the street, several kind passers-by helped him up.
 
+[2026-01-18 08:29:27] Word of the Day: verst
+Meaning: A Russian unit of length, equivalent to about 1.07 kilometres or about 2/3 of a mile.
+Example: N/A
+
