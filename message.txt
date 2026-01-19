@@ -8963,3 +8963,7 @@ Example: N/A
 Meaning: A lawnmower, a machine used to cut grass.
 Example: N/A
 
+[2026-01-19 17:37:36] Word of the Day: antiemetic
+Meaning: A drug that combats nausea and vomiting
+Example: N/A
+
