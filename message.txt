@@ -8943,3 +8943,7 @@ Example: N/A
 Meaning: A tendency to diffuse
 Example: N/A
 
+[2026-01-19 08:35:57] Word of the Day: methodise
+Meaning: To reduce to method or order; to arrange in an orderly or systematic manner.
+Example: N/A
+
