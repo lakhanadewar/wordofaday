@@ -8995,3 +8995,7 @@ Example: N/A
 Meaning: The main occupation or vocation of a person's life.
 Example: N/A
 
+[2026-01-20 09:45:05] Word of the Day: medaka
+Meaning: Oryzias latipes, a small Japanese ricefish, popular for use in aquariums.
+Example: N/A
+
