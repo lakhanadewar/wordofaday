@@ -9015,3 +9015,7 @@ Example: N/A
 Meaning: An arc-shaped sand ridge comprising well-sorted sand.
 Example: N/A
 
+[2026-01-20 18:36:21] Word of the Day: girasole
+Meaning: A variety of sunflower, Helianthus tuberosus, native to North America, having yellow flower heads and edible tubers.
+Example: N/A
+
