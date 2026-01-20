@@ -9011,3 +9011,7 @@ Example: N/A
 Meaning: A large food and game fish of the family Coryphaenidae which is commonly found in tropical and subtropical waters.
 Example: N/A
 
+[2026-01-20 17:59:39] Word of the Day: barchan
+Meaning: An arc-shaped sand ridge comprising well-sorted sand.
+Example: N/A
+
