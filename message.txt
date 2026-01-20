@@ -9019,3 +9019,7 @@ Example: N/A
 Meaning: A variety of sunflower, Helianthus tuberosus, native to North America, having yellow flower heads and edible tubers.
 Example: N/A
 
+[2026-01-20 19:49:56] Word of the Day: triazine
+Meaning: Any of three isomeric aromatic heterocycles containing three carbon atoms, three nitrogen atoms and three double bonds
+Example: N/A
+
