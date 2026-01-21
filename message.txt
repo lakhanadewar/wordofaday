@@ -9043,3 +9043,7 @@ Example: N/A
 Meaning: A person who is clever or shrewd, especially one who is stealthy, manipulative, and rather charming.
 Example: N/A
 
+[2026-01-21 18:24:04] Word of the Day: stadia
+Meaning: A level staff or graduated rod used by surveyors to measure differences in level, or to measure horizontal distances by sighting the stadia hairs (graduations) through a telescope.
+Example: N/A
+
