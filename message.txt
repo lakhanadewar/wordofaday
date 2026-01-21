@@ -9035,3 +9035,7 @@ Example: N/A
 Meaning: A fast foxtrot noted for its complex and intricate footwork.
 Example: N/A
 
+[2026-01-21 10:00:13] Word of the Day: outjump
+Meaning: To jump better than; particularly higher than, or further than.
+Example: N/A
+
