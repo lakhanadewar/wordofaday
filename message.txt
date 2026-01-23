@@ -9099,3 +9099,7 @@ Example: N/A
 Meaning: To fall into ruin or disuse.
 Example: N/A
 
+[2026-01-23 09:56:24] Word of the Day: confecting
+Meaning: To make up, prepare, or compound; to produce by combining ingredients or materials; to concoct.
+Example: The woman confected a home remedy for the traveler's illness.
+
