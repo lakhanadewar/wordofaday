@@ -9119,3 +9119,7 @@ Example: N/A
 Meaning: The quality of being slow of understanding things; stupidity.
 Example: N/A
 
+[2026-01-23 18:28:12] Word of the Day: uveitis
+Meaning: Inflammation of the uvea
+Example: N/A
+
