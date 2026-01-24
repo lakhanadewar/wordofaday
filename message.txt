@@ -9151,3 +9151,7 @@ Example: N/A
 Meaning: To kill, destroy.
 Example: N/A
 
+[2026-01-24 17:07:47] Word of the Day: wed
+Meaning: To perform the marriage ceremony for; to join in matrimony.
+Example: The priest wed the couple.
+
