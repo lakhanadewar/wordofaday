@@ -9167,3 +9167,7 @@ Example: N/A
 Meaning: A shivering tremor, often from fear or horror.
 Example: N/A
 
+[2026-01-24 17:54:33] Word of the Day: disciple
+Meaning: A person who learns from another, especially one who then teaches others.
+Example: N/A
+
