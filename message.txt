@@ -9135,3 +9135,7 @@ Example: The architect blueprinted the renovation plan once the client had signe
 Meaning: To block the flow of water so that it can escape only through evaporation or seepage; to dam.
 Example: N/A
 
+[2026-01-24 09:15:24] Word of the Day: nonmembers
+Meaning: Someone who is not a member (of a club, institution, etc.)
+Example: N/A
+
