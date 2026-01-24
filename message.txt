@@ -9139,3 +9139,7 @@ Example: N/A
 Meaning: Someone who is not a member (of a club, institution, etc.)
 Example: N/A
 
+[2026-01-24 09:36:12] Word of the Day: ischaemia
+Meaning: Local disturbance in blood circulation due to mechanical obstruction of the blood supply (vasoconstriction, thrombosis or embolism).
+Example: N/A
+
