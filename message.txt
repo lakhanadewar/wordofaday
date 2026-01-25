@@ -9195,3 +9195,7 @@ Example: N/A
 Meaning: To match (something or someone which one currently perceives) to a memory of some previous encounter with the same person or thing.
 Example: I recognised his face immediately.
 
+[2026-01-25 09:17:35] Word of the Day: vulgarized
+Meaning: To make commonplace, lewd, or vulgar.
+Example: N/A
+
