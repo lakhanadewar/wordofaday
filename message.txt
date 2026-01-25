@@ -9231,3 +9231,7 @@ Example: N/A
 Meaning: To swallow greedily or in large amounts.
 Example: N/A
 
+[2026-01-25 18:15:23] Word of the Day: leakiest
+Meaning: Having leaks; not fully sealed.
+Example: The leaky bucket only dripped one drop at a time, but by the time I got back to the house it was half empty.
+
