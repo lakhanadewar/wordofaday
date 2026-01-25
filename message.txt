@@ -9223,3 +9223,7 @@ Example: N/A
 Meaning: One who instructs; a teacher.
 Example: N/A
 
+[2026-01-25 17:50:04] Word of the Day: inform
+Meaning: To instruct, train (usually in matters of knowledge).
+Example: N/A
+
