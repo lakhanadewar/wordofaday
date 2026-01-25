@@ -9239,3 +9239,7 @@ Example: The leaky bucket only dripped one drop at a time, but by the time I got
 Meaning: To give money or other compensation to in exchange for goods or services.
 Example: he paid her off the books and in kind where possible
 
+[2026-01-25 18:58:12] Word of the Day: followups
+Meaning: A subsidiary action taken in response to an event.
+Example: N/A
+
