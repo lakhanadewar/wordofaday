@@ -9203,3 +9203,7 @@ Example: N/A
 Meaning: A musical composition for one or a few instruments, one of which is frequently a piano, in three or four movements that vary in key and tempo.
 Example: N/A
 
+[2026-01-25 09:51:23] Word of the Day: mottling
+Meaning: To mark with blotches of different color, or shades of color, as if stained; to spot; to maculate.
+Example: N/A
+
