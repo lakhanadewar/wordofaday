@@ -9235,3 +9235,7 @@ Example: N/A
 Meaning: Having leaks; not fully sealed.
 Example: The leaky bucket only dripped one drop at a time, but by the time I got back to the house it was half empty.
 
+[2026-01-25 18:46:11] Word of the Day: payed
+Meaning: To give money or other compensation to in exchange for goods or services.
+Example: he paid her off the books and in kind where possible
+
