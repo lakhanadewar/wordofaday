@@ -9191,3 +9191,7 @@ Example: Hey! Listen!
 Meaning: To program anew or differently.
 Example: N/A
 
+[2026-01-25 08:52:45] Word of the Day: recognised
+Meaning: To match (something or someone which one currently perceives) to a memory of some previous encounter with the same person or thing.
+Example: I recognised his face immediately.
+
