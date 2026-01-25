@@ -9219,3 +9219,7 @@ Example: N/A
 Meaning: A gun.
 Example: N/A
 
+[2026-01-25 17:42:09] Word of the Day: instructor
+Meaning: One who instructs; a teacher.
+Example: N/A
+
