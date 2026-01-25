@@ -9227,3 +9227,7 @@ Example: N/A
 Meaning: To instruct, train (usually in matters of knowledge).
 Example: N/A
 
+[2026-01-25 17:55:38] Word of the Day: ingurgitating
+Meaning: To swallow greedily or in large amounts.
+Example: N/A
+
