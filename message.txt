@@ -9311,3 +9311,7 @@ Example: N/A
 Meaning: A deep-fried piece of dough or batter, commonly made in a toroidal or ellipsoidal shape, and mixed with various sweeteners and flavors, sometimes filled with jelly, custard or cream.
 Example: N/A
 
+[2026-01-27 19:05:09] Word of the Day: hyphae
+Meaning: Any of the long, threadlike filaments that form the mycelium of a fungus.
+Example: N/A
+
