@@ -9299,3 +9299,7 @@ Example: N/A
 Meaning: Of or pertaining to a gyrus
 Example: N/A
 
+[2026-01-27 17:46:38] Word of the Day: unclog
+Meaning: To remove a blockage from.
+Example: N/A
+
