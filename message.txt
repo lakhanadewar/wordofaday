@@ -9291,3 +9291,7 @@ Example: N/A
 Meaning: A shoulder covering, typically the fur of a fox, with long ends that dangle in front.
 Example: N/A
 
+[2026-01-27 10:01:24] Word of the Day: serape
+Meaning: A type of blanket worn as a cloak, especially by Spanish-Americans, or used as a saddle blanket.
+Example: N/A
+
