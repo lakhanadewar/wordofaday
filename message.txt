@@ -9331,3 +9331,7 @@ Example: N/A
 Meaning: A belief or tenet, especially about philosophical or theological matters.
 Example: The four noble truths summarise the main doctrines of Buddhism.
 
+[2026-01-28 17:23:06] Word of the Day: heresies
+Meaning: A doctrine held by a member of a religion at variance with established religious beliefs, especially dissension from Roman Catholic dogma.
+Example: N/A
+
