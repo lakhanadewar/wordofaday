@@ -9347,3 +9347,7 @@ Example: N/A
 Meaning: The locus of a point on the circumference of a circle that rolls without slipping on the circumference of another circle.
 Example: N/A
 
+[2026-01-28 19:16:26] Word of the Day: categorizes
+Meaning: To assign a category; to divide into classes.
+Example: First, categorize incoming messages according to the needed actions.
+
