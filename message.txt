@@ -9327,3 +9327,7 @@ Example: I would like to prearrange a hire car to be waiting for me at the airpo
 Meaning: A stone forming the base at the corner of a building.
 Example: N/A
 
+[2026-01-28 10:02:11] Word of the Day: doctrine
+Meaning: A belief or tenet, especially about philosophical or theological matters.
+Example: The four noble truths summarise the main doctrines of Buddhism.
+
