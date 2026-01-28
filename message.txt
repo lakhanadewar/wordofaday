@@ -9319,3 +9319,7 @@ Example: N/A
 Meaning: To serve as backstop for.
 Example: N/A
 
+[2026-01-28 09:02:36] Word of the Day: prearranged
+Meaning: To arrange in advance.
+Example: I would like to prearrange a hire car to be waiting for me at the airport when I arrive next week.
+
