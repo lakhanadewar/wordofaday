@@ -9375,3 +9375,7 @@ Example: N/A
 Meaning: A go-cart.
 Example: N/A
 
+[2026-01-29 19:20:23] Word of the Day: meteoroid
+Meaning: A relatively small (sand- to boulder-sized) fragment of debris in a star system that produces a meteor when it hits the atmosphere
+Example: N/A
+
