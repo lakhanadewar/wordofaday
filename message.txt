@@ -9371,3 +9371,7 @@ Example: N/A
 Meaning: Having self-contradictory properties.
 Example: N/A
 
+[2026-01-29 18:49:14] Word of the Day: kart
+Meaning: A go-cart.
+Example: N/A
+
