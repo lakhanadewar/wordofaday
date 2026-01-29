@@ -9351,3 +9351,7 @@ Example: N/A
 Meaning: To assign a category; to divide into classes.
 Example: First, categorize incoming messages according to the needed actions.
 
+[2026-01-29 08:42:08] Word of the Day: schnooks
+Meaning: A person who is easily taken advantage of.
+Example: He’s just a schnook. She’s obviously using him but he keeps coming back for more abuse.
+
