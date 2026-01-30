@@ -9399,3 +9399,7 @@ Example: N/A
 Meaning: To break apart.
 Example: N/A
 
+[2026-01-30 18:25:43] Word of the Day: cassoulet
+Meaning: A rich stew originating in southwest France containing beans and meat.
+Example: N/A
+
