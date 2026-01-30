@@ -9391,3 +9391,7 @@ Example: Don't slam the door!
 Meaning: By extension, any stuffed toy.
 Example: N/A
 
+[2026-01-30 17:23:26] Word of the Day: heptameter
+Meaning: A line or verse containing seven metrical feet
+Example: N/A
+
