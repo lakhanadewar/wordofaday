@@ -9383,3 +9383,7 @@ Example: N/A
 Meaning: To apply (cosmetic) gel to (the hair, etc).
 Example: N/A
 
+[2026-01-30 09:23:13] Word of the Day: slammed
+Meaning: To shut with sudden force so as to produce a shock and noise.
+Example: Don't slam the door!
+
