@@ -9411,3 +9411,7 @@ Example: N/A
 Meaning: Not adapted
 Example: N/A
 
+[2026-01-31 08:59:17] Word of the Day: sexist
+Meaning: A person who discriminates on grounds of sex; someone who practises sexism.
+Example: N/A
+
