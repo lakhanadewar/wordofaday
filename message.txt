@@ -9443,3 +9443,7 @@ Example: N/A
 Meaning: Describing activities prior to, or in preparation for, a study of medicine.
 Example: N/A
 
+[2026-01-31 18:57:49] Word of the Day: disinters
+Meaning: To take out of the grave or tomb.
+Example: N/A
+
