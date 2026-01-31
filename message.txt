@@ -9439,3 +9439,7 @@ Example: N/A
 Meaning: To feed a person or animal too much.
 Example: N/A
 
+[2026-01-31 18:33:55] Word of the Day: premedical
+Meaning: Describing activities prior to, or in preparation for, a study of medicine.
+Example: N/A
+
