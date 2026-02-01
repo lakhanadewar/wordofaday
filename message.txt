@@ -9455,3 +9455,7 @@ Example: N/A
 Meaning: The act of presuming, or something presumed
 Example: N/A
 
+[2026-02-01 09:40:59] Word of the Day: mingy
+Meaning: Mean, miserly, stingy.
+Example: N/A
+
