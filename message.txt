@@ -9495,3 +9495,7 @@ Example: N/A
 Meaning: A booth on a toll road or toll bridge where the toll is collected.
 Example: N/A
 
+[2026-02-02 17:28:37] Word of the Day: filicide
+Meaning: A person who kills their own child.
+Example: N/A
+
