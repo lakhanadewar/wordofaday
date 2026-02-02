@@ -9491,3 +9491,7 @@ Example: N/A
 Meaning: Any leaf beetle of the family Chrysomelidae
 Example: N/A
 
+[2026-02-02 10:26:16] Word of the Day: tollbooth
+Meaning: A booth on a toll road or toll bridge where the toll is collected.
+Example: N/A
+
