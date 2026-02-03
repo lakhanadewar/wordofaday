@@ -9521,3 +9521,7 @@ Example: A windmill transmits motion to the ground level via a vertical drivesha
 Meaning: The Chinese tropical fruit tree Litchi chinensis, of the soapberry family.
 Example: N/A
 
+[2026-02-03 19:27:35] Word of the Day: taming
+Meaning: To make (an animal) tame; to domesticate.
+Example: He tamed the wild horse.
+
