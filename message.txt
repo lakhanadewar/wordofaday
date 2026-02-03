@@ -9509,3 +9509,7 @@ Example: N/A
 Meaning: In a quaint manner; oddly; strangely.
 Example: N/A
 
+[2026-02-03 10:04:53] Word of the Day: adipocyte
+Meaning: A type of cell, present in adipose tissue, where fat is stored as a source of energy
+Example: N/A
+
