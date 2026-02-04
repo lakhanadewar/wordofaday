@@ -9529,3 +9529,7 @@ Example: He tamed the wild horse.
 Meaning: A head of real or synthetic hair worn on the head to disguise baldness, for cultural or religious reasons, for fashion, or by actors to help them better resemble the character they are portraying.
 Example: N/A
 
+[2026-02-04 09:29:09] Word of the Day: unpaved
+Meaning: (of a road or path) Not having a hard, impervious surface; not paved
+Example: N/A
+
