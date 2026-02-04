@@ -9537,3 +9537,7 @@ Example: N/A
 Meaning: A machine which reproduces documents by photographing the original over a glass plate and printing duplicates.
 Example: N/A
 
+[2026-02-04 17:35:24] Word of the Day: active
+Meaning: A person or thing that is acting or capable of acting.
+Example: N/A
+
