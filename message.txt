@@ -9561,3 +9561,7 @@ Example: N/A
 Meaning: In an intensive way.
 Example: N/A
 
+[2026-02-05 17:37:03] Word of the Day: churros
+Meaning: A fried pastry from Spain, typically eaten as a dessert and with chocolate beverage.
+Example: N/A
+
