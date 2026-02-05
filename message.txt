@@ -9565,3 +9565,7 @@ Example: N/A
 Meaning: A fried pastry from Spain, typically eaten as a dessert and with chocolate beverage.
 Example: N/A
 
+[2026-02-05 18:28:42] Word of the Day: interiorised
+Meaning: To internalize; to bring inside oneself.
+Example: N/A
+
