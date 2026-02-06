@@ -9573,3 +9573,7 @@ Example: N/A
 Meaning: A pruned tree; the wood of such trees.
 Example: N/A
 
+[2026-02-06 08:45:06] Word of the Day: mallee
+Meaning: A type of scrubland with low-growing thick eucalypts, characteristic of certain parts of Australia.
+Example: N/A
+
