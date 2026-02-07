@@ -9601,3 +9601,7 @@ Example: N/A
 Meaning: To get mud on (something).
 Example: If you muddy your shoes don't wear them inside.
 
+[2026-02-07 09:40:01] Word of the Day: chert
+Meaning: Massive, usually dull-colored and opaque, quartzite, hornstone, impure chalcedony, or other flint-like mineral.
+Example: N/A
+
