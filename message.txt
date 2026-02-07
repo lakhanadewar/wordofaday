@@ -9593,3 +9593,7 @@ Example: N/A
 Meaning: An instrument which, placed in contact with the chest, graphically registers the comparative duration and intensity of the heart's movements
 Example: N/A
 
+[2026-02-07 08:34:45] Word of the Day: yantras
+Meaning: A geometrical diagram used as a meditation aid in tantric worship.
+Example: N/A
+
