@@ -9625,3 +9625,7 @@ Example: N/A
 Meaning: To bring to certain conclusion.
 Example: N/A
 
+[2026-02-07 18:56:57] Word of the Day: bondage
+Meaning: The state of being enslaved or the practice of slavery.
+Example: In Judeo-Christian tradition, the Israelites fled bondage at the hands of the Egyptians, only to wander in the wilderness for the next four decades.
+
