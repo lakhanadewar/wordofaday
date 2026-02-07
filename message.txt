@@ -9613,3 +9613,7 @@ Example: N/A
 Meaning: A stitch that passes diagonally over an edge.
 Example: N/A
 
+[2026-02-07 17:43:30] Word of the Day: dispels
+Meaning: An act or instance of dispelling.
+Example: N/A
+
