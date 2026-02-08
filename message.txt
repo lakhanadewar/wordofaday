@@ -9645,3 +9645,7 @@ Example: N/A
 Meaning: To disallow; to proscribe.
 Example: Smoking in the restaurant is forbidden.
 
+[2026-02-08 17:15:43] Word of the Day: perpendiculars
+Meaning: A line or plane that is perpendicular to another.
+Example: N/A
+
