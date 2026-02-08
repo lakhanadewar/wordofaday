@@ -9629,3 +9629,7 @@ Example: N/A
 Meaning: The state of being enslaved or the practice of slavery.
 Example: In Judeo-Christian tradition, the Israelites fled bondage at the hands of the Egyptians, only to wander in the wilderness for the next four decades.
 
+[2026-02-08 08:35:51] Word of the Day: downriver
+Meaning: Closer to the mouth of a river
+Example: My house is downriver to his.
+
