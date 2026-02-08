@@ -9637,3 +9637,7 @@ Example: My house is downriver to his.
 Meaning: Relating to latitude.
 Example: N/A
 
+[2026-02-08 09:40:38] Word of the Day: bourn
+Meaning: A small stream or brook.
+Example: N/A
+
