@@ -9641,3 +9641,7 @@ Example: N/A
 Meaning: A small stream or brook.
 Example: N/A
 
+[2026-02-08 09:58:39] Word of the Day: forbidden
+Meaning: To disallow; to proscribe.
+Example: Smoking in the restaurant is forbidden.
+
