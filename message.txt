@@ -9657,3 +9657,7 @@ Example: N/A
 Meaning: Very minor damage, a small dent or chip.
 Example: N/A
 
+[2026-02-08 18:29:39] Word of the Day: bulled
+Meaning: To force oneself (in a particular direction).
+Example: He bulled his way in.
+
