@@ -9681,3 +9681,7 @@ Example: N/A
 Meaning: The central cylindrical core of an ear of corn (maize) on which the kernels are attached in rows.
 Example: N/A
 
+[2026-02-09 19:46:47] Word of the Day: licencing
+Meaning: To give a formal (usually written) authorization.
+Example: It was decided to license Wikipedia under the GFDL.
+
