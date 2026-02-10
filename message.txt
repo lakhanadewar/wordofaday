@@ -9697,3 +9697,7 @@ Example: N/A
 Meaning: To take an oath, to promise.
 Example: N/A
 
+[2026-02-10 18:45:16] Word of the Day: codices
+Meaning: An early manuscript book.
+Example: N/A
+
