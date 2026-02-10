@@ -9685,3 +9685,7 @@ Example: N/A
 Meaning: To give a formal (usually written) authorization.
 Example: It was decided to license Wikipedia under the GFDL.
 
+[2026-02-10 08:57:50] Word of the Day: bluets
+Meaning: Any of several different plants having blue flowers from several genera.
+Example: N/A
+
