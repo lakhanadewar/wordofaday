@@ -9701,3 +9701,7 @@ Example: N/A
 Meaning: An early manuscript book.
 Example: N/A
 
+[2026-02-10 19:45:01] Word of the Day: fiord
+Meaning: A long, narrow, deep inlet between cliffs.
+Example: N/A
+
