@@ -9693,3 +9693,7 @@ Example: N/A
 Meaning: To grease or smear with tallow.
 Example: N/A
 
+[2026-02-10 17:51:46] Word of the Day: swearing
+Meaning: To take an oath, to promise.
+Example: N/A
+
