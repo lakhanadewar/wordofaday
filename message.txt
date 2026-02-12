@@ -9737,3 +9737,7 @@ Example: We found errors, but their effects were negligible.
 Meaning: Resembling or suggestive of a social club or clubhouse: congenial and exclusive.
 Example: N/A
 
+[2026-02-12 18:38:27] Word of the Day: pikeperch
+Meaning: Any of the five species of fish in the genus Sander of the family Percidae (perches and darters).
+Example: N/A
+
