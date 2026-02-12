@@ -9741,3 +9741,7 @@ Example: N/A
 Meaning: Any of the five species of fish in the genus Sander of the family Percidae (perches and darters).
 Example: N/A
 
+[2026-02-12 19:36:37] Word of the Day: enlists
+Meaning: One who is enlisted, usually in a military service.
+Example: N/A
+
