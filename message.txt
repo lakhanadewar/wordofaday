@@ -9765,3 +9765,7 @@ Example: N/A
 Meaning: An identifying characteristic, habit or trend.
 Example: The number one personality trait I hate is hypocrisy. Why can't you be consistent!?
 
+[2026-02-13 19:03:19] Word of the Day: steeped
+Meaning: (middle voice) To soak or wet thoroughly.
+Example: The tea is steeping.
+
