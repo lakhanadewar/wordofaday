@@ -9757,3 +9757,7 @@ Example: N/A
 Meaning: A means of escape.
 Example: N/A
 
+[2026-02-13 17:31:55] Word of the Day: powdered
+Meaning: To reduce to fine particles; to pound, grind, or rub into a powder.
+Example: N/A
+
