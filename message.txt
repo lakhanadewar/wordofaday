@@ -9753,3 +9753,7 @@ Example: N/A
 Meaning: A small portion or part.
 Example: N/A
 
+[2026-02-13 10:15:37] Word of the Day: getaways
+Meaning: A means of escape.
+Example: N/A
+
