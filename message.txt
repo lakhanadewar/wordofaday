@@ -9785,3 +9785,7 @@ Example: N/A
 Meaning: An allocated amount.
 Example: N/A
 
+[2026-02-14 17:15:28] Word of the Day: overlain
+Meaning: To lie over or upon
+Example: N/A
+
