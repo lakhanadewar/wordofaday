@@ -9777,3 +9777,7 @@ Example: N/A
 Meaning: A slur curve above or below a passage of notes indicating that they should be played in a legato manner.
 Example: N/A
 
+[2026-02-14 09:42:53] Word of the Day: remitting
+Meaning: To transmit or send (e.g. money in payment); to supply.
+Example: N/A
+
