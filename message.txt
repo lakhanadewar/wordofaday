@@ -9797,3 +9797,7 @@ Example: N/A
 Meaning: Pornography.
 Example: N/A
 
+[2026-02-14 18:20:36] Word of the Day: wollastonite
+Meaning: A grey inosilicate mineral, mostly calcium silicate, CaSiO3, found deposited in limestone.
+Example: N/A
+
