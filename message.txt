@@ -9773,3 +9773,7 @@ Example: The tea is steeping.
 Meaning: A miser or stingy person; a skinflint.
 Example: N/A
 
+[2026-02-14 09:01:43] Word of the Day: legato
+Meaning: A slur curve above or below a passage of notes indicating that they should be played in a legato manner.
+Example: N/A
+
