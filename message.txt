@@ -9781,3 +9781,7 @@ Example: N/A
 Meaning: To transmit or send (e.g. money in payment); to supply.
 Example: N/A
 
+[2026-02-14 10:00:08] Word of the Day: portions
+Meaning: An allocated amount.
+Example: N/A
+
