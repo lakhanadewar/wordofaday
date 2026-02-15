@@ -9817,3 +9817,7 @@ Example: N/A
 Meaning: Resembling marble or a marble statue.
 Example: N/A
 
+[2026-02-15 10:00:24] Word of the Day: stinkwood
+Meaning: Any of several unrelated trees whose wood has an unpleasant smell, but especially Ocotea bullata, a south African tree yielding hard, heavy wood
+Example: N/A
+
