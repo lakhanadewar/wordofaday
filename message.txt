@@ -9845,3 +9845,7 @@ Example: N/A
 Meaning: Marriage; the state of being married.
 Example: N/A
 
+[2026-02-16 09:46:14] Word of the Day: widowed
+Meaning: To make a widow or widower of someone; to cause the death of the spouse of.
+Example: N/A
+
