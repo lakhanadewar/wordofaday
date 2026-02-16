@@ -9861,3 +9861,7 @@ Example: N/A
 Meaning: Without intention; unintentional.
 Example: N/A
 
+[2026-02-16 18:51:46] Word of the Day: wavelengths
+Meaning: The length of a single cycle of a wave, as measured by the distance between one peak or trough of a wave and the next; it is often designated in physics as λ, and corresponds to the velocity of the wave divided by its frequency.
+Example: N/A
+
