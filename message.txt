@@ -9853,3 +9853,7 @@ Example: N/A
 Meaning: Covered with mould.
 Example: N/A
 
+[2026-02-16 17:29:04] Word of the Day: buzzcuts
+Meaning: A closely-cropped military-style haircut.
+Example: N/A
+
