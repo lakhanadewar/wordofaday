@@ -9869,3 +9869,7 @@ Example: N/A
 Meaning: A penalty for or consequence of a misdemeanor.
 Example: N/A
 
+[2026-02-17 08:50:28] Word of the Day: sharecropping
+Meaning: To participate in a financial arrangement in which a tenant farmer pays for use of land with a share (part) of the crop raised on that land.
+Example: N/A
+
