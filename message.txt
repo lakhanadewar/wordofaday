@@ -9897,3 +9897,7 @@ Example: N/A
 Meaning: An accessible structure extending from a building, especially outside a window.
 Example: N/A
 
+[2026-02-18 09:33:04] Word of the Day: wooded
+Meaning: Covered with trees.
+Example: N/A
+
