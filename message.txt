@@ -9913,3 +9913,7 @@ Example: N/A
 Meaning: A traditional German cake eaten at Christmas time, made with nuts, raisins and other dried fruits.
 Example: N/A
 
+[2026-02-18 19:27:54] Word of the Day: pecorinos
+Meaning: Any of a family of Italian cheeses made from ewe's milk.
+Example: N/A
+
