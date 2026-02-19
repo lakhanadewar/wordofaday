@@ -9925,3 +9925,7 @@ Example: N/A
 Meaning: A travel or journey, especially by foot, notably by a pilgrim.
 Example: N/A
 
+[2026-02-19 10:24:53] Word of the Day: antinuclear
+Meaning: Opposed to the production or use of nuclear weapons, or opposed to the generation of electricity from nuclear power.
+Example: 1995. "As antinuclear sentiment became popular, politicians such as Govs. Hugh L. Carey and Mario M. Cuomo jumped on the bandwagon and helped delay and defeat the opening. All the while the interest costs grew at astronomical rates." --New York Times, Oct 15, 1995, Antinuclear Role in High Electric Costs
+
