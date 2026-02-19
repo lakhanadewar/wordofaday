@@ -9917,3 +9917,7 @@ Example: N/A
 Meaning: Any of a family of Italian cheeses made from ewe's milk.
 Example: N/A
 
+[2026-02-19 08:49:36] Word of the Day: sue
+Meaning: To file a legal action against someone, generally a non-criminal action.
+Example: N/A
+
