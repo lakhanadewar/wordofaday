@@ -9947,3 +9947,7 @@ Example: N/A
 
 [2026-02-20 09:26:08] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-02-20 10:05:20] Word of the Day: nurd
+Meaning: (sometimes derogatory) A person who is intellectual but generally introverted
+Example: N/A
+
