@@ -9941,3 +9941,7 @@ Example: N/A
 Meaning: A lancer mounted on horseback who assists a matador.
 Example: I saw the picador lance the bull.
 
+[2026-02-20 08:42:38] Word of the Day: butters
+Meaning: A soft, fatty foodstuff made by churning the cream of milk (generally cow's milk).
+Example: N/A
+
