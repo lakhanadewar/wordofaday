@@ -9971,3 +9971,7 @@ Example: The new device utilized preexisting technologies.
 Meaning: An abnormal connection or passageway between organs or vessels that normally do not connect.
 Example: N/A
 
+[2026-02-21 08:59:51] Word of the Day: dessertspoons
+Meaning: An item of cutlery; a spoon, larger than a teaspoon and smaller than a tablespoon, used for eating dessert.
+Example: N/A
+
