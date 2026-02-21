@@ -9995,3 +9995,7 @@ Example: Henry VIII was the king of England from 1509 to 1547.
 Meaning: A sexy person.
 Example: N/A
 
+[2026-02-21 18:21:45] Word of the Day: tricornes
+Meaning: A three-sided hat with the brim turned up
+Example: N/A
+
