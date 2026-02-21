@@ -9975,3 +9975,7 @@ Example: N/A
 Meaning: An item of cutlery; a spoon, larger than a teaspoon and smaller than a tablespoon, used for eating dessert.
 Example: N/A
 
+[2026-02-21 09:39:37] Word of the Day: movingly
+Meaning: In a moving manner.
+Example: N/A
+
