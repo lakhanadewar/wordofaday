@@ -9987,3 +9987,7 @@ Example: N/A
 Meaning: Having no face
 Example: N/A
 
+[2026-02-21 17:42:11] Word of the Day: kings
+Meaning: A male monarch; a man who heads a monarchy. If it's an absolute monarchy, then he is the supreme ruler of his nation.
+Example: Henry VIII was the king of England from 1509 to 1547.
+
