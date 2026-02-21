@@ -9999,3 +9999,7 @@ Example: N/A
 Meaning: A three-sided hat with the brim turned up
 Example: N/A
 
+[2026-02-21 18:56:11] Word of the Day: calmodulin
+Meaning: A calcium-binding protein found in all nucleated cells
+Example: N/A
+
