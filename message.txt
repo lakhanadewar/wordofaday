@@ -10025,3 +10025,7 @@ Example: N/A
 Meaning: Wellington boot.
 Example: N/A
 
+[2026-02-22 17:56:42] Word of the Day: footling
+Meaning: To waste time; to trifle.
+Example: N/A
+
