@@ -10013,3 +10013,7 @@ Example: N/A
 Meaning: The state of being captive.
 Example: N/A
 
+[2026-02-22 09:59:42] Word of the Day: athirst
+Meaning: Thirsty.
+Example: N/A
+
