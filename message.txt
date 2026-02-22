@@ -10009,3 +10009,7 @@ Example: N/A
 Meaning: A syllable used in solfège to represent the fourth note of a major scale.
 Example: N/A
 
+[2026-02-22 09:42:10] Word of the Day: captivities
+Meaning: The state of being captive.
+Example: N/A
+
