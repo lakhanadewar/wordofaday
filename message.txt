@@ -10053,3 +10053,7 @@ Example: N/A
 Meaning: A garment that is wrapped around the body and tied.
 Example: N/A
 
+[2026-02-23 18:42:11] Word of the Day: prebiotic
+Meaning: (chiefly in plural) A substance in food that is hard to digest and promotes the growth of beneficial intestinal microorganisms.
+Example: N/A
+
