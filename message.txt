@@ -10045,3 +10045,7 @@ Example: N/A
 Meaning: Characteristic of, or proper to, an essayist
 Example: N/A
 
+[2026-02-23 10:43:40] Word of the Day: oven
+Meaning: A chamber used for baking or heating.
+Example: N/A
+
