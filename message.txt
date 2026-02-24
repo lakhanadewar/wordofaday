@@ -10073,3 +10073,7 @@ Example: N/A
 Meaning: To stun or stupefy, for example with bright light, with a blow, with cold, or with fear
 Example: N/A
 
+[2026-02-24 17:47:21] Word of the Day: hurry
+Meaning: Rushed action.
+Example: Why are you in such a big hurry?
+
