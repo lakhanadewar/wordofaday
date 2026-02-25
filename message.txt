@@ -10089,3 +10089,7 @@ Example: N/A
 Meaning: The locus of a point on the circumference of a circle that rolls without slipping inside the circumference of another circle.
 Example: N/A
 
+[2026-02-25 09:50:22] Word of the Day: neume
+Meaning: Any of a set of signs used in early musical notation.
+Example: N/A
+
