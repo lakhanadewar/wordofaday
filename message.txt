@@ -10117,3 +10117,7 @@ Example: N/A
 Meaning: To fold again.
 Example: N/A
 
+[2026-02-26 10:30:35] Word of the Day: purlieu
+Meaning: The ground on the edges of a forest, especially when partly subject to the same forest laws concerning game hunting etc.
+Example: N/A
+
