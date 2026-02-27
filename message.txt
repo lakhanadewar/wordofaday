@@ -10141,3 +10141,7 @@ Example: N/A
 Meaning: An elevated corridor connecting an airport to a plane, usually enclosed and used for disembarking and embarking passengers and crew.
 Example: N/A
 
+[2026-02-27 10:06:10] Word of the Day: redaction
+Meaning: Edited or censored version of a document.
+Example: The government supplied only the redaction to the reporters; the original was kept secret.
+
