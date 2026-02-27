@@ -10137,3 +10137,7 @@ Example: N/A
 Meaning: To step to the side.
 Example: N/A
 
+[2026-02-27 09:25:54] Word of the Day: jetways
+Meaning: An elevated corridor connecting an airport to a plane, usually enclosed and used for disembarking and embarking passengers and crew.
+Example: N/A
+
