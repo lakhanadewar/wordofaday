@@ -10153,3 +10153,7 @@ Example: N/A
 Meaning: To wind on a reel.
 Example: N/A
 
+[2026-02-27 18:29:36] Word of the Day: garrotes
+Meaning: An iron collar formerly used in Spain to execute people by strangulation
+Example: N/A
+
