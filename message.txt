@@ -10169,3 +10169,7 @@ Example: I overdid the sweets during the holidays and put on some weight.
 Meaning: A minute particle; an atom; a molecule.
 Example: N/A
 
+[2026-02-28 09:30:19] Word of the Day: epoxides
+Meaning: Any of a class of organic compound, cyclic ethers, having a three-membered ring; they are prepared by the selective oxidation of alkenes or by ring-closure of halohydrins; used to make plastics
+Example: N/A
+
