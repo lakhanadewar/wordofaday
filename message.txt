@@ -10205,3 +10205,7 @@ Example: N/A
 Meaning: A postgame show
 Example: N/A
 
+[2026-02-28 18:57:19] Word of the Day: awkwardness
+Meaning: The state or quality of being awkward; clumsiness; unskillfulness.
+Example: N/A
+
