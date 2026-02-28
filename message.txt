@@ -10197,3 +10197,7 @@ Example: N/A
 Meaning: A woman or girl employed to care for children
 Example: N/A
 
+[2026-02-28 18:00:22] Word of the Day: basalts
+Meaning: A hard mafic igneous rock of varied mineral content; volcanic in origin, which makes up much of the Earth's oceanic crust.
+Example: N/A
+
