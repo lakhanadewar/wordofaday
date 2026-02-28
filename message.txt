@@ -10161,3 +10161,7 @@ Example: N/A
 Meaning: The quality of being religious or pious, especially when zealous.
 Example: N/A
 
+[2026-02-28 08:32:22] Word of the Day: overdone
+Meaning: To do too much; to exceed what is proper or true in doing; to carry too far.
+Example: I overdid the sweets during the holidays and put on some weight.
+
