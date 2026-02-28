@@ -10185,3 +10185,7 @@ Example: N/A
 Meaning: Any of various instruments designed to determine the color of something, by comparison with standard colors or by spectroscopy.
 Example: N/A
 
+[2026-02-28 17:33:31] Word of the Day: commonage
+Meaning: The condition of land that is held in common.
+Example: N/A
+
