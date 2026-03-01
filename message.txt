@@ -10241,3 +10241,7 @@ Example: N/A
 Meaning: A rare silicate of magnesium and aluminium (with iron as a major impurity), named for its sapphirelike colour.
 Example: N/A
 
+[2026-03-01 18:28:30] Word of the Day: emphasises
+Meaning: To stress, give emphasis or extra weight to (something).
+Example: His two-fingered gesture emphasized what he had told his boss to do with his job.
+
