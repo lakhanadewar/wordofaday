@@ -10229,3 +10229,7 @@ Example: N/A
 Meaning: A band worn around the waist to hold clothing to one's body (usually pants), hold weapons (such as a gun or sword), or serve as a decorative piece of clothing.
 Example: As part of the act, the fat clown's belt broke, causing his pants to fall down.
 
+[2026-03-01 17:36:07] Word of the Day: phosphoresced
+Meaning: To exhibit phosphorescence
+Example: N/A
+
