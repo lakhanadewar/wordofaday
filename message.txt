@@ -10269,3 +10269,7 @@ Example: N/A
 Meaning: (chiefly of an object) To make a noise like something moving quickly through the air.
 Example: N/A
 
+[2026-03-02 19:01:54] Word of the Day: destructible
+Meaning: Liable to destruction; capable of being destroyed.
+Example: N/A
+
