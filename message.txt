@@ -10257,3 +10257,7 @@ Example: Because the wool is of poor quality, it will coarsen the fabric.
 Meaning: To adapt a literary work so that it can be performed in the theatre, or on radio or television
 Example: N/A
 
+[2026-03-02 10:27:23] Word of the Day: glowed
+Meaning: To give off light from heat or to emit light as if heated.
+Example: The fire was still glowing after ten hours.
+
