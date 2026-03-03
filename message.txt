@@ -10277,3 +10277,7 @@ Example: N/A
 Meaning: To strike or beat with a cane or similar implement
 Example: N/A
 
+[2026-03-03 09:27:08] Word of the Day: hinged
+Meaning: To attach by, or equip with a hinge.
+Example: N/A
+
