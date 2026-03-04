@@ -10307,3 +10307,7 @@ Example: N/A
 Meaning: A regulated diet.
 Example: N/A
 
+[2026-03-04 18:02:40] Word of the Day: memsahibs
+Meaning: (as a respectful term of address) A white European woman in colonial India.
+Example: N/A
+
