@@ -10323,3 +10323,7 @@ Example: N/A
 Meaning: The study of the victims of crime, and especially of the reasons why some people are more prone to be victims.
 Example: N/A
 
+[2026-03-05 10:08:52] Word of the Day: subplot
+Meaning: A plot within a story, subsidiary to the main plot.
+Example: N/A
+
