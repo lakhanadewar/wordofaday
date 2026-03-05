@@ -10319,3 +10319,7 @@ Example: N/A
 Meaning: To produce more of something than one can use or sell.
 Example: N/A
 
+[2026-03-05 09:28:37] Word of the Day: victimology
+Meaning: The study of the victims of crime, and especially of the reasons why some people are more prone to be victims.
+Example: N/A
+
