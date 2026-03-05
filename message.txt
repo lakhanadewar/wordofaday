@@ -10327,3 +10327,7 @@ Example: N/A
 Meaning: A plot within a story, subsidiary to the main plot.
 Example: N/A
 
+[2026-03-05 18:30:23] Word of the Day: plagiarises
+Meaning: To use, and pass off as one's own, someone else's writing, speech, ideas, or other intellectual or creative work, especially in an academic context; to commit plagiarism.
+Example: N/A
+
