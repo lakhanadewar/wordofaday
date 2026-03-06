@@ -10355,3 +10355,7 @@ Example: N/A
 Meaning: A theory or belief that the whole is greater than the sum of the parts.
 Example: N/A
 
+[2026-03-06 18:29:55] Word of the Day: teraphim
+Meaning: An idol or other image of reverence and divination among the ancient Hebrews; apparently especially a kind of household god.
+Example: 1658, And [...] the Statuæ Isiacæ, Teraphims, and little Idols, found about the Mummies, do make a decussation or Jacobs Crosse with their armes — Sir Thomas Browne, The Garden of Cyrus (Folio Society 2007, p. 191)
+
