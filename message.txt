@@ -10339,3 +10339,7 @@ Example: N/A
 Meaning: A road or path within an airport designated for the taxiing of aircraft connecting the runways with ramps, hangars, terminals and other facilities.
 Example: N/A
 
+[2026-03-06 09:22:18] Word of the Day: yuppies
+Meaning: A young upwardly mobile urban professional person with an affluent lifestyle.
+Example: N/A
+
