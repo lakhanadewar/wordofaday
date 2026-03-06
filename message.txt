@@ -10335,3 +10335,7 @@ Example: N/A
 Meaning: To use biological senses: to either see, hear, smell, taste, or feel.
 Example: N/A
 
+[2026-03-06 08:40:38] Word of the Day: taxiway
+Meaning: A road or path within an airport designated for the taxiing of aircraft connecting the runways with ramps, hangars, terminals and other facilities.
+Example: N/A
+
