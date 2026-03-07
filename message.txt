@@ -10387,3 +10387,7 @@ Example: The frame was awry.
 Meaning: To convey or transfer to another, as title, property, or right; to part voluntarily with ownership of.
 Example: N/A
 
+[2026-03-07 17:49:34] Word of the Day: ecarte
+Meaning: A card game for two persons, with 32 cards, ranking K, Q, J, A, 10, 9, 8, 7. Five cards are dealt each player, and the 11th turned as trump. Five points constitute a game.
+Example: Mortimer had stayed to dinner, and he and the baronet played ecarte afterwards. - A. Conan Doyle in The Hound of the Baskervilles
+
