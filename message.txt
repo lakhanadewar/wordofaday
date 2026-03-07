@@ -10367,3 +10367,7 @@ Example: N/A
 Meaning: Any substance that can be crystallized from solution
 Example: N/A
 
+[2026-03-07 08:59:27] Word of the Day: unclose
+Meaning: To open; to unclench.
+Example: N/A
+
