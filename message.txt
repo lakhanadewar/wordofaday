@@ -10395,3 +10395,7 @@ Example: Mortimer had stayed to dinner, and he and the baronet played ecarte aft
 Meaning: To provide a place with furniture, or other equipment.
 Example: N/A
 
+[2026-03-07 18:24:32] Word of the Day: osmolality
+Meaning: The molality of an ideal solution that would exert the same osmotic pressure as the solution being considered.
+Example: N/A
+
