@@ -10379,3 +10379,7 @@ Example: N/A
 Meaning: Resembling a mouse.
 Example: N/A
 
+[2026-03-07 17:11:15] Word of the Day: awry
+Meaning: Turned or twisted toward one side; crooked, distorted, out of place; wry.
+Example: The frame was awry.
+
