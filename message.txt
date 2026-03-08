@@ -10405,3 +10405,7 @@ Example: N/A
 Meaning: A benign tumour of fibrous connective tissue.
 Example: N/A
 
+[2026-03-08 08:34:12] Word of the Day: phrenic
+Meaning: Of or pertaining to the diaphragm
+Example: N/A
+
