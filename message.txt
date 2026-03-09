@@ -10441,3 +10441,7 @@ Example: a scrabble for dear life
 Meaning: Of or pertaining to metaphysics.
 Example: N/A
 
+[2026-03-09 08:49:14] Word of the Day: miracle
+Meaning: An event that appears inexplicable by the laws of nature and so is held to be supernatural in origin.
+Example: An example of a miracle associated with Muhammad is the splitting of the moon.
+
