@@ -10495,3 +10495,7 @@ Example: N/A
 Meaning: In bookkeeping, an entry in the left hand column of an account.
 Example: A cash sale is recorded as debit on the cash account and as credit on the sales account.
 
+[2026-03-11 10:09:06] Word of the Day: stooping
+Meaning: To bend the upper part of the body forward and downward to a half-squatting position; crouch.
+Example: He stooped to tie his shoe-laces.
+
