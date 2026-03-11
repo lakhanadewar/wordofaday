@@ -10491,3 +10491,7 @@ Example: N/A
 Meaning: To make the prolonged trilling sound of an insect (e.g. a grasshopper, a cicada).
 Example: N/A
 
+[2026-03-11 09:29:08] Word of the Day: debits
+Meaning: In bookkeeping, an entry in the left hand column of an account.
+Example: A cash sale is recorded as debit on the cash account and as credit on the sales account.
+
