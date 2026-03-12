@@ -10511,3 +10511,7 @@ Example: N/A
 Meaning: A decorative knot of hair on the crown of the head, sometimes having ribbons or feathers.
 Example: N/A
 
+[2026-03-12 08:48:27] Word of the Day: carbonnade
+Meaning: A stew of meat cooked in beer
+Example: N/A
+
