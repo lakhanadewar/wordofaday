@@ -10529,3 +10529,7 @@ Example: N/A
 Meaning: A proponent of consumerism.
 Example: N/A
 
+[2026-03-12 19:23:06] Word of the Day: suing
+Meaning: To file a legal action against someone, generally a non-criminal action.
+Example: N/A
+
