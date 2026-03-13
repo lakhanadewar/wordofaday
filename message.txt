@@ -10541,3 +10541,7 @@ Example: N/A
 Meaning: To writhe with agony; to suffer violent anguish.
 Example: N/A
 
+[2026-03-13 10:03:01] Word of the Day: fluidics
+Meaning: The branch of engineering and technology that is concerned with the construction of devices that use the flow and pressure of a fluid in circuits analogous to electronic ones
+Example: N/A
+
