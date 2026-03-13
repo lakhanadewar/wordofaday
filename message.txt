@@ -10553,3 +10553,7 @@ Example: N/A
 Meaning: A slight coloring.
 Example: N/A
 
+[2026-03-13 18:23:20] Word of the Day: declasses
+Meaning: To lower the class or social standing of.
+Example: N/A
+
