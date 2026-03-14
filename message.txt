@@ -10585,3 +10585,7 @@ Example: N/A
 Meaning: Ourebia ourebi, a species of antelope.
 Example: N/A
 
+[2026-03-14 17:58:07] Word of the Day: foodies
+Meaning: A person with a special interest in or knowledge of food, a gourmet.
+Example: We self-professed foodies liked to meet in restaurants and talk like experts about what we were eating.
+
