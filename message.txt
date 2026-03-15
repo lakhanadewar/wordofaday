@@ -10623,3 +10623,7 @@ Example: Because the wool is of poor quality, it will coarsen the fabric.
 Meaning: Any of several American breeds of dog originally used in hunting raccoons.
 Example: N/A
 
+[2026-03-15 18:41:15] Word of the Day: readopt
+Meaning: Adopt again
+Example: N/A
+
