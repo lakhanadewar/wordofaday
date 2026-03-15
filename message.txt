@@ -10615,3 +10615,7 @@ Example: His latest speech panders to the worst instincts of the electorate.
 
 [2026-03-15 17:22:47] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-03-15 17:45:55] Word of the Day: coarsen
+Meaning: To make (more) coarse.
+Example: Because the wool is of poor quality, it will coarsen the fabric.
+
