@@ -10605,3 +10605,7 @@ Example: N/A
 Meaning: To intentionally cause the destruction of.
 Example: N/A
 
+[2026-03-15 09:51:54] Word of the Day: leanings
+Meaning: A tendency or propensity.
+Example: a man of socialist leanings
+
