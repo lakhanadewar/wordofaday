@@ -10609,3 +10609,7 @@ Example: N/A
 Meaning: A tendency or propensity.
 Example: a man of socialist leanings
 
+[2026-03-15 10:22:02] Word of the Day: pandered
+Meaning: To tempt with, to appeal or cater to (improper motivations, etc.); to assist in gratification.
+Example: His latest speech panders to the worst instincts of the electorate.
+
