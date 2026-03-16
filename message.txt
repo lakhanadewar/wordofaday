@@ -10635,3 +10635,7 @@ Example: N/A
 Meaning: An uncultivated ridge formed in the open field system, caused by the action of ploughing.
 Example: N/A
 
+[2026-03-16 10:11:50] Word of the Day: birches
+Meaning: Any of various trees of the genus Betula, native to countries in the Northern Hemisphere.
+Example: N/A
+
