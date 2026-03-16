@@ -10643,3 +10643,7 @@ Example: N/A
 Meaning: To announce.
 Example: N/A
 
+[2026-03-16 18:39:58] Word of the Day: destriers
+Meaning: A large warhorse, especially of a medieval knight.
+Example: 1819, I am resolved to share or avert the danger; which, that I may the better do, I would crave of thee the use of some palfrey whose pace may be softer than that of my destrier.” — Walter Scott, Ivanhoe
+
