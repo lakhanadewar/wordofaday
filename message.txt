@@ -10663,3 +10663,7 @@ Example: N/A
 Meaning: To fill (something) to excess.
 Example: N/A
 
+[2026-03-17 18:39:17] Word of the Day: futhorks
+Meaning: The Runic alphabet as used to write Old English.
+Example: N/A
+
