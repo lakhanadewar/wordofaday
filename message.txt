@@ -10689,3 +10689,7 @@ Example: N/A
 Meaning: A small round thick slice of meat (in particular, lamb or veal) that has been deboned.
 Example: N/A
 
+[2026-03-18 19:32:10] Word of the Day: crisp
+Meaning: A thin slice of fried potato eaten as a snack.
+Example: N/A
+
