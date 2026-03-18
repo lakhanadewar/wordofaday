@@ -10677,3 +10677,7 @@ Example: John looked very upset. I gave him a sympathetic look.
 Meaning: A blow with a stick or cudgel.
 Example: N/A
 
+[2026-03-18 10:48:08] Word of the Day: preordering
+Meaning: To order (goods or services) in advance, before they are available.
+Example: N/A
+
