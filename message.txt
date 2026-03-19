@@ -10701,3 +10701,7 @@ Example: N/A
 Meaning: A Spanish term of address equivalent to sir or Mr., used alone or capitalized and prefixed to the name of a married or an older man.
 Example: N/A
 
+[2026-03-19 10:09:39] Word of the Day: helminthology
+Meaning: The branch of zoology related to the study of helminths (parasitic worms).
+Example: N/A
+
