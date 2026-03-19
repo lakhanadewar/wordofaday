@@ -10709,3 +10709,7 @@ Example: N/A
 Meaning: Occurring or located within a glacier
 Example: N/A
 
+[2026-03-19 18:33:36] Word of the Day: margins
+Meaning: The edge of the paper, typically left blank when printing but sometimes used for annotations etc.
+Example: N/A
+
