@@ -10713,3 +10713,7 @@ Example: N/A
 Meaning: The edge of the paper, typically left blank when printing but sometimes used for annotations etc.
 Example: N/A
 
+[2026-03-19 19:28:59] Word of the Day: halogenated
+Meaning: To treat with, or react with, a halogen or a hydrohalic acid
+Example: N/A
+
