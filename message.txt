@@ -10725,3 +10725,7 @@ Example: The quotient of two rationals is again a rational.
 Meaning: A woman who has given birth to more than one child.
 Example: N/A
 
+[2026-03-20 10:05:12] Word of the Day: barbiturates
+Meaning: Any salt or ester of barbituric acid.
+Example: N/A
+
