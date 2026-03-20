@@ -10721,3 +10721,7 @@ Example: N/A
 Meaning: A rational number: a number that can be expressed as the quotient of two integers.
 Example: The quotient of two rationals is again a rational.
 
+[2026-03-20 09:25:37] Word of the Day: multiparae
+Meaning: A woman who has given birth to more than one child.
+Example: N/A
+
