@@ -10717,3 +10717,7 @@ Example: N/A
 Meaning: To treat with, or react with, a halogen or a hydrohalic acid
 Example: N/A
 
+[2026-03-20 08:43:47] Word of the Day: rational
+Meaning: A rational number: a number that can be expressed as the quotient of two integers.
+Example: The quotient of two rationals is again a rational.
+
