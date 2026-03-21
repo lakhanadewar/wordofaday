@@ -10749,3 +10749,7 @@ Example: N/A
 Meaning: To criticize, to reprove
 Example: N/A
 
+[2026-03-21 09:01:46] Word of the Day: echidnas
+Meaning: Any of the species of small spined monotremes in family Tachyglossidae, the four extant species of which are found in Australia and southern New Guinea.
+Example: N/A
+
