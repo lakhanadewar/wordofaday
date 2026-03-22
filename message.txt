@@ -10791,3 +10791,7 @@ Example: N/A
 Meaning: A creature that maintains a stable internal body temperature regardless of external influence.
 Example: N/A
 
+[2026-03-22 17:15:07] Word of the Day: semis
+Meaning: A semi-detached house.
+Example: N/A
+
