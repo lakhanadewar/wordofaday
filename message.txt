@@ -10807,3 +10807,7 @@ Example: N/A
 Meaning: To renovate, revise, improve or renew.
 Example: They plan to revamp the historical theater in the old downtown.
 
+[2026-03-22 18:59:58] Word of the Day: millionaire
+Meaning: (strictly) A person whose net worth is at or greater than one million units of the local currency, but less than two million.
+Example: N/A
+
