@@ -10787,3 +10787,7 @@ Example: N/A
 Meaning: Any of many (often decorative) trees, shrubs and woody vines, of the genus Euonymus.
 Example: N/A
 
+[2026-03-22 10:01:50] Word of the Day: homeotherms
+Meaning: A creature that maintains a stable internal body temperature regardless of external influence.
+Example: N/A
+
