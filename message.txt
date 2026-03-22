@@ -10795,3 +10795,7 @@ Example: N/A
 Meaning: A semi-detached house.
 Example: N/A
 
+[2026-03-22 17:42:22] Word of the Day: speechified
+Meaning: To give a speech; to hold forth; to pronounce pompously or at length.
+Example: N/A
+
