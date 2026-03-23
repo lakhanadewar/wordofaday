@@ -10811,3 +10811,7 @@ Example: They plan to revamp the historical theater in the old downtown.
 Meaning: (strictly) A person whose net worth is at or greater than one million units of the local currency, but less than two million.
 Example: N/A
 
+[2026-03-23 08:59:03] Word of the Day: incorporates
+Meaning: To include (something) as a part.
+Example: The design of his house incorporates a spiral staircase.
+
