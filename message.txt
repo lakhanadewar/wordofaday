@@ -10815,3 +10815,7 @@ Example: N/A
 Meaning: To include (something) as a part.
 Example: The design of his house incorporates a spiral staircase.
 
+[2026-03-23 10:15:04] Word of the Day: pedaling
+Meaning: To operate a pedal attached to a wheel in a continuous circular motion.
+Example: to pedal one's loom
+
