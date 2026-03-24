@@ -10839,3 +10839,7 @@ Example: N/A
 Meaning: An object or other creation (e.g. narrative work) from which all later copies and variations are derived
 Example: This manuscript is the original.
 
+[2026-03-24 17:44:22] Word of the Day: splintering
+Meaning: To come apart into long sharp fragments.
+Example: The tall tree splintered during the storm.
+
