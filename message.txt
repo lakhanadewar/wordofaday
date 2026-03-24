@@ -10847,3 +10847,7 @@ Example: The tall tree splintered during the storm.
 Meaning: A recondite (hidden or obscure) person or thing.
 Example: N/A
 
+[2026-03-24 19:37:04] Word of the Day: ratfish
+Meaning: A fish of any of the species in family Chimaeridae.
+Example: N/A
+
