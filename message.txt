@@ -10851,3 +10851,7 @@ Example: N/A
 Meaning: A fish of any of the species in family Chimaeridae.
 Example: N/A
 
+[2026-03-25 08:54:27] Word of the Day: nuncle
+Meaning: Uncle.
+Example: N/A
+
