@@ -10859,3 +10859,7 @@ Example: N/A
 Meaning: Tending to produce a high-pitched sound or squeak.
 Example: N/A
 
+[2026-03-25 10:47:22] Word of the Day: masted
+Meaning: To supply and fit a mast to (a ship).
+Example: N/A
+
