@@ -10863,3 +10863,7 @@ Example: N/A
 Meaning: To supply and fit a mast to (a ship).
 Example: N/A
 
+[2026-03-25 17:47:30] Word of the Day: coolers
+Meaning: Anything which cools.
+Example: N/A
+
