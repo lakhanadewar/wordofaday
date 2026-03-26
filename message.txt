@@ -10879,3 +10879,7 @@ Example: N/A
 Meaning: To arrest for suspicious behaviour.
 Example: N/A
 
+[2026-03-26 10:08:49] Word of the Day: sojourning
+Meaning: To reside somewhere temporarily, especially as a guest or lodger.
+Example: N/A
+
