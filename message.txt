@@ -10891,3 +10891,7 @@ Example: N/A
 Meaning: Verbal exchange, conversation.
 Example: N/A
 
+[2026-03-26 19:41:02] Word of the Day: snarled
+Meaning: To entangle; to complicate; to involve in knots.
+Example: to snarl a skein of thread
+
