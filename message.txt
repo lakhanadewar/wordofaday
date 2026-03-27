@@ -10903,3 +10903,7 @@ Example: N/A
 Meaning: A ridge of sand along a shore that is partially or totally submerged and thus a hazard to shipping.
 Example: N/A
 
+[2026-03-27 17:39:52] Word of the Day: invective
+Meaning: An expression which inveighs or rails against a person.
+Example: N/A
+
