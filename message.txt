@@ -10907,3 +10907,7 @@ Example: N/A
 Meaning: An expression which inveighs or rails against a person.
 Example: N/A
 
+[2026-03-27 18:32:25] Word of the Day: spalled
+Meaning: To break into fragments or small pieces.
+Example: N/A
+
