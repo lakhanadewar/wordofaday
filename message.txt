@@ -10929,3 +10929,7 @@ Example: N/A
 Meaning: A stringed instrument of the violin family, somewhat larger than a violin, played under the chin, and having a deeper tone.
 Example: N/A
 
+[2026-03-28 17:48:01] Word of the Day: moussing
+Meaning: To apply mousse (styling cream).
+Example: He moussed his hair in the morning and then washed it out at night.
+
