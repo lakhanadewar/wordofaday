@@ -10941,3 +10941,7 @@ Example: N/A
 Meaning: A type of island consisting of a ribbon reef that nearly or entirely surrounds a lagoon and supports, in most cases, one to many islets on the reef platform. Atolls have a unique geology, so not all islands with a reef and a lagoon are atolls
 Example: N/A
 
+[2026-03-28 19:19:31] Word of the Day: sanguine
+Meaning: Blood colour; red.
+Example: N/A
+
