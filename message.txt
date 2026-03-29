@@ -10953,3 +10953,7 @@ Example: N/A
 Meaning: To make into a tenon.
 Example: First we'll tenon this part, then we'll make a mortise that will fit it on that part.
 
+[2026-03-29 09:59:03] Word of the Day: rebinding
+Meaning: To bind again.
+Example: N/A
+
