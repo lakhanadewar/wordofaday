@@ -10959,3 +10959,7 @@ Example: N/A
 
 [2026-03-29 17:26:42] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-03-29 17:53:36] Word of the Day: flickers
+Meaning: An unsteady flash of light.
+Example: the flicker of a poorly tuned television set
+
