@@ -10945,3 +10945,7 @@ Example: N/A
 Meaning: Blood colour; red.
 Example: N/A
 
+[2026-03-29 08:42:19] Word of the Day: loathly
+Meaning: Loathsome; hideous.
+Example: N/A
+
