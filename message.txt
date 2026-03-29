@@ -10967,3 +10967,7 @@ Example: the flicker of a poorly tuned television set
 Meaning: A rank in the classification of organisms, below kingdom and above class; also called a division, especially in describing plants; a taxon at that rank
 Example: Mammals belong to the phylum Chordata.
 
+[2026-03-29 19:04:07] Word of the Day: bumbershoots
+Meaning: An umbrella, especially when erroneously seen as a stereotypically English accessory.
+Example: It smells like rain. Perhaps we should take along a bumbershoot.
+
