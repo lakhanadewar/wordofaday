@@ -10963,3 +10963,7 @@ Example: N/A
 Meaning: An unsteady flash of light.
 Example: the flicker of a poorly tuned television set
 
+[2026-03-29 18:20:12] Word of the Day: phylum
+Meaning: A rank in the classification of organisms, below kingdom and above class; also called a division, especially in describing plants; a taxon at that rank
+Example: Mammals belong to the phylum Chordata.
+
