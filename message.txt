@@ -10975,3 +10975,7 @@ Example: It smells like rain. Perhaps we should take along a bumbershoot.
 Meaning: A sudden jerking movement.
 Example: N/A
 
+[2026-03-30 10:41:00] Word of the Day: bicolors
+Meaning: (Commonwealth spelling) A flower, cat etc., that has two colours.
+Example: N/A
+
