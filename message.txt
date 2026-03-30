@@ -10983,3 +10983,7 @@ Example: N/A
 Meaning: To break apart.
 Example: N/A
 
+[2026-03-30 18:37:14] Word of the Day: newborn
+Meaning: A recently born baby.
+Example: N/A
+
