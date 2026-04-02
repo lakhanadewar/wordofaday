@@ -11031,3 +11031,7 @@ Example: N/A
 Meaning: Any plant of the genus Antirrhinum of snapdragons.
 Example: N/A
 
+[2026-04-02 10:08:37] Word of the Day: isatin
+Meaning: The indole derivative 1H-indole-2,3-dione, used in the synthesis of dyes.
+Example: N/A
+
