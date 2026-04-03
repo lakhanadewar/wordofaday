@@ -11055,3 +11055,7 @@ Example: N/A
 Meaning: An adult male human.
 Example: The show is especially popular with middle-aged men.
 
+[2026-04-03 17:23:01] Word of the Day: gravies
+Meaning: A thick sauce made from the fat or juices that come out from meat or vegetables as they are being cooked.
+Example: N/A
+
