@@ -11047,3 +11047,7 @@ Example: N/A
 Meaning: To remove dirt from a place or object.
 Example: Can you clean the windows today?
 
+[2026-04-03 08:57:03] Word of the Day: routine
+Meaning: A course of action to be followed regularly; a standard procedure.
+Example: N/A
+
