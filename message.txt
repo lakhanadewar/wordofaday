@@ -11089,3 +11089,7 @@ Example: N/A
 Meaning: To use a trephine during surgery.
 Example: N/A
 
+[2026-04-04 18:19:51] Word of the Day: undersides
+Meaning: The side that is below or underneath, the bottom.
+Example: N/A
+
