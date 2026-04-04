@@ -11077,3 +11077,7 @@ Example: N/A
 Meaning: A collection of excerpts or quotes.
 Example: N/A
 
+[2026-04-04 10:00:18] Word of the Day: eardrop
+Meaning: Medicine to be administered to the ear.
+Example: N/A
+
