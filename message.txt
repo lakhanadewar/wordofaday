@@ -11115,3 +11115,7 @@ Example: N/A
 
 [2026-04-05 18:23:40] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-04-05 19:10:10] Word of the Day: dukes
+Meaning: The male ruler of a duchy (female equivalent: duchess).
+Example: N/A
+
