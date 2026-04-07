@@ -11137,3 +11137,7 @@ Example: N/A
 
 [2026-04-07 17:47:38] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-04-07 18:41:03] Word of the Day: divestment
+Meaning: The sale or other disposal of some kind of asset.
+Example: The fossil fuel divestment movement is calling on institutions to divest from the companies causing climate change.
+
