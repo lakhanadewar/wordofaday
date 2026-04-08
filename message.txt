@@ -11155,3 +11155,7 @@ Example: N/A
 Meaning: Someone who spreads worrying rumours or needlessly alarms people.
 Example: N/A
 
+[2026-04-08 18:58:39] Word of the Day: stutter
+Meaning: A speech disorder characterised by stuttering.
+Example: N/A
+
