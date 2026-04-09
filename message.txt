@@ -11167,3 +11167,7 @@ Example: N/A
 Meaning: The hindmost of the three sections of the thorax of an insect, carrying the posterior pair of legs and the hindwings when present.
 Example: N/A
 
+[2026-04-09 17:50:32] Word of the Day: furze
+Meaning: A thorny evergreen shrub, with yellow flowers, Ulex gen. et spp., of which Ulex europaeus is particularly common upon the plains and hills of Great Britain and Ireland.
+Example: N/A
+
