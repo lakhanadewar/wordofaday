@@ -11175,3 +11175,7 @@ Example: N/A
 Meaning: To transmit again.
 Example: The repeater retransmits the messages it receives.
 
+[2026-04-09 19:48:07] Word of the Day: phyllite
+Meaning: A type of metamorphic rock formed from clay-rich sediments called pelites.
+Example: N/A
+
