@@ -11159,3 +11159,7 @@ Example: N/A
 Meaning: A speech disorder characterised by stuttering.
 Example: N/A
 
+[2026-04-09 09:10:32] Word of the Day: quit
+Meaning: To pay (a debt, fine etc.).
+Example: N/A
+
