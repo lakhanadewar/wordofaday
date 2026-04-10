@@ -11179,3 +11179,7 @@ Example: The repeater retransmits the messages it receives.
 Meaning: A type of metamorphic rock formed from clay-rich sediments called pelites.
 Example: N/A
 
+[2026-04-10 09:12:14] Word of the Day: linstocks
+Meaning: A pointed forked staff, shod with iron at the foot, to hold a lighted match for firing cannon.
+Example: N/A
+
