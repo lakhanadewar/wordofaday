@@ -11231,3 +11231,7 @@ Example: N/A
 Meaning: To use biological senses: to either see, hear, smell, taste, or feel.
 Example: N/A
 
+[2026-04-12 17:24:28] Word of the Day: rehabbing
+Meaning: To rehabilitate.
+Example: N/A
+
