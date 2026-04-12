@@ -11239,3 +11239,7 @@ Example: N/A
 Meaning: An area of hostile territory (especially on a beach) that, when captured, serves for the continuous landing (or movement into position) of further troops and material
 Example: N/A
 
+[2026-04-12 18:32:02] Word of the Day: relinquishes
+Meaning: To give up, abandon or retire from something. To trade away.
+Example: to relinquish a title
+
