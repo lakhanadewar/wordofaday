@@ -11227,3 +11227,7 @@ Example: N/A
 Meaning: That explains, interprets, illustrates or elucidates.
 Example: N/A
 
+[2026-04-12 10:23:19] Word of the Day: sensing
+Meaning: To use biological senses: to either see, hear, smell, taste, or feel.
+Example: N/A
+
