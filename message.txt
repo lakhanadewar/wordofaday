@@ -11247,3 +11247,7 @@ Example: to relinquish a title
 Meaning: The person who graduates high school with the second-highest GPA and thus gets to give a salutatorian's address during the graduation ceremony.
 Example: N/A
 
+[2026-04-13 09:56:59] Word of the Day: worried
+Meaning: Thinking about unpleasant things that have happened or that might happen; feeling afraid and unhappy.
+Example: She was worried about her son who had been sent off to fight in the war.
+
