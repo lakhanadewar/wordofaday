@@ -11295,3 +11295,7 @@ Example: N/A
 Meaning: A commodity offered for sale.
 Example: That store offers a variety of products.  We've got to sell a lot of product by the end of the month.
 
+[2026-04-16 09:21:39] Word of the Day: karat
+Meaning: A unit of fineness or concentration of gold equalling 1/24 part of gold in an alloy.
+Example: N/A
+
