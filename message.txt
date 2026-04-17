@@ -11311,3 +11311,7 @@ Example: N/A
 Meaning: The side that is below or underneath, the bottom.
 Example: N/A
 
+[2026-04-17 09:20:00] Word of the Day: strophanthin
+Meaning: Any of several poisonous cardiac glycosides obtained from various African plants
+Example: N/A
+
