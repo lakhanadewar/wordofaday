@@ -11315,3 +11315,7 @@ Example: N/A
 Meaning: Any of several poisonous cardiac glycosides obtained from various African plants
 Example: N/A
 
+[2026-04-17 10:36:08] Word of the Day: deluging
+Meaning: To flood with water.
+Example: Some areas were deluged with a month's worth of rain in 24 hours.
+
