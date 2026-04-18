@@ -11351,3 +11351,7 @@ Example: N/A
 Meaning: To be grateful or thankful for.
 Example: I appreciate your efforts
 
+[2026-04-18 19:26:20] Word of the Day: floating
+Meaning: Of an object or substance, to be supported by a liquid of greater density than the object so as that part of the object or substance remains above the surface.
+Example: The boat floated on the water.
+
