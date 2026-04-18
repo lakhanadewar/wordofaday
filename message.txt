@@ -11341,3 +11341,7 @@ Example: The crossword compiler wasn't sure how to clue the word "should".
 Meaning: A decorative ball made of pieces of soft fabric bound at the centre, most notably used in cheerleading.
 Example: N/A
 
+[2026-04-18 17:26:45] Word of the Day: vitrifies
+Meaning: To convert into, or cause to resemble, glass or a glassy substance, by heat and fusion.
+Example: N/A
+
