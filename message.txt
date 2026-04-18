@@ -11333,3 +11333,7 @@ Example: N/A
 Meaning: A light source consisting of a wick embedded in a solid, flammable substance such as wax, tallow, or paraffin.
 Example: N/A
 
+[2026-04-18 09:46:12] Word of the Day: clued
+Meaning: To provide with a clue.
+Example: The crossword compiler wasn't sure how to clue the word "should".
+
