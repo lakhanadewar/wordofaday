@@ -11337,3 +11337,7 @@ Example: N/A
 Meaning: To provide with a clue.
 Example: The crossword compiler wasn't sure how to clue the word "should".
 
+[2026-04-18 10:27:03] Word of the Day: pompom
+Meaning: A decorative ball made of pieces of soft fabric bound at the centre, most notably used in cheerleading.
+Example: N/A
+
