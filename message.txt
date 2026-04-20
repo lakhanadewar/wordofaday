@@ -11387,3 +11387,7 @@ Example: N/A
 Meaning: A strong bad smell.
 Example: N/A
 
+[2026-04-20 19:46:42] Word of the Day: goiters
+Meaning: An enlargement of the front and sides of the neck caused by inflammation of the thyroid gland.
+Example: N/A
+
