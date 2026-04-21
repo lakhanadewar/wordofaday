@@ -11403,3 +11403,7 @@ Example: N/A
 
 [2026-04-21 18:51:17] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-04-21 19:50:55] Word of the Day: gestalt
+Meaning: A collection of physical, biological, psychological or symbolic elements that creates a whole, unified concept or pattern which is other than the sum of its parts, due to the relationships between the parts (of a character, personality, entity, or being)
+Example: This biography is the first one to consider fully the writer's gestalt.
+
