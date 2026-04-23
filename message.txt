@@ -11425,3 +11425,7 @@ Example: N/A
 Meaning: A parasite that causes leishmaniasis, a genus trypanosome protozoa, Leishmania.
 Example: N/A
 
+[2026-04-23 09:45:58] Word of the Day: bedizened
+Meaning: To ornament something in showy, tasteless, or gaudy finery.
+Example: N/A
+
