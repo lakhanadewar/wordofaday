@@ -11451,3 +11451,7 @@ Example: N/A
 Meaning: The science or the technique used to make a classification.
 Example: N/A
 
+[2026-04-24 18:26:54] Word of the Day: legitimise
+Meaning: To make legitimate.
+Example: N/A
+
