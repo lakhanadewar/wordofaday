@@ -11481,3 +11481,7 @@ Example: N/A
 
 [2026-04-26 19:11:01] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-04-27 10:18:54] Word of the Day: fulgurite
+Meaning: Glass formed by a lightning strike melting sand or other material
+Example: N/A
+
