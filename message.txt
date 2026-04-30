@@ -11515,3 +11515,7 @@ Example: N/A
 Meaning: A single action of sweeping.
 Example: Give the front steps a quick sweep to get rid of those fallen leaves.
 
+[2026-04-30 19:22:50] Word of the Day: excrescence
+Meaning: Something, usually abnormal, which grows out of something else.
+Example: N/A
+
