@@ -11535,3 +11535,7 @@ Example: N/A
 Meaning: Any of the five species of fish in the genus Sander of the family Percidae (perches and darters).
 Example: N/A
 
+[2026-05-01 19:51:51] Word of the Day: downpipes
+Meaning: The drainpipe that connects a roof-line gutter with the ground.
+Example: N/A
+
