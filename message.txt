@@ -11531,3 +11531,7 @@ Example: N/A
 Meaning: A young horse or related animal, especially just after birth or less than a year old.
 Example: N/A
 
+[2026-05-01 18:46:50] Word of the Day: pikeperch
+Meaning: Any of the five species of fish in the genus Sander of the family Percidae (perches and darters).
+Example: N/A
+
