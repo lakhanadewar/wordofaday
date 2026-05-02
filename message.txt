@@ -11551,3 +11551,7 @@ Example: N/A
 Meaning: Having a brown colour.
 Example: N/A
 
+[2026-05-02 18:30:34] Word of the Day: offsets
+Meaning: Anything that acts as counterbalance; a compensating equivalent.
+Example: Today's victory was an offset to yesterday's defeat.
+
