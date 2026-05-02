@@ -11555,3 +11555,7 @@ Example: N/A
 Meaning: Anything that acts as counterbalance; a compensating equivalent.
 Example: Today's victory was an offset to yesterday's defeat.
 
+[2026-05-02 19:34:14] Word of the Day: waveband
+Meaning: A range of electromagnetic wavelengths or frequencies; for example shortwave or mediumwave radio.
+Example: N/A
+
