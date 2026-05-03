@@ -11559,3 +11559,7 @@ Example: Today's victory was an offset to yesterday's defeat.
 Meaning: A range of electromagnetic wavelengths or frequencies; for example shortwave or mediumwave radio.
 Example: N/A
 
+[2026-05-03 09:22:45] Word of the Day: microcomputer
+Meaning: A computer designed around a microprocessor, smaller than a minicomputer or a mainframe.
+Example: N/A
+
