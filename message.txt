@@ -11579,3 +11579,7 @@ Example: N/A
 Meaning: A shift to a higher gear
 Example: N/A
 
+[2026-05-04 10:15:05] Word of the Day: aflatoxins
+Meaning: Any of a family of mycotoxins, produced by molds of the Aspergillus genus, that can be toxic, carcinogenic, mutagenic or teratogenic; typically found as contaminants of animal food or peanuts.
+Example: N/A
+
