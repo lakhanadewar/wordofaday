@@ -11591,3 +11591,7 @@ Example: N/A
 
 [2026-05-05 10:06:36] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-05-05 18:05:06] Word of the Day: overcompensate
+Meaning: To do an excessive amount in one area in an effort to overcome a perceived lack in another area.
+Example: N/A
+
