@@ -11599,3 +11599,7 @@ Example: N/A
 Meaning: A decoration; that which adorns.
 Example: The draperies did little to keep out the light; rather, they were mainly there as adornment for the windows.
 
+[2026-05-06 10:22:25] Word of the Day: cusec
+Meaning: A measure of the rate of flow of fluid, especially through a pipeline, equal to one cubic foot per second.
+Example: N/A
+
