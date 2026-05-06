@@ -11603,3 +11603,7 @@ Example: The draperies did little to keep out the light; rather, they were mainl
 Meaning: A measure of the rate of flow of fluid, especially through a pipeline, equal to one cubic foot per second.
 Example: N/A
 
+[2026-05-06 18:09:05] Word of the Day: modalities
+Meaning: The fact of being modal.
+Example: N/A
+
