@@ -11627,3 +11627,7 @@ Example: N/A
 Meaning: A liquid outpouring.
 Example: N/A
 
+[2026-05-08 18:01:25] Word of the Day: innocents
+Meaning: One who is innocent, especially a young child.
+Example: The slaughter of the innocents was a significant event in the New Testament.
+
