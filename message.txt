@@ -11639,3 +11639,7 @@ Example: N/A
 Meaning: Violet-colored.
 Example: N/A
 
+[2026-05-09 10:30:09] Word of the Day: erythrocytes
+Meaning: An anucleate hemoglobin-containing cell, especially as found in humans but more generally present in the blood of most vertebrates, that is involved with the transport of oxygen; a red blood cell.
+Example: N/A
+
