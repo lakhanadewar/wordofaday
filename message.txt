@@ -11649,3 +11649,7 @@ Example: N/A
 Meaning: Done by force, forced.
 Example: N/A
 
+[2026-05-09 19:41:16] Word of the Day: mismatches
+Meaning: To match unsuitably; to fail to match
+Example: N/A
+
