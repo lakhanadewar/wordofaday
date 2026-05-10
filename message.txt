@@ -11669,3 +11669,7 @@ Example: N/A
 Meaning: An astronaut, especially a Russian or Soviet one.
 Example: N/A
 
+[2026-05-10 19:42:15] Word of the Day: drawbar
+Meaning: An open-mouthed bar at the end of a car, which receives a coupling link and pin by which the car is drawn. It is usually provided with a spring to give elasticity to the connection between the cars of a train.
+Example: N/A
+
