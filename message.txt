@@ -11653,3 +11653,7 @@ Example: N/A
 Meaning: To match unsuitably; to fail to match
 Example: N/A
 
+[2026-05-10 09:39:03] Word of the Day: jailors
+Meaning: One who enforces confinement in a jail or prison.
+Example: N/A
+
