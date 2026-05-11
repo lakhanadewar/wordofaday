@@ -11677,3 +11677,7 @@ Example: N/A
 Meaning: Any of a number of species of tree or shrub in the genus Brachychiton.
 Example: N/A
 
+[2026-05-11 18:30:03] Word of the Day: biosensor
+Meaning: Any device that detects, records or transmits physiological data, especially data concerning the presence of chemical compounds (analytes)
+Example: N/A
+
