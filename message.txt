@@ -11673,3 +11673,7 @@ Example: N/A
 Meaning: An open-mouthed bar at the end of a car, which receives a coupling link and pin by which the car is drawn. It is usually provided with a spring to give elasticity to the connection between the cars of a train.
 Example: N/A
 
+[2026-05-11 11:24:22] Word of the Day: currajongs
+Meaning: Any of a number of species of tree or shrub in the genus Brachychiton.
+Example: N/A
+
