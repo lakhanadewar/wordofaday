@@ -11689,3 +11689,7 @@ Example: N/A
 Meaning: The lunate bone, or semilunar bone.
 Example: N/A
 
+[2026-05-12 18:27:30] Word of the Day: agronomist
+Meaning: A scientist whose speciality is agronomy.
+Example: N/A
+
