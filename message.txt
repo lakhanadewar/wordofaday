@@ -11685,3 +11685,7 @@ Example: N/A
 Meaning: To glaze again
 Example: N/A
 
+[2026-05-12 10:32:33] Word of the Day: semilunar
+Meaning: The lunate bone, or semilunar bone.
+Example: N/A
+
