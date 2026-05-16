@@ -11727,3 +11727,7 @@ Example: N/A
 Meaning: Lines of fire from multiple positions that cross in a small region
 Example: N/A
 
+[2026-05-16 17:43:57] Word of the Day: thro
+Meaning: Through
+Example: N/A
+
