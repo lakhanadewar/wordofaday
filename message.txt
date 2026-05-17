@@ -11739,3 +11739,7 @@ Example: N/A
 Meaning: Having the characteristics of a chameleon.
 Example: N/A
 
+[2026-05-17 10:56:32] Word of the Day: freckles
+Meaning: A small brownish or reddish pigmentation spot on the surface of the skin.
+Example: Steve has brown hair, blue eyes, and freckles on his cheeks and nose.
+
