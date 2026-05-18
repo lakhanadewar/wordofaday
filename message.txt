@@ -11755,3 +11755,7 @@ Example: The quickness of the hand deceives the eye.
 
 [2026-05-18 11:47:52] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-05-18 18:25:16] Word of the Day: almanacks
+Meaning: A book or table listing nautical, astronomical, astrological or other events for the year; sometimes, but not essentially, containing historical and statistical information.
+Example: N/A
+
