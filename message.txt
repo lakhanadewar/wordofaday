@@ -11763,3 +11763,7 @@ Example: N/A
 Meaning: Of or relating to a shaman or to shamanism.
 Example: N/A
 
+[2026-05-19 11:20:03] Word of the Day: elegize
+Meaning: To compose an elegy for.
+Example: N/A
+
