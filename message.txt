@@ -11783,3 +11783,7 @@ Example: N/A
 
 [2026-05-21 11:30:12] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-05-21 18:49:05] Word of the Day: uitlander
+Meaning: A foreigner; outlander.
+Example: N/A
+
