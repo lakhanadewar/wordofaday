@@ -11837,3 +11837,7 @@ Example: N/A
 
 [2026-05-28 19:34:47] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-05-29 11:30:43] Word of the Day: expand
+Meaning: To change (something) from a smaller form and/or size to a larger one; to spread out or lay open.
+Example: You can expand this compact umbrella to cover a large table.
+
