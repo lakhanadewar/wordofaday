@@ -11851,3 +11851,7 @@ Example: N/A
 
 [2026-05-30 17:56:40] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-05-30 18:52:29] Word of the Day: yielder
+Meaning: Someone or something that yields a crop or other product.
+Example: N/A
+
