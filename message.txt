@@ -11855,3 +11855,7 @@ Example: N/A
 Meaning: Someone or something that yields a crop or other product.
 Example: N/A
 
+[2026-05-30 19:58:55] Word of the Day: sadhus
+Meaning: An ascetic or practitioner of yoga (yogi) who has given up pursuit of the first three Hindu goals of life: kama (enjoyment), artha (practical objectives) and even dharma (duty).
+Example: N/A
+
