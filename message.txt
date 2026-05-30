@@ -11845,3 +11845,7 @@ Example: You can expand this compact umbrella to cover a large table.
 Meaning: A piece of land having a value of one pound per year
 Example: N/A
 
+[2026-05-30 10:01:48] Word of the Day: corroborators
+Meaning: One who corroborates, or verifies something; one who lends credence by upholding another's story.
+Example: N/A
+
