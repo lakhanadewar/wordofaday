@@ -11865,3 +11865,7 @@ Example: N/A
 
 [2026-05-31 17:53:32] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-05-31 18:55:03] Word of the Day: supervises
+Meaning: To oversee or direct a task or organization.
+Example: Without someone to supervise them, the group will lack direction.
+
