@@ -11887,3 +11887,7 @@ Example: N/A
 Meaning: A family of theories and methods within the field of psychotherapy that work to find connections among patients' unconscious mental processes
 Example: N/A
 
+[2026-06-03 20:11:10] Word of the Day: luminesced
+Meaning: To give off light, including in the invisible electromagnetic radiation frequencies, or become luminescent.
+Example: Phosphorus will only begin to luminesce at a certain small pressure of oxygen.
+
