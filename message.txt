@@ -11891,3 +11891,5 @@ Example: N/A
 Meaning: To give off light, including in the invisible electromagnetic radiation frequencies, or become luminescent.
 Example: Phosphorus will only begin to luminesce at a certain small pressure of oxygen.
 
+[2026-06-04 11:18:45] Failed to retrieve a unique word and its details after multiple attempts.
+
