@@ -11899,3 +11899,7 @@ Example: Phosphorus will only begin to luminesce at a certain small pressure of 
 Meaning: A person who hoots.
 Example: N/A
 
+[2026-06-05 18:52:21] Word of the Day: sharp
+Meaning: The symbol ♯, placed after the name of a note in the key signature or before a note on the staff to indicate that the note is to be played a semitone higher.
+Example: The pitch pipe sounded out a perfect F♯ (F sharp).
+
