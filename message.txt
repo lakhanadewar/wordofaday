@@ -11903,3 +11903,7 @@ Example: N/A
 Meaning: The symbol ♯, placed after the name of a note in the key signature or before a note on the staff to indicate that the note is to be played a semitone higher.
 Example: The pitch pipe sounded out a perfect F♯ (F sharp).
 
+[2026-06-05 20:43:38] Word of the Day: legitimatizing
+Meaning: To make legitimate.
+Example: N/A
+
