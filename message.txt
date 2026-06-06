@@ -11907,3 +11907,7 @@ Example: The pitch pipe sounded out a perfect F♯ (F sharp).
 Meaning: To make legitimate.
 Example: N/A
 
+[2026-06-06 10:05:23] Word of the Day: hydroxylated
+Meaning: To introduce a hydroxyl group into a compound
+Example: N/A
+
