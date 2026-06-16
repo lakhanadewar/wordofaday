@@ -11971,3 +11971,7 @@ Example: N/A
 Meaning: The middle of the three concentric layers that make up the eye; it is pigmented and vascular, and comprises the choroid, the ciliary body, and the iris.
 Example: N/A
 
+[2026-06-16 19:59:01] Word of the Day: anaptyxis
+Meaning: The epenthesis (insertion) of a vowel; svarabhakti: for example, the middle ‘-a-’ in thataway, or use of infixes -i- and -o- in coining English words on classical roots.
+Example: N/A
+
