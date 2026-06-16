@@ -11967,3 +11967,7 @@ Example: N/A
 
 [2026-06-15 20:20:49] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-06-16 12:54:46] Word of the Day: uvea
+Meaning: The middle of the three concentric layers that make up the eye; it is pigmented and vascular, and comprises the choroid, the ciliary body, and the iris.
+Example: N/A
+
