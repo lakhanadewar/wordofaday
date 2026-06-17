@@ -11979,3 +11979,7 @@ Example: N/A
 Meaning: A nozzle or similar fixture through which the blast is delivered to the interior of a blast furnace, or to the fire of a forge
 Example: N/A
 
+[2026-06-17 19:15:11] Word of the Day: unfading
+Meaning: Not fading; not losing its color or intensity, or being forgotten.
+Example: N/A
+
