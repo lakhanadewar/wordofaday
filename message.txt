@@ -11975,3 +11975,7 @@ Example: N/A
 Meaning: The epenthesis (insertion) of a vowel; svarabhakti: for example, the middle ‘-a-’ in thataway, or use of infixes -i- and -o- in coining English words on classical roots.
 Example: N/A
 
+[2026-06-17 12:17:19] Word of the Day: tuyeres
+Meaning: A nozzle or similar fixture through which the blast is delivered to the interior of a blast furnace, or to the fire of a forge
+Example: N/A
+
