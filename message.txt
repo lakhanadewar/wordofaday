@@ -11997,3 +11997,7 @@ Example: N/A
 Meaning: To compose or arrange such music.
 Example: N/A
 
+[2026-06-19 20:10:34] Word of the Day: hexachords
+Meaning: A series of six tones denoted with the syllables ut-re-mi-fa-sol-la separated by seconds, the only of which that is a minor second being mi-fa.
+Example: N/A
+
