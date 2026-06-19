@@ -11989,3 +11989,7 @@ Example: N/A
 Meaning: A person who spends much time in a bar or similar drinking establishment
 Example: N/A
 
+[2026-06-19 12:06:48] Word of the Day: milepost
+Meaning: A post on a highway, often with one or more fingerposts, showing the distance in miles to nearby places
+Example: N/A
+
