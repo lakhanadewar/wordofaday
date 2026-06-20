@@ -12005,3 +12005,7 @@ Example: N/A
 Meaning: A social gathering of several friends who get together to drink before going out to a party or a sports game. The goal of pre-gaming is to "get a buzz" before going out for the night.
 Example: N/A
 
+[2026-06-20 18:02:51] Word of the Day: lexis
+Meaning: The set of all words and phrases in a language; any unified subset of words from a particular language.
+Example: N/A
+
