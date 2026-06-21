@@ -12017,3 +12017,7 @@ Example: His condition continued to degenerate even after admission to hospital.
 Meaning: A prefabricated building.
 Example: N/A
 
+[2026-06-21 18:12:59] Word of the Day: atelectasis
+Meaning: The collapse of a part of or the whole lung caused by inner factors rather than a pneumothorax
+Example: N/A
+
