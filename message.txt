@@ -12041,3 +12041,7 @@ Example: N/A
 Meaning: Not corrupt, void of moral corruption
 Example: N/A
 
+[2026-06-24 10:51:25] Word of the Day: bemoan
+Meaning: To moan or complain about (something).
+Example: He bemoaned the drought but went on watering his lawn.
+
