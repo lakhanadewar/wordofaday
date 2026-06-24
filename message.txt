@@ -12045,3 +12045,7 @@ Example: N/A
 Meaning: To moan or complain about (something).
 Example: He bemoaned the drought but went on watering his lawn.
 
+[2026-06-24 18:24:54] Word of the Day: pared
+Meaning: To remove the outer covering or skin of something with a cutting device, typically a knife
+Example: Victor pared some apples in preparation to make a tart.
+
