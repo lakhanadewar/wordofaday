@@ -12057,3 +12057,7 @@ Example: N/A
 Meaning: A burial chamber.
 Example: N/A
 
+[2026-06-25 18:58:49] Word of the Day: preregistration
+Meaning: An early registration, before the normal time.
+Example: N/A
+
