@@ -12065,3 +12065,7 @@ Example: N/A
 Meaning: A consultant or consulting firm.
 Example: For a PR campaign like never before, one needs a consultancy of unprecedented scope and power.
 
+[2026-06-26 18:19:14] Word of the Day: minion
+Meaning: The lowest limit.
+Example: We need a minimum of three staff members on duty at all time.
+
