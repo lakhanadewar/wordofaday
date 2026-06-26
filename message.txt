@@ -12069,3 +12069,7 @@ Example: For a PR campaign like never before, one needs a consultancy of unprece
 Meaning: The lowest limit.
 Example: We need a minimum of three staff members on duty at all time.
 
+[2026-06-26 20:12:33] Word of the Day: calcareous
+Meaning: Resembling or containing calcium carbonate or limestone; chalky.
+Example: N/A
+
