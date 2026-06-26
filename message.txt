@@ -12061,3 +12061,7 @@ Example: N/A
 Meaning: An early registration, before the normal time.
 Example: N/A
 
+[2026-06-26 10:53:01] Word of the Day: consultancies
+Meaning: A consultant or consulting firm.
+Example: For a PR campaign like never before, one needs a consultancy of unprecedented scope and power.
+
