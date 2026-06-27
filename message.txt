@@ -12081,3 +12081,7 @@ Example: They were stoned, they were sawn asunder, were tempted, were slain with
 Meaning: Mother.
 Example: N/A
 
+[2026-06-27 18:56:07] Word of the Day: equinox
+Meaning: The intersection of the apparent path of the sun in the sky (the ecliptic) with the celestial equator.
+Example: N/A
+
