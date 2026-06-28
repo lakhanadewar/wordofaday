@@ -12085,3 +12085,7 @@ Example: N/A
 Meaning: The intersection of the apparent path of the sun in the sky (the ecliptic) with the celestial equator.
 Example: N/A
 
+[2026-06-28 10:28:29] Word of the Day: medicated
+Meaning: To prescribe or administer medication to.
+Example: N/A
+
