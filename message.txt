@@ -12089,3 +12089,7 @@ Example: N/A
 Meaning: To prescribe or administer medication to.
 Example: N/A
 
+[2026-06-28 17:56:10] Word of the Day: rufous
+Meaning: A reddish-brown colour, as of rust.
+Example: N/A
+
