@@ -12113,3 +12113,7 @@ Example: N/A
 Meaning: A legal sentence.
 Example: The penalty for his crime was to do hard labor.
 
+[2026-06-30 18:25:55] Word of the Day: goodwill
+Meaning: A favorably disposed attitude toward someone or something.
+Example: N/A
+
