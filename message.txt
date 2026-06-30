@@ -12109,3 +12109,7 @@ Example: Her suitors were all vying for her attention.
 Meaning: A macrophage, derived from bone marrow, found in connective tissue
 Example: N/A
 
+[2026-06-30 10:57:37] Word of the Day: penalty
+Meaning: A legal sentence.
+Example: The penalty for his crime was to do hard labor.
+
