@@ -12121,3 +12121,7 @@ Example: N/A
 Meaning: The male voice between tenor and bass
 Example: N/A
 
+[2026-07-01 11:24:42] Word of the Day: nameplates
+Meaning: A plate or plaque inscribed with a name.
+Example: the brass nameplate on the doctor's front door
+
