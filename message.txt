@@ -12137,3 +12137,7 @@ Example: N/A
 Meaning: Woody trees in family Rutaceae
 Example: N/A
 
+[2026-07-02 18:20:55] Word of the Day: rumour
+Meaning: A statement or claim of questionable accuracy, from no known reliable source, usually spread by word of mouth.
+Example: There's a rumor going round that he's going to get married.
+
