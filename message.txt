@@ -12147,3 +12147,7 @@ Example: There's a rumor going round that he's going to get married.
 Meaning: Any of a number of small insectivorous passerine birds, of the genus Vireo, that have grey-green plumage.
 Example: N/A
 
+[2026-07-03 18:05:51] Word of the Day: reverse
+Meaning: The opposite of something.
+Example: We believed the Chinese weren't ready for us. In fact, the reverse was true.
+
