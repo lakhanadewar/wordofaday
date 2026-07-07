@@ -12205,3 +12205,7 @@ Example: N/A
 Meaning: To hunt snipe.
 Example: N/A
 
+[2026-07-07 20:31:39] Word of the Day: feud
+Meaning: A state of long-standing mutual hostility.
+Example: You couldn't call it a feud exactly, but there had always been a chill between Phil Mickelson and Tiger Woods.
+
