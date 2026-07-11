@@ -12253,3 +12253,7 @@ Example: N/A
 Meaning: An indivisible unit of meaning.
 Example: N/A
 
+[2026-07-11 17:42:54] Word of the Day: homeys
+Meaning: Someone, particularly a friend or male acquaintance, from one's hometown.
+Example: N/A
+
