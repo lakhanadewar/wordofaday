@@ -12281,3 +12281,7 @@ Example: a teleconference service for touch-tones only
 Meaning: A soft membraneous spot on the head of a baby due to incomplete fusion of the cranial bones.
 Example: N/A
 
+[2026-07-12 19:44:58] Word of the Day: installments
+Meaning: One of a series of parts, whether equal or unequal to the other parts of the series, of a given entity or a given process, which part presents or is presented at a particular scheduled interval.
+Example: N/A
+
