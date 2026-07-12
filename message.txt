@@ -12277,3 +12277,7 @@ Example: N/A
 Meaning: A telephone with buttons that produce tones, one for each digit.
 Example: a teleconference service for touch-tones only
 
+[2026-07-12 18:38:18] Word of the Day: fontanelle
+Meaning: A soft membraneous spot on the head of a baby due to incomplete fusion of the cranial bones.
+Example: N/A
+
