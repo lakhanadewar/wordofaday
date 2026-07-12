@@ -12269,3 +12269,7 @@ Example: N/A
 Meaning: Partially, but not fully, autonomous.
 Example: Hong Kong is a semiautonomous region of China.
 
+[2026-07-12 11:05:28] Word of the Day: cerebrosides
+Meaning: Any of several glycosphingolipids found in the membranes of muscle and nervous tissue
+Example: N/A
+
