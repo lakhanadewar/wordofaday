@@ -12265,3 +12265,7 @@ Example: She awakened him by ringing the bell.
 Meaning: To make, transport and/or sell illegal alcoholic liquor.
 Example: N/A
 
+[2026-07-12 09:51:29] Word of the Day: semiautonomous
+Meaning: Partially, but not fully, autonomous.
+Example: Hong Kong is a semiautonomous region of China.
+
