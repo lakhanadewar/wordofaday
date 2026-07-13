@@ -12293,3 +12293,7 @@ Example: N/A
 Meaning: To confuse.
 Example: N/A
 
+[2026-07-13 19:54:00] Word of the Day: detonation
+Meaning: An explosion or sudden report made by the near-instantaneous decomposition or combustion of unstable substances. Specifically, combustion that spreads supersonically via shock compression.
+Example: the detonation of gun cotton
+
