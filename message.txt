@@ -12285,3 +12285,7 @@ Example: N/A
 Meaning: One of a series of parts, whether equal or unequal to the other parts of the series, of a given entity or a given process, which part presents or is presented at a particular scheduled interval.
 Example: N/A
 
+[2026-07-13 11:12:38] Word of the Day: mankind
+Meaning: The human race in its entirety.
+Example: N/A
+
