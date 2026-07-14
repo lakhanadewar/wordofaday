@@ -12309,3 +12309,7 @@ Example: N/A
 Meaning: To make such a turn.
 Example: N/A
 
+[2026-07-14 20:00:43] Word of the Day: hadron
+Meaning: A composite particle that comprises two or more quarks held together by the strong force and (consequently) can interact with other particles via said force; a meson or a baryon.
+Example: N/A
+
