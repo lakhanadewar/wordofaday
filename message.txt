@@ -12325,3 +12325,7 @@ Example: N/A
 Meaning: Speaking or singing.
 Example: N/A
 
+[2026-07-16 10:09:35] Word of the Day: homebred
+Meaning: A person or animal raised at home.
+Example: N/A
+
