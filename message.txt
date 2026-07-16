@@ -12329,3 +12329,7 @@ Example: N/A
 Meaning: A person or animal raised at home.
 Example: N/A
 
+[2026-07-16 17:57:14] Word of the Day: recapitulations
+Meaning: A subsequent brief recitement or enumeration of the major points in a narrative, article, or book.
+Example: N/A
+
