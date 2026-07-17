@@ -12349,3 +12349,7 @@ Example: N/A
 Meaning: A minced, cooked food (usually meat or vegetables), which is deep-fried in fat and sometimes sprinkled with breadcrumbs.
 Example: N/A
 
+[2026-07-17 19:46:55] Word of the Day: residence
+Meaning: The place where one lives; one's home.
+Example: N/A
+
