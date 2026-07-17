@@ -12345,3 +12345,7 @@ Example: N/A
 Meaning: The study of dialects.
 Example: N/A
 
+[2026-07-17 18:44:53] Word of the Day: croquettes
+Meaning: A minced, cooked food (usually meat or vegetables), which is deep-fried in fat and sometimes sprinkled with breadcrumbs.
+Example: N/A
+
