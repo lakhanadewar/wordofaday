@@ -12353,3 +12353,7 @@ Example: N/A
 Meaning: The place where one lives; one's home.
 Example: N/A
 
+[2026-07-18 09:26:49] Word of the Day: peeving
+Meaning: To annoy; vex.
+Example: He was peeved to note that his hard work had been undone.
+
