@@ -12381,3 +12381,7 @@ Example: N/A
 Meaning: A building containing a prison.
 Example: N/A
 
+[2026-07-19 17:44:55] Word of the Day: provocation
+Meaning: The act of provoking, inciting or annoying someone into doing something
+Example: N/A
+
