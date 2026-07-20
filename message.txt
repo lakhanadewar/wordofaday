@@ -12401,3 +12401,7 @@ Example: N/A
 Meaning: The property of being an artisan.
 Example: N/A
 
+[2026-07-20 20:12:07] Word of the Day: kobo
+Meaning: A subdivision of currency, equal to one hundredth of a Nigerian naira.
+Example: N/A
+
