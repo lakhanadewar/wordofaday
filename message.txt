@@ -12433,3 +12433,7 @@ Example: N/A
 Meaning: Without a hedge.
 Example: N/A
 
+[2026-07-23 18:04:17] Word of the Day: zabaglione
+Meaning: A custard-like dessert made with egg yolks, sugar and Marsala wine.
+Example: N/A
+
