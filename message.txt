@@ -12449,3 +12449,7 @@ Example: N/A
 Meaning: The amino acid dihydroxyphenylalanine that is generated in the liver from tyrosine and then converted into dopamine in the brain.
 Example: N/A
 
+[2026-07-24 19:42:35] Word of the Day: accent
+Meaning: A higher-pitched or stronger articulation of a particular syllable of a word or phrase in order to distinguish it from the others or to emphasize it.
+Example: In the word "careful", the accent is placed on the first syllable.
+
