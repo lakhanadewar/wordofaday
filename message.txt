@@ -12445,3 +12445,7 @@ Example: N/A
 Meaning: A spicy Spanish sausage flavoured with paprika.
 Example: N/A
 
+[2026-07-24 18:07:49] Word of the Day: dopa
+Meaning: The amino acid dihydroxyphenylalanine that is generated in the liver from tyrosine and then converted into dopamine in the brain.
+Example: N/A
+
