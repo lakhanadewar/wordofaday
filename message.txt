@@ -12453,3 +12453,7 @@ Example: N/A
 Meaning: A higher-pitched or stronger articulation of a particular syllable of a word or phrase in order to distinguish it from the others or to emphasize it.
 Example: In the word "careful", the accent is placed on the first syllable.
 
+[2026-07-25 09:48:50] Word of the Day: sensationalise
+Meaning: To glorify or inflate the importance of a piece of news; to artificially create a sensation.
+Example: N/A
+
