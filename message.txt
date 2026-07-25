@@ -12457,3 +12457,7 @@ Example: In the word "careful", the accent is placed on the first syllable.
 Meaning: To glorify or inflate the importance of a piece of news; to artificially create a sensation.
 Example: N/A
 
+[2026-07-25 10:57:19] Word of the Day: foremilk
+Meaning: The first milk drawn from a cow during milking; in humans, the milk secreted initially during breastfeeding, typically low in fat and rich in protein.
+Example: N/A
+
