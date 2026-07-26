@@ -12475,3 +12475,7 @@ Example: This painting shows little organization at first glance, but little by 
 Meaning: A short news story printed alongside a larger one.
 Example: N/A
 
+[2026-07-26 17:53:02] Word of the Day: arsenical
+Meaning: Any drug or other substance containing arsenic.
+Example: N/A
+
