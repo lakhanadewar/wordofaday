@@ -12491,3 +12491,7 @@ Example: N/A
 Meaning: To bring into musical accord.
 Example: N/A
 
+[2026-07-27 18:16:10] Word of the Day: campylobacters
+Meaning: Any bacteria of the genus Campylobacter; a principal cause of food poisoning
+Example: N/A
+
