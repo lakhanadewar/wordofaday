@@ -12507,3 +12507,7 @@ Example: N/A
 Meaning: A female arbiter.
 Example: N/A
 
+[2026-07-28 19:45:41] Word of the Day: endpaper
+Meaning: Either of two folded sheets of paper used to connect the front and back covers of a book to the first and last pages
+Example: N/A
+
