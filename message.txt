@@ -12527,3 +12527,7 @@ Example: N/A
 Meaning: A member of a mendicant Christian order such as the Augustinians, Carmelites (white friars), Franciscans (grey friars) or the Dominicans (black friars).
 Example: N/A
 
+[2026-07-30 18:06:27] Word of the Day: airline
+Meaning: A company that flies airplanes to transport people and goods.
+Example: N/A
+
