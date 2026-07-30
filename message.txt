@@ -12523,3 +12523,7 @@ Example: N/A
 Meaning: An ironworker.
 Example: N/A
 
+[2026-07-30 10:25:09] Word of the Day: friers
+Meaning: A member of a mendicant Christian order such as the Augustinians, Carmelites (white friars), Franciscans (grey friars) or the Dominicans (black friars).
+Example: N/A
+
