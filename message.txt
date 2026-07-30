@@ -12531,3 +12531,7 @@ Example: N/A
 Meaning: A company that flies airplanes to transport people and goods.
 Example: N/A
 
+[2026-07-30 19:45:28] Word of the Day: bougies
+Meaning: A tapered cylindrical instrument for introducing an object into a tubular anatomical structure, or to dilate such a structure, as with an esophageal bougie.
+Example: N/A
+
