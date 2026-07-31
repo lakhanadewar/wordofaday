@@ -12543,3 +12543,7 @@ Example: N/A
 Meaning: Flower cluster; a group or cluster of flowers arranged on a stem that is composed of a main branch or a complicated arrangement of branches.
 Example: N/A
 
+[2026-07-31 19:50:26] Word of the Day: moufflon
+Meaning: A species of wild sheep, Ovis orientalis musimon, syn. Ovis aries musimon, endemic to Sardinia and Corsica.
+Example: N/A
+
