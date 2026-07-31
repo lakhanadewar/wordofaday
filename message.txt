@@ -12535,3 +12535,7 @@ Example: N/A
 Meaning: A tapered cylindrical instrument for introducing an object into a tubular anatomical structure, or to dilate such a structure, as with an esophageal bougie.
 Example: N/A
 
+[2026-07-31 10:40:26] Word of the Day: herniae
+Meaning: A disorder in which a part of the body protrudes abnormally through a tear or opening in an adjacent part, especially of the abdomen.
+Example: N/A
+
