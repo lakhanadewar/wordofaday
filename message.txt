@@ -12547,3 +12547,7 @@ Example: N/A
 Meaning: A species of wild sheep, Ovis orientalis musimon, syn. Ovis aries musimon, endemic to Sardinia and Corsica.
 Example: N/A
 
+[2026-08-01 10:02:49] Word of the Day: republished
+Meaning: To publish once again; to print and distribute copies of a work that has previously been printed and distributed.
+Example: N/A
+
