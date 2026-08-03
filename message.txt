@@ -12579,3 +12579,7 @@ Example: N/A
 Meaning: A large, open boat made of skins stretched over a wooden frame that is propelled by paddles; used by the Eskimos for transportation.
 Example: N/A
 
+[2026-08-03 11:24:10] Word of the Day: anabatic
+Meaning: (of a warm air current) rising (up a slope)
+Example: N/A
+
