@@ -12605,3 +12605,7 @@ Example: N/A
 Meaning: From which all minerals have been removed.
 Example: N/A
 
+[2026-08-05 18:12:56] Word of the Day: desirability
+Meaning: The state of being desirable.
+Example: N/A
+
