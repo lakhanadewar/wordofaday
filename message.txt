@@ -12613,3 +12613,7 @@ Example: N/A
 Meaning: The craft of making paper.
 Example: N/A
 
+[2026-08-06 10:40:41] Word of the Day: razorback
+Meaning: (southeastern US) A thin feral pig.
+Example: N/A
+
