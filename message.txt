@@ -12621,3 +12621,7 @@ Example: N/A
 Meaning: Any of the genus Ceanothus of North American buckthorns.
 Example: N/A
 
+[2026-08-07 08:59:52] Word of the Day: doubling
+Meaning: To multiply by two.
+Example: The company doubled their earnings per share over last quarter.
+
