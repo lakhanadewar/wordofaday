@@ -12617,3 +12617,7 @@ Example: N/A
 Meaning: (southeastern US) A thin feral pig.
 Example: N/A
 
+[2026-08-07 00:17:03] Word of the Day: ceanothus
+Meaning: Any of the genus Ceanothus of North American buckthorns.
+Example: N/A
+
