@@ -12731,3 +12731,7 @@ Example: The merge of the two documents failed.
 Meaning: A small shoot or twig of a tree or other plant; a spray.
 Example: a sprig of laurel or of parsley
 
+[2026-08-11 19:39:03] Word of the Day: sidewinder
+Meaning: A North American rattlesnake, Crotalus cerastes, that inhabits lowland deserts.
+Example: N/A
+
