@@ -12727,3 +12727,7 @@ Example: N/A
 Meaning: The joining together of multiple sources.
 Example: The merge of the two documents failed.
 
+[2026-08-11 18:35:44] Word of the Day: sprig
+Meaning: A small shoot or twig of a tree or other plant; a spray.
+Example: a sprig of laurel or of parsley
+
