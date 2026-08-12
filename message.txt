@@ -12739,3 +12739,7 @@ Example: N/A
 Meaning: To trust to the care of.
 Example: Can I entrust you with a secret?
 
+[2026-08-12 10:27:24] Word of the Day: imperiling
+Meaning: To put into peril; to place in danger.
+Example: N/A
+
