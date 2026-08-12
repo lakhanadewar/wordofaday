@@ -12735,3 +12735,7 @@ Example: a sprig of laurel or of parsley
 Meaning: A North American rattlesnake, Crotalus cerastes, that inhabits lowland deserts.
 Example: N/A
 
+[2026-08-12 09:12:11] Word of the Day: intrusting
+Meaning: To trust to the care of.
+Example: Can I entrust you with a secret?
+
