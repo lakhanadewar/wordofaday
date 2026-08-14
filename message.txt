@@ -12771,3 +12771,7 @@ Example: N/A
 Meaning: A waft; a brief, gentle breeze; a light gust of air
 Example: N/A
 
+[2026-08-14 09:07:54] Word of the Day: betokens
+Meaning: To signify by some visible object; show by signs or tokens.
+Example: N/A
+
