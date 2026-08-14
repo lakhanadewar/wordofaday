@@ -12775,3 +12775,7 @@ Example: N/A
 Meaning: To signify by some visible object; show by signs or tokens.
 Example: N/A
 
+[2026-08-14 10:15:05] Word of the Day: naval
+Meaning: Of or relating to a navy.
+Example: N/A
+
