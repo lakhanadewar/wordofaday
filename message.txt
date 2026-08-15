@@ -12815,3 +12815,7 @@ Example: N/A
 Meaning: One who teases.
 Example: N/A
 
+[2026-08-15 17:32:08] Word of the Day: loadmaster
+Meaning: The member of an aircrew responsible for the loading and internal stowage of heavy cargo (so as to minimise the disruption of the aircraft's trim).
+Example: N/A
+
