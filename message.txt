@@ -12831,3 +12831,7 @@ Example: N/A
 Meaning: A particular region defined by its weather or climate.
 Example: After working hard all of his life, Max retired to warmer climes in Florida.
 
+[2026-08-15 18:51:10] Word of the Day: misstates
+Meaning: To make a statement that is in error, inadvertently; to say incorrectly, through a slip of the tongue.
+Example: The speaker misstated the year of his grandfather's birth by a hundred years, but it was an honest mistake: how often does one speak of the 1800s?
+
