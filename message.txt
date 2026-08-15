@@ -12803,3 +12803,7 @@ Example: N/A
 Meaning: To calibrate for a second or subsequent time
 Example: N/A
 
+[2026-08-15 09:53:56] Word of the Day: bullied
+Meaning: Having been a victim of a bully.
+Example: N/A
+
