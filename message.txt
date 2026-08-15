@@ -12795,3 +12795,7 @@ Example: The apprehended rioter was bludgeoned to death.
 Meaning: A small portable telescope.
 Example: N/A
 
+[2026-08-15 08:57:26] Word of the Day: anticorruption
+Meaning: Movement or actions opposing corruption.
+Example: N/A
+
