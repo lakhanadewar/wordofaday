@@ -12841,3 +12841,7 @@ Example: The speaker misstated the year of his grandfather's birth by a hundred 
 Meaning: A fireproof barrier used to prevent the spread of fire between or through buildings, structures, electrical substation transformers, or within an aircraft or vehicle.
 Example: N/A
 
+[2026-08-16 08:58:58] Word of the Day: estrus
+Meaning: A biting fly of the genus Oestrus; a botfly.
+Example: N/A
+
