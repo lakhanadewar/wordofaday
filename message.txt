@@ -12849,3 +12849,7 @@ Example: N/A
 Meaning: Any of a group of enzymes, containing flavin, that act as dehydrogenases
 Example: N/A
 
+[2026-08-16 09:56:06] Word of the Day: hemoglobin
+Meaning: The iron-containing substance in red blood cells that transports oxygen from the lungs to the rest of the body; it consists of a protein (globulin), and haem (a porphyrin ring with an atom of iron at its centre).
+Example: N/A
+
