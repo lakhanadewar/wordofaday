@@ -12837,3 +12837,7 @@ Example: The speaker misstated the year of his grandfather's birth by a hundred 
 
 [2026-08-15 19:09:28] Failed to retrieve a unique word and its details after multiple attempts.
 
+[2026-08-16 08:30:31] Word of the Day: firewall
+Meaning: A fireproof barrier used to prevent the spread of fire between or through buildings, structures, electrical substation transformers, or within an aircraft or vehicle.
+Example: N/A
+
