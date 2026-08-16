@@ -12865,3 +12865,7 @@ Example: N/A
 Meaning: To disembowel, to remove the viscera.
 Example: N/A
 
+[2026-08-16 17:55:51] Word of the Day: breadwinner
+Meaning: The primary income-earner in a household.
+Example: N/A
+
