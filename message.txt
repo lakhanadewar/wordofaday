@@ -12853,3 +12853,7 @@ Example: N/A
 Meaning: The iron-containing substance in red blood cells that transports oxygen from the lungs to the rest of the body; it consists of a protein (globulin), and haem (a porphyrin ring with an atom of iron at its centre).
 Example: N/A
 
+[2026-08-16 17:09:13] Word of the Day: sails
+Meaning: A piece of fabric attached to a boat and arranged such that it causes the wind to drive the boat along. The sail may be attached to the boat via a combination of mast, spars and ropes.
+Example: N/A
+
