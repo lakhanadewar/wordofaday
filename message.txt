@@ -12893,3 +12893,7 @@ Example: N/A
 Meaning: The act or practice of robbing.
 Example: N/A
 
+[2026-08-17 17:14:43] Word of the Day: lookup
+Meaning: An attempt to retrieve data.
+Example: My database lookup failed because I misspelled the word.
+
