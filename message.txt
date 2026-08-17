@@ -12881,3 +12881,7 @@ Example: N/A
 Meaning: To make the sound expressed by the word hem; to hesitate in speaking.
 Example: N/A
 
+[2026-08-17 08:44:22] Word of the Day: paternal
+Meaning: Of or pertaining to one's father, his genes, his relatives, or his side of a family
+Example: paternal grandfather
+
