@@ -12901,3 +12901,7 @@ Example: My database lookup failed because I misspelled the word.
 Meaning: To straighten something that has been rolled, twisted or curled.
 Example: Unroll your sleeping bag and spread it on the floor of the tent.
 
+[2026-08-17 18:02:11] Word of the Day: polytheism
+Meaning: The belief in the existence of multiple gods.
+Example: N/A
+
