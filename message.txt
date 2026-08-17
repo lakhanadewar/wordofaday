@@ -12897,3 +12897,7 @@ Example: N/A
 Meaning: An attempt to retrieve data.
 Example: My database lookup failed because I misspelled the word.
 
+[2026-08-17 17:44:06] Word of the Day: unrolling
+Meaning: To straighten something that has been rolled, twisted or curled.
+Example: Unroll your sleeping bag and spread it on the floor of the tent.
+
