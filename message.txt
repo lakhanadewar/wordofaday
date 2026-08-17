@@ -12905,3 +12905,7 @@ Example: Unroll your sleeping bag and spread it on the floor of the tent.
 Meaning: The belief in the existence of multiple gods.
 Example: N/A
 
+[2026-08-17 18:48:10] Word of the Day: decay
+Meaning: The process or result of being gradually decomposed.
+Example: N/A
+
