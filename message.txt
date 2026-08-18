@@ -12943,3 +12943,7 @@ Example: N/A
 Meaning: To make something the property of a community.
 Example: N/A
 
+[2026-08-18 19:09:34] Word of the Day: goosefoot
+Meaning: Any of many flowering plants, of the subfamily Chenopodioideae, having small greenish flowers.
+Example: N/A
+
