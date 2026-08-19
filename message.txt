@@ -12951,3 +12951,7 @@ Example: N/A
 Meaning: An arthropod in the class Insecta, characterized by six legs, up to four wings, and a chitinous exoskeleton.
 Example: Our shed has several insect infestions, including ants, yellowjackets, and wasps.
 
+[2026-08-19 09:15:14] Word of the Day: sleepers
+Meaning: Someone who sleeps.
+Example: I'm a light sleeper: I get woken up by the smallest of sounds.
+
