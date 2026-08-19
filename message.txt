@@ -12947,3 +12947,7 @@ Example: N/A
 Meaning: Any of many flowering plants, of the subfamily Chenopodioideae, having small greenish flowers.
 Example: N/A
 
+[2026-08-19 08:38:10] Word of the Day: insect
+Meaning: An arthropod in the class Insecta, characterized by six legs, up to four wings, and a chitinous exoskeleton.
+Example: Our shed has several insect infestions, including ants, yellowjackets, and wasps.
+
