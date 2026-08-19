@@ -12963,3 +12963,7 @@ Example: N/A
 Meaning: One of the Cerambycidae (longhorn beetles).
 Example: N/A
 
+[2026-08-19 17:14:34] Word of the Day: incontinent
+Meaning: One who is unchaste.
+Example: N/A
+
