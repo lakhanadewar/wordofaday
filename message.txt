@@ -12967,3 +12967,7 @@ Example: N/A
 Meaning: One who is unchaste.
 Example: N/A
 
+[2026-08-19 17:39:36] Word of the Day: blocked
+Meaning: To fill (something) so that it is not possible to pass.
+Example: The pipe is blocked.
+
