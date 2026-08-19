@@ -12971,3 +12971,7 @@ Example: N/A
 Meaning: To fill (something) so that it is not possible to pass.
 Example: The pipe is blocked.
 
+[2026-08-19 17:55:33] Word of the Day: testier
+Meaning: Easily annoyed, irritable.
+Example: N/A
+
