@@ -12955,3 +12955,7 @@ Example: Our shed has several insect infestions, including ants, yellowjackets, 
 Meaning: Someone who sleeps.
 Example: I'm a light sleeper: I get woken up by the smallest of sounds.
 
+[2026-08-19 09:52:25] Word of the Day: corroboration
+Meaning: The act of corroborating, strengthening, or confirming; addition of strength; confirmation
+Example: N/A
+
