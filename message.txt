@@ -13015,3 +13015,7 @@ Example: N/A
 Meaning: A prefix (honorific) or suffix (post-nominal) added to a person's name to signify either veneration, official position or a professional or academic qualification. See also
 Example: N/A
 
+[2026-08-20 19:19:29] Word of the Day: nanometers
+Meaning: An SI subunit of length equal to 10-9 metres. Symbol: nm
+Example: N/A
+
