@@ -12989,3 +12989,7 @@ Example: N/A
 Meaning: To move at the pace of a dogtrot
 Example: N/A
 
+[2026-08-20 09:16:21] Word of the Day: allophones
+Meaning: Any of two or more alternative pronunciations for a phoneme.
+Example: [ʋ] is occasionally considered to be an allophone of /v/
+
