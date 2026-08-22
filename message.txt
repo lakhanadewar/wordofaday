@@ -13077,3 +13077,7 @@ Example: N/A
 Meaning: The different ideal.
 Example: N/A
 
+[2026-08-22 18:27:41] Word of the Day: tomb
+Meaning: A small building (or "vault") for the remains of the dead, with walls, a roof, and (if it is to be used for more than one corpse) a door. It may be partly or wholly in the ground (except for its entrance) in a cemetery, or it may be inside a church proper or in its crypt. Single tombs may be permanently sealed; those for families (or other groups) have doors for access whenever needed.
+Example: N/A
+
