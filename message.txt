@@ -13103,3 +13103,7 @@ Example: N/A
 Meaning: A tropical marine turtle, Eretmochelys imbricata, that is a source of tortoiseshell.
 Example: N/A
 
+[2026-08-23 17:31:36] Word of the Day: conspecifics
+Meaning: An organism belonging to the same species as another.
+Example: N/A
+
