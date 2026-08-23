@@ -13111,3 +13111,7 @@ Example: N/A
 Meaning: One side of a ship above the water line; all the guns on one side of a warship; their simultaneous firing.
 Example: N/A
 
+[2026-08-23 17:58:07] Word of the Day: alum
+Meaning: An astringent salt, usually occurring in the form of pale crystals, much used in the dyeing and tanning trade and in certain medicines, and now understood to be a double sulphate of potassium and aluminium (K2SO4·Al2(SO4)3·24H2O).
+Example: N/A
+
