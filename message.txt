@@ -13107,3 +13107,7 @@ Example: N/A
 Meaning: An organism belonging to the same species as another.
 Example: N/A
 
+[2026-08-23 17:47:17] Word of the Day: broadside
+Meaning: One side of a ship above the water line; all the guns on one side of a warship; their simultaneous firing.
+Example: N/A
+
