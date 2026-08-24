@@ -13135,3 +13135,7 @@ Example: N/A
 Meaning: A member of a staff.
 Example: The politician had a staffer send out the prepared statement.
 
+[2026-08-24 10:19:27] Word of the Day: keeks
+Meaning: A look, especially a quick one; a peek.
+Example: She had a keek at the boy seated behind her who was busily writing something.
+
