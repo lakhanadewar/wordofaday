@@ -13147,3 +13147,7 @@ Example: N/A
 Meaning: The wife of a rabbi.
 Example: N/A
 
+[2026-08-24 18:15:30] Word of the Day: jellyfish
+Meaning: An almost transparent aquatic animal; any one of the acalephs, especially one of the larger species, having a jellylike appearance.
+Example: N/A
+
