@@ -13187,3 +13187,7 @@ Example: N/A
 Meaning: A boy; especially, a boy servant.
 Example: N/A
 
+[2026-08-26 18:30:41] Word of the Day: chairs
+Meaning: An item of furniture used to sit on or in, comprising a seat, legs, back, and sometimes arm rests, for use by one person. Compare stool, couch, sofa, settee, loveseat and bench.
+Example: All I need to weather a snowstorm is hot coffee, a warm fire, a good book and a comfortable chair.
+
